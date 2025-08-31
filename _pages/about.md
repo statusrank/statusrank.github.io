@@ -25,6 +25,7 @@ My research interest includes machine learning and data mining. I have authored 
 
 
 # 🔥 News
+- *2025.09.13*: We are organizing the forum "Efficient Training and Inference of Large Models" at the [CSIG Young Scientists Conference 2025](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA). Welcome to join us! 
 - *2025.08.01*: Our team won the **<font color='red'> 1st Place Award </font>** in ICCV 2025 Competition for High-Quality Face Dataset Generation (DataCV Challenge), with one paper accepted by ICCV 2025 workshop!
 - *2025.06.30*: &nbsp;🎉🎉 My PhD Thesis "Toward Efficient and Generalizable Collaborative Metric Learning Algorithms" (in Chinese) has been selected as the Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院百篇优博论文)
 - *2025.06.18*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'> 1st Place Award </font>** in CVPR 2025 Workshop on Compositional 3D Vision (C3DV 3DCoMPaT-200, Coarse-Grained GCR Track)
@@ -164,7 +165,7 @@ Qingdao University (QDU), Qingdao.
 
 *2025.08*:  &nbsp;  [Efficient and Generalizable Robust Collaborative Ranking](https://github.com/statusrank/statusrank.github.io/tree/main/docs/ChinaMM25.pdf). [\[Website\]](https://ccf.org.cn/ChinaMM2025/news_d_3177)
 
-Abstract: Collaborative Ranking, as one of the core technologies supporting tasks such as representation learning, content retrieval, and multimedia recommendation, often encounters challenges when dealing with large-scale, low-value-density, and highly diverse web data. These challenges include limited representation capacity, low computational efficiency, and poor robustness, which severely hinder the generalization ability of models. Existing research primarily focuses on model architecture design and loss function optimization, while systematic theoretical analysis regarding generalization performance remains relatively unexplored. There is an urgent need to improve the corresponding theoretical and algorithmic frameworks. To address this, this report introduces a generalization theory framework for collaborative ranking. Based on this theory, we further guide the design and optimization of ranking algorithms, aiming to develop robust collaborative ranking methods that are both efficient and generalizable.
+**Abstract**: Collaborative Ranking, as one of the core technologies supporting tasks such as representation learning, content retrieval, and multimedia recommendation, often encounters challenges when dealing with large-scale, low-value-density, and highly diverse web data. These challenges include limited representation capacity, low computational efficiency, and poor robustness, which severely hinder the generalization ability of models. Existing research primarily focuses on model architecture design and loss function optimization, while systematic theoretical analysis regarding generalization performance remains relatively unexplored. There is an urgent need to improve the corresponding theoretical and algorithmic frameworks. This report introduces a generalization theory framework for collaborative ranking. Based on this theory, we further guide the design and optimization of ranking algorithms, aiming to develop robust collaborative ranking methods that are both efficient and generalizable.
 
 </div>
 </div>
