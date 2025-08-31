@@ -159,10 +159,13 @@ Qingdao University (QDU), Qingdao.
 
 # 💬 Invited Talks
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[ChinaMM 2025 Special Forum 22: Trustworthy Multimedia Learning </div><img src='images/ChinaMM2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ChinaMM 2025 Special Forum 22: Trustworthy Multimedia Learning </div><img src='images/ChinaMM2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*2025.08*:  &nbsp;  [Efficient and Generalizable Robust Collaborative Ranking](https://). [\[Website\]](https://ccf.org.cn/ChinaMM2025/news_d_3177)
+*2025.08*:  &nbsp;  [Efficient and Generalizable Robust Collaborative Ranking](https://github.com/statusrank/statusrank.github.io/tree/main/docs/ChinaMM25.pdf). [\[Website\]](https://ccf.org.cn/ChinaMM2025/news_d_3177)
+
+Abstract: Collaborative Ranking, as one of the core technologies supporting tasks such as representation learning, content retrieval, and multimedia recommendation, often encounters challenges when dealing with large-scale, low-value-density, and highly diverse web data. These challenges include limited representation capacity, low computational efficiency, and poor robustness, which severely hinder the generalization ability of models. Existing research primarily focuses on model architecture design and loss function optimization, while systematic theoretical analysis regarding generalization performance remains relatively unexplored. There is an urgent need to improve the corresponding theoretical and algorithmic frameworks. To address this, this report introduces a generalization theory framework for collaborative ranking. Based on this theory, we further guide the design and optimization of ranking algorithms, aiming to develop robust collaborative ranking methods that are both efficient and generalizable.
+
 </div>
 </div>
 
