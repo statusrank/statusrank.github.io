@@ -25,6 +25,7 @@ My research interest includes machine learning and data mining. I have authored 
 
 
 # 🔥 News
+- *2025.08.01*: Our team won the **<font color='red'> 1st Place Award </font>** in ICCV 2025 Competition for High-Quality Face Dataset Generation (DataCV Challenge), with one paper accepted by ICCV 2025 workshop!
 - *2025.06.30*: &nbsp;🎉🎉 My PhD Thesis "Toward Efficient and Generalizable Collaborative Metric Learning Algorithms" (in Chinese) has been selected as the Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院百篇优博论文)
 - *2025.06.18*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'> 1st Place Award </font>** in CVPR 2025 Workshop on Compositional 3D Vision (C3DV 3DCoMPaT-200, Coarse-Grained GCR Track)
 - *2025.06.12*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'> 1st Place Award </font>** in CVPR 2025 Competition for Fine-grained Video Understanding (EgoVis HoloAssist Challenges: Mistake Detection Track).
@@ -118,6 +119,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - Multimedia Systems: Reviewer
 
 # 🎖 Honors and Awards
+- *2025* **<font color='red'> 1st Place Award </font>** in ICCV 2025 Competition for High-Quality Face Dataset Generation (DataCV Challenge)
 - *2025* Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院优秀博士学位论文，中科院<font color='red'>全学科100篇</font>)
 - *2025* **<font color='red'> 1st Place Award </font>** at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track Challenge, 2025)
 - *2025* **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, 2025)
@@ -156,18 +158,24 @@ Qingdao University (QDU), Qingdao.
 </div>
 
 # 💬 Invited Talks
-- *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
-  
-- *2022.11*: &nbsp; Oral presentation at NeurIPS conference [\[Video\]](https://nips.cc/virtual/2022/poster/55412).
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[ChinaMM 2025 Special Forum 22: Trustworthy Multimedia Learning </div><img src='images/ChinaMM2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*2025.08*:  &nbsp;  [Efficient and Generalizable Robust Collaborative Ranking](https://). [\[Website\]](https://ccf.org.cn/ChinaMM2025/news_d_3177)
+</div>
+</div>
+
+- *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
+- *2022.11*: &nbsp; Oral presentation at NeurIPS conference [\[Video\]](https://nips.cc/virtual/2022/poster/55412).
 
 
 # 💻 Fundings and Project
 
-
-- *2025.07*: &nbsp; General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助)
-- *2025.06*: &nbsp; Special Research Assistant Funding Program of the Chinese Academy of Sciences (中国科学院特别研究助理资助项目)
-- *2024.07*: &nbsp; Postdoctoral Fellowship Program of CPSF (中国博士后科学基金会国家资助博士后研究人员计划（B档）)
+- *2025.08*: &nbsp; Young Scientists Fund of the National Natural Science Foundation of China (NSFC青年基金C类, No.62502496)
+- *2025.07*: &nbsp; General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助, No.2025M771492)
+- *2025.06*: &nbsp; CAS Special Research Assistant Talent Support Program (中国科学院特别研究助理资助项目)
+- *2024.07*: &nbsp; Postdoctoral Fellowship Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金会国家资助博士后研究人员计划（B档）, No.GZB20240729)
  
 
 <!-- <div class='school-box'>
