@@ -43,9 +43,8 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 <!-- - *2024.05.2*: &nbsp;🎉🎉 Three papers have been accepted by ICML 2024 (One is Spotlight). Congrats to all! -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
 
-## Highlight Paper
+# ✨ Highlight Paper 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 (Oral)</div><img src='images/dpcml_nips22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [The Minority Matters: A Diversity-Promoting Collaborative Metric Learning Algorithm](https://arxiv.org/pdf/2209.15292.pdf).
@@ -71,6 +70,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 </div>
 </div>
 
+# 📝 Publications 
 ## 2025
 
 - [One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework for Diffusion Models](https://arxiv.org/pdf/2505.11131). Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Xiaochun Cao, Qingming Huang. International Conference on Machine Learning (ICML), 2025. \|[\[Code\]](https://github.com/Ferry-Li/Co-Erasing)\|
