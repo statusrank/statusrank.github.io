@@ -19,10 +19,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Shilong Bao(包世龙, E-mail: baoshilong@ucas.ac.cn). Now I am a Post-doc Fellow with the School of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS). I got my Ph.D. degree in **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also lucky to have opportunities to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at Institute of Computing Technology (ICT), CAS), [Xiaochun Cao (操晓春)](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (Dean of School of Cyber Science and Technology, Sun Yat-sen University),  [Yuan He (何源)](https://scholar.google.com/citations?user=cWbXLzgAAAAJ&hl=zh-CN) (Alibaba Group), [Ke Ma (马坷)](https://www.researchgate.net/profile/Ke_Ma10) (Tenure-track Assistant Professor at UCAS), [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Tenure-track Assistant Professor at UCAS).
+Hi! I'm Shilong Bao(包世龙, E-mail: baoshilong@ucas.ac.cn). Now I am a Post-doc Fellow with the School of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS). I got my Ph.D. degree in **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also lucky to have opportunities to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at Institute of Computing Technology (ICT), CAS), [Xiaochun Cao (操晓春)](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (Dean of School of Cyber Science and Technology, Sun Yat-sen University), [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Tenure-track Assistant Professor at UCAS).
 
-My research interest includes machine learning and data mining. I have authored or co-authored several academic papers in top-tier international conferences and journals, including T-PAMI, ICML, NeurIPS, and ACM Multimedia.
+My research interests primarily lie in machine learning and AI safety, with a particular focus on:
+- Theory of Learning to Rank and its Derived Algorithms
+- AUC-oriented Learning and its Applications (e.g., downstream computer vision tasks)
+- Safe AI Models and Algorithms (e.g., certified/adversarial robustness, robust and fair generative models)
 
+**<font color='red'> I am always open to academic collaboration—please feel free to contact me if you are interested. </font>**
 
 # 🔥 News
 - *2025.09.13*: We are organizing the forum "Efficient Training and Inference of Large Models" at the [CSIG Young Scientists Conference 2025](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA). Welcome to join us! 
@@ -103,14 +107,14 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 # 📖 Services
 
 ### Conferences
- - *ICML*: PC Member (2022, 2023, 2024, 2025)
- - *ICLR*: PC Member (2024, 2025)
- - *NeurIPS*: PC Member (2023, 2024, 2025)
- - *CVPR*: PC Member (2024, 2025)
+ - *ICML*: PC Member (2022-2025)
+ - *ICLR*: PC Member (2024-2026)
+ - *NeurIPS*: PC Member (2023-2025)
+ - *CVPR*: PC Member (2024-2025)
  - *ICCV*: PC Member (2025)
  - *WACV*: PC Member (2025)
- - *AAAI*: PC Member (2023, 2024, 2025)
- - *AISTATS*: PC Member (2025)
+ - *AAAI*: PC Member (2023-2025)
+ - *AISTATS*: PC Member (2025-2026)
 
 ### Journals
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI): Reviewer
