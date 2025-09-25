@@ -116,6 +116,8 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 # 📝 Publications 
 ## 2025
 
+- [LightFair: Towards an Efficient Alternative for Fair T2I Diffusion via Debiasing Pre-trained Text Encoders](https://). Boyu Han, Qianqian Xu,**Shilong Bao**, Zhiyong Yang, Kangli Zi, and Qingming Huang. Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. \|[\[Code\]](https://)\|
+
 - [One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework for Diffusion Models](https://arxiv.org/pdf/2505.11131). Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Xiaochun Cao, Qingming Huang. International Conference on Machine Learning (ICML), 2025. \|[\[Code\]](https://github.com/Ferry-Li/Co-Erasing)\|
 
 - [MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrödinger Bridges](https://arxiv.org/pdf/2505.08809?). Shixi Qin, Zhiyong Yang, **Shilong Bao**, Shi Wang, Qianqian Xu, Qingming Huang. International Conference on Machine Learning (ICML), 2025. \|[\[Code\]](https://github.com/qsx830/MixBridge)\|
