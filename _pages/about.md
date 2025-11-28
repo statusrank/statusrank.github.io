@@ -121,7 +121,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 - [LightFair: Towards an Efficient Alternative for Fair T2I Diffusion via Debiasing Pre-trained Text Encoders](https://arxiv.org/abs/2509.23639). Boyu Han, Qianqian Xu,**Shilong Bao**, Zhiyong Yang, Kangli Zi, and Qingming Huang. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. \|[\[Code\]](https://github.com/boyuh/LightFair)\|
 
-- [One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework for Diffusion Models](https://arxiv.org/pdf/2505.11131). Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Xiaochun Cao, Qingming Huang. International Conference on Machine Learning (ICML), 2025. \|[\[Code\]](https://github.com/Ferry-Li/Co-Erasing)\|
+- [One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework for Diffusion Models](https://arxiv.org/pdf/2505.11131). Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Xiaochun Cao, Qingming Huang. International Conference on Machine Learning (**ICML**), 2025. \|[\[Code\]](https://github.com/Ferry-Li/Co-Erasing)\|
 
 - [MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrödinger Bridges](https://arxiv.org/pdf/2505.08809?). Shixi Qin, Zhiyong Yang, **Shilong Bao**, Shi Wang, Qianqian Xu, Qingming Huang. International Conference on Machine Learning (**ICML**), 2025. \|[\[Code\]](https://github.com/qsx830/MixBridge)\|
 
@@ -181,6 +181,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - *2025* **<font color='red'> 1st Place Award </font>** at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track Challenge, 2025)
 - *2025* **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, 2025)
 - *2025* ICLR Notable Reviewer (480/all) 
+- *2025* Young Elite Scientists Sponsorship Program of the Beijing High Innovation Plan (北京"高创计划"-青年人才托举工程)
 - *2024* Outstanding Doctoral Dissertation Award of Beijing Society of Image and Graphics (BSIG). (北京图象图形学学会优秀博士学位论文奖 (<font color='red'> 京津冀5篇 </font>))
 - *2023* Zhuliyuehua Scholarship for Excellent Doctoral Student, CAS. (中国科学院朱李月华奖学金，中科院共300人)
 - *2022* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
