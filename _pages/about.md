@@ -175,8 +175,8 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - Multimedia Systems: Reviewer
 
 ### Others
-- *2025.11 * &nbsp; **Chair** of Beijing Youth Science and Technology Salon: Multimodal Intelligent Perception and Cross-modal Computing [(北京青年科技沙龙)](https://mp.weixin.qq.com/s/pbxasNprMey2aul4Tx_TOg)
-- *2025.08 * &nbsp;  **Co-chair** of Efficient Training and Inference of Large Models at the [CSIG Young Scientists Conference 2025](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA)
+- *2025.11* &nbsp; **Program Chair** of Beijing Youth Science and Technology Salon: Multimodal Intelligent Perception and Cross-modal Computing [(北京青年科技沙龙)](https://mp.weixin.qq.com/s/pbxasNprMey2aul4Tx_TOg)
+- *2025.08* &nbsp;  **Co-chair** of Efficient Training and Inference of Large Models at the [CSIG Young Scientists Conference 2025](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA)
 
 # 🎖 Honors and Awards
 - *2025* ACM China Excellent Doctoral Dissertation Award Normination  (<font color='red'>5 papers in China</font>)
