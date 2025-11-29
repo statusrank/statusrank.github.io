@@ -31,6 +31,7 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 # 🔥 News
 
 - *2025.11.15*-: One paper has been accepted by TPAMI 2025!
+- *2025.10.12*: &nbsp;🎉🎉 My PhD Thesis "Toward Efficient and Generalizable Collaborative Metric Learning Algorithms" (in Chinese) has been selected as the ACM China Excellent Doctoral Dissertation Normination Award (totally 5 papers in China) (ACM China 优博奖提名)
 - *2025.09.20*: One paper has been accepted by NeurIPS 2025!
 - *2025.09.15*: One paper has been accepted by T-PAMI!
 - *2025.09.13*: We are organizing the forum "Efficient Training and Inference of Large Models" at the [CSIG Young Scientists Conference 2025](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA). Welcome to join us! 
@@ -117,7 +118,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 # 📝 Publications 
 ## 2025
 
-- [Closing the Approximation Gap of Partial AUC Optimization: A Tale of Two Formulations](https://).  Yangbangyan Jiang, Qianqian Xu, Huiyang Shao, Zhiyong Yang, **Shilong Bao**, Xiaochun Cao and Qingming Huang.IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2025. \|[\[Code\]](https://)\|
+- [Closing the Approximation Gap of Partial AUC Optimization: A Tale of Two Formulations](https://ieeexplore.ieee.org/document/11268965).  Yangbangyan Jiang, Qianqian Xu, Huiyang Shao, Zhiyong Yang, **Shilong Bao**, Xiaochun Cao and Qingming Huang.IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2025. \|[\[Code\]](https://)\|
 
 - [LightFair: Towards an Efficient Alternative for Fair T2I Diffusion via Debiasing Pre-trained Text Encoders](https://arxiv.org/abs/2509.23639). Boyu Han, Qianqian Xu,**Shilong Bao**, Zhiyong Yang, Kangli Zi, and Qingming Huang. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. \|[\[Code\]](https://github.com/boyuh/LightFair)\|
 
@@ -173,6 +174,10 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM): Reviewer
 - Multimedia Systems: Reviewer
 
+### Others
+- *2025.11 * &nbsp; **Chair** of Beijing Youth Science and Technology Salon: Multimodal Intelligent Perception and Cross-modal Computing [(北京青年科技沙龙)](https://mp.weixin.qq.com/s/pbxasNprMey2aul4Tx_TOg)
+- *2025.08 * &nbsp;  **Co-chair** of Efficient Training and Inference of Large Models at the [CSIG Young Scientists Conference 2025](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA)
+
 # 🎖 Honors and Awards
 - *2025* ACM China Excellent Doctoral Dissertation Award Normination  (<font color='red'>5 papers in China</font>)
 - *2025* ACM China SIGMM Excellent Doctoral Dissertation Award (<font color='red'>3 papers in total</font>)
@@ -216,6 +221,16 @@ Qingdao University (QDU), Qingdao.
 </div>
 
 # 💬 Invited Talks
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> MLNLP 2025: Large Molde Security </div><img src='images/Talk_at_MLNLP_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*2025.11*:  &nbsp;  [Towards Harmless Multimodal Generation: Challenges and Preliminary Pathways
+](https://github.com/statusrank/statusrank.github.io/tree/main/docs/MLNLP2025.pdf). [\[Website\]](https://mlnlp.org/mlnlp2025/) \| [\[Video\]](https://)
+
+**Abstract**: Generative AI is reshaping digital creation, but its potential for harmful generation remains a bottleneck to real-world deployment. This talk reports our early efforts toward harmless generation along three strands: (i) avoiding harmful content via targeted model unlearning; (ii) mitigating generation bias with lightweight fair interventions; and (iii) exposing backdoor vulnerabilities to inform robust defenses. Across empirical studies, these directions preserve utility while showing encouraging effectiveness, pointing to promising avenues for future work.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ChinaMM 2025 Special Forum 22: Trustworthy Multimedia Learning </div><img src='images/ChinaMM2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
