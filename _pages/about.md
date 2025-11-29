@@ -179,8 +179,8 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - *2025.08* &nbsp;  **Co-chair** of Efficient Training and Inference of Large Models at the [CSIG Young Scientists Conference 2025](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA)
 
 # 🎖 Honors and Awards
-- *2025* ACM China Excellent Doctoral Dissertation Award Normination  (<font color='red'>5 papers in China</font>)
-- *2025* ACM China SIGMM Excellent Doctoral Dissertation Award (<font color='red'>3 papers in total</font>)
+- *2025* ACM China Excellent Doctoral Dissertation Award Normination  (ACM中国优博奖提名, <font color='red'>5 papers in China</font>)
+- *2025* ACM China SIGMM Excellent Doctoral Dissertation Award (ACM中国SigMM优博, <font color='red'>3 papers in total</font>)
 - *2025* Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院优秀博士学位论文，中科院<font color='red'>全学科100篇</font>)
 - *2025* **<font color='red'> 1st Place Award </font>** in ICCV 2025 Competition for High-Quality Face Dataset Generation (DataCV Challenge)
 - *2025* **<font color='red'> 1st Place Award </font>** at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track Challenge, 2025)
@@ -194,7 +194,6 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - *2017* The ACM-ICPC Asia Regional Contest Qingdao Site 2017 <font color='red'> Silver Medal </font> (ACM-ICPC 亚洲区域赛 (青岛站))
 - *2017* The ACM-ICPC Asia Regional Contest Xian Site 2017 <font color='red'> Bronze Medal </font> (ACM-ICPC 亚洲区域赛 (西安站))
 - *2017* 3rd China Collegiate Programming Contest Harbin Site <font color='red'> Bronze Medal </font> (第三届中国大学生程序设计竞赛 CCPC (哈尔滨站))
-
 
 # 🎓 Educations
 
