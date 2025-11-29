@@ -30,7 +30,7 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 
 # 🔥 News
 
-- *2025.11.15*-: One paper has been accepted by TPAMI 2025!
+- *2025.11.15*-: One paper has been accepted by T-PAMI 2025!
 - *2025.10.12*: &nbsp;🎉🎉 My PhD Thesis "Toward Efficient and Generalizable Collaborative Metric Learning Algorithms" (in Chinese) has been selected as the ACM China Excellent Doctoral Dissertation Normination Award (totally 5 papers in China) (ACM China 优博奖提名)
 - *2025.09.20*: One paper has been accepted by NeurIPS 2025!
 - *2025.09.15*: One paper has been accepted by T-PAMI!
@@ -160,11 +160,11 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 ### Conferences
  - *ICML*: PC Member (2022-2025)
  - *ICLR*: PC Member (2024-2026)
- - *NeurIPS*: PC Member (2023-2025)
- - *CVPR*: PC Member (2024-2025)
+ - *NeurIPS*: PC Member (2023-2026)
+ - *CVPR*: PC Member (2024-2026)
  - *ICCV*: PC Member (2025)
  - *WACV*: PC Member (2025)
- - *AAAI*: PC Member (2023-2025)
+ - *AAAI*: PC Member (2023-2026)
  - *AISTATS*: PC Member (2025-2026)
 
 ### Journals
