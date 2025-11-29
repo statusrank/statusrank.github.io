@@ -247,10 +247,12 @@ Qingdao University (QDU), Qingdao.
 
 # 💻 Fundings and Project
 
-- *2025.08*: &nbsp; Young Scientists Fund of the National Natural Science Foundation of China (NSFC青年基金C类, No.62502496)
-- *2025.07*: &nbsp; General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助, No.2025M771492)
-- *2025.06*: &nbsp; CAS Special Research Assistant Talent Support Program (中国科学院特别研究助理资助项目)
-- *2024.07*: &nbsp; Postdoctoral Fellowship Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金会国家资助博士后研究人员计划（B档）, No.GZB20240729)
+- *2025.08*: &nbsp; Young Scientists Fund of the National Natural Science Foundation of China (NSFC青年基金C类, No.62502496, <font color='red'> PI </font>)
+- *2025.07*: &nbsp; General Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金面上资助, No.2025M771492, <font color='red'> PI </font>)
+- *2025.06*: &nbsp; CAS Special Research Assistant Talent Support Program (中国科学院特别研究助理资助项目, <font color='red'> PI </font>)
+- *2025.07*: &nbsp; Beijing Youth Science and Technology Salon (北京青年科技沙龙项目, <font color='red'> PI </font>)
+- *2025.01*: &nbsp; National Natural Science Foundation of China (NSFC), Special Project (NSFC专项项目, No. 62441232, <font color='red'> Core Member </font>)
+- *2024.07*: &nbsp; Postdoctoral Fellowship Program of the Chinese Postdoctoral Science Foundation (中国博士后科学基金会国家资助博士后研究人员计划（B档）, No.GZB20240729, <font color='red'> PI </font>)
  
 
 <!-- <div class='school-box'>
