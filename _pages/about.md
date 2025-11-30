@@ -28,6 +28,9 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 
 **<font color='red'> I am always open to academic collaboration—please feel free to contact me if you are interested. </font>**
 
+
+包世龙 (邮箱：baoshilong@ucas.ac.cn)，现为中国科学院大学博士后、特别研究助理 (合作导师：黄庆明教授)，研究方向为机器学习基础理论与人工智能安全，已在 CCF-A 类期刊/会议发表论文20余篇 (一作论文7篇)，其中TPAMI 9 篇 (IF:18.6，一作4篇)、NeurIPS/ICML 11篇等，并有多篇入选Oral/Spotlight论文。先后入选中国博士后科学基金国家资助博士后研究人员计划、北京市“高创计划”青年人才托举工程、中国科学院特别研究助理项目等人才支持计划；获 ACM China 优博奖提名（全国共5人）、ACM China SigMM 优博奖（共3人）、北京图象图形学学会优秀博士学位论文奖（京津冀共5篇）、中国科学院优秀博士学位论文奖（全学科 100 篇）、中国科学院信息工程研究所所长特别奖等荣誉奖励，并斩获多项 CCF-A 类会议国际竞赛冠军。相关成果已在国家计算机网络与信息安全管理中心、广州海关缉私局等单位成功应用，在涉黄、涉爆、涉政、涉税、涉管制物项等下游风险监测任务中发挥了重要作用，展现出显著的社会与应用价值。项目承担方面，先后主持国家自然科学基金青年项目（C类）、中国博士后科学基金面上及国家资助博士后计划等多项国家级课题，并参与中科院先导 B、国家自然科学基金专项等重大项目。
+
 # 🔥 News
 
 - *2025.11.15*-: One paper has been accepted by T-PAMI 2025!
