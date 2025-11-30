@@ -233,7 +233,7 @@ Qingdao University (QDU), Qingdao.
 <div class='paper-box-text' markdown="1">
 
 *2025.11*:  &nbsp;  [Towards Harmless Multimodal Generation: Challenges and Preliminary Pathways
-](https://github.com/statusrank/statusrank.github.io/tree/main/docs/MLNLP2025.pdf). [\[Website\]](https://mlnlp.org/mlnlp2025/) \| [\[Video\]](https://)
+](https://github.com/statusrank/statusrank.github.io/tree/main/docs/MLNLP2025.pdf). [\[Website\]](https://mlnlp.org/mlnlp2025/) \| [\[Video\]](https://www.bilibili.com/video/BV1QCScB1EtP/?spm_id_from=333.1387.favlist.content.click&vd_source=7592ab667b6943a549ce3810b5d1166e)
 
 **Abstract**: Generative AI is reshaping digital creation, but its potential for harmful generation remains a bottleneck to real-world deployment. This talk reports our early efforts toward harmless generation along three strands: (i) avoiding harmful content via targeted model unlearning; (ii) mitigating generation bias with lightweight fair interventions; and (iii) exposing backdoor vulnerabilities to inform robust defenses. Across empirical studies, these directions preserve utility while showing encouraging effectiveness, pointing to promising avenues for future work.
 </div>
