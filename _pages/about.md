@@ -18,7 +18,7 @@ redirect_from:
 # About Me
 
 <span class='anchor' id='about-me'></span>
-
+<p style="text-align: justify; text-justify: inter-word;">
 Hi! I'm Shilong Bao(包世龙, E-mail: baoshilong@ucas.ac.cn). Now I am a Post-doc Fellow with the School of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS). I got my Ph.D. degree in **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also lucky to have opportunities to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at Institute of Computing Technology (ICT), CAS), [Xiaochun Cao (操晓春)](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (Dean of School of Cyber Science and Technology, Sun Yat-sen University), [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Tenure-track Assistant Professor at UCAS).
 
 My research interests primarily lie in machine learning and AI safety, with a particular focus on:
@@ -27,7 +27,7 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 - Safe AI Models and Algorithms (e.g., certified/adversarial robustness, robust and fair generative models)
 
 **<font color='red'> I am always open to academic collaboration—please feel free to contact me if you are interested. </font>**
-
+</p>
 -----
 
 <p style="text-align: justify; text-justify: inter-word;">
