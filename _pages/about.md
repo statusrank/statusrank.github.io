@@ -37,14 +37,14 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 **<font color='red'> 欢迎对鲁棒机器学习、大模型安全、推荐系统等方向感兴趣的同学联系科研合作与实习机会。 </font>**
 
 # 🔥 News
-
-- *2026.2.1*-: &nbsp;🎉🎉 I expect to join the Institute of Computing Technology, Chinese Academy of Sciences (CAS) this July as an Assistant Professor.
-- *2025.11.15*-: One paper has been accepted by T-PAMI 2025!
+- *2026.2.21*: &nbsp;🎉🎉 Two paper have been accepted by CVPR 2026. Congrat to Boyu and FerryLi
+- *2026.2.1*: &nbsp;🎉🎉 I expect to join the Institute of Computing Technology, Chinese Academy of Sciences (CAS) this July as an Assistant Professor.
+- *2025.11.15*: One paper has been accepted by T-PAMI 2025!
 - *2025.10.12*: &nbsp;🎉🎉 My PhD Thesis "Toward Efficient and Generalizable Collaborative Metric Learning Algorithms" (in Chinese) has been selected as the ACM China Excellent Doctoral Dissertation Normination Award (totally 5 papers in China) (ACM China 优博奖提名)
-- *2025.09.20*: One paper has been accepted by NeurIPS 2025!
-- *2025.09.15*: One paper has been accepted by T-PAMI!
-- *2025.09.13*: We are organizing the forum "Efficient Training and Inference of Large Models" at the [CSIG Young Scientists Conference 2025](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA). Welcome to join us! 
-- *2025.08.01*: Our team won the **<font color='red'> 1st Place Award </font>** in ICCV 2025 Competition for High-Quality Face Dataset Generation (DataCV Challenge), with one paper accepted by ICCV 2025 workshop!
+- *2025.09.20*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2025!
+- *2025.09.15*: &nbsp;🎉🎉 One paper has been accepted by T-PAMI!
+- *2025.09.13*: &nbsp;🎉🎉 We are organizing the forum "Efficient Training and Inference of Large Models" at the [CSIG Young Scientists Conference 2025](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA). Welcome to join us! 
+- *2025.08.01*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in ICCV 2025 Competition for High-Quality Face Dataset Generation (DataCV Challenge), with one paper accepted by ICCV 2025 workshop!
 - *2025.06.30*: &nbsp;🎉🎉 My PhD Thesis "Toward Efficient and Generalizable Collaborative Metric Learning Algorithms" (in Chinese) has been selected as the Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院百篇优博论文)
 - *2025.06.18*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'> 1st Place Award </font>** in CVPR 2025 Workshop on Compositional 3D Vision (C3DV 3DCoMPaT-200, Coarse-Grained GCR Track)
 - *2025.06.12*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'> 1st Place Award </font>** in CVPR 2025 Competition for Fine-grained Video Understanding (EgoVis HoloAssist Challenges: Mistake Detection Track).
