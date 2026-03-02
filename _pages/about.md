@@ -284,15 +284,15 @@ Qingdao University (QDU), Qingdao.
 
 XCurve focuses on **the design criteria of the objective function for ML tasks**, which can be formulated as a series of X-metric (say AUROC, AUPRC, AUTKC) optimization problems considering the **average performance of all decision thresholds** during the training phase. Welcome to try now and give us feedback! -->
 
-# 💻 Students
+# 🎓 Students
 ## Current Students (Co-supervised / Assisted in Supervision)
-- 韩博宇, Ph.D. student (2*NeurIPS, 1*CVPR)
-- 李斐然, Ph.D. student (2*ICML, 1*CVPR)
-- 华聪, Ph.D. student (2*ICML), 入选中国科协青年科技人才培育工程博士生专项计划
-- 秦世熙, Ph.D. student (1*ICML)
-- 崔若晨, Ph.D. student
-- 李玉海, Ph.D. student
-- 钟玉杰, Master student
+- 韩博宇, Ph.D. Student (NeurIPS*2, CVPR*1)
+- 李斐然, Ph.D. Student (ICML*2, CVPR*1)
+- 华聪, Ph.D. Student (ICML*2), 入选中国科协青年科技人才培育工程博士生专项计划
+- 秦世熙, Ph.D. Student (ICML*1)
+- 崔若晨, Ph.D. Student
+- 李玉海, Ph.D. Student
+- 钟玉杰, Master Student
 
 ## Former Students (Co-supervised / Assisted in Supervision)
 - 侯文政, Master, 小红书 (国家奖学金)
