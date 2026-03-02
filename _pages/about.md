@@ -126,8 +126,8 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 # 📝 Publications 
 ## 2026
-- Boyu Han, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Ruochen Cui, Xilin Zhao, and Qingming Huang. [Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation](https://). IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted) \|[\[Code\]](https://)\|
-- Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Xilin Zhao, Xiaochun Cao, and Qingming Huang. [BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation](https://). IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted) \|[\[Code\]](https://)\
+- [Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation](https://). Boyu Han, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Ruochen Cui, Xilin Zhao, and Qingming Huang. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted) \|[\[Code\]](https://)\|
+- [BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation](https://). Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Xilin Zhao, Xiaochun Cao, and Qingming Huang. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted) \|[\[Code\]](https://)\
 
 ## 2025
 
