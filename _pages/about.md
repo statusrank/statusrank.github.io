@@ -145,28 +145,28 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 ## 2024
 
-- [AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation](https://arxiv.org/abs/2409.20398). Boyu Han, Qianqian Xu, Zhiyong Yang, **Shilong Bao**, Peisong Wen, Yangbangyan Jiang and Qingming Huang. Advances in Neural Information Processing Systems (**NeurIPS**), 2024. \|[\[Code\]](https://github.com/boyuh/AUCSeg)\|
+- [AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation](https://arxiv.org/abs/2409.20398). <br> Boyu Han, Qianqian Xu, Zhiyong Yang, **Shilong Bao**, Peisong Wen, Yangbangyan Jiang and Qingming Huang. <br> Advances in Neural Information Processing Systems (**NeurIPS**), 2024. \|[\[Code\]](https://github.com/boyuh/AUCSeg)\|
 
-- [ReconBoost: Boosting Can Achieve Modality Reconcilement](https://arxiv.org/abs/2405.09321). Cong Hua, Qianqian Xu, **Shilong Bao**, Zhiyong Yang and Qingming Huang. International Conference on Machine Learning (**ICML**), 2024 \| [\[Code\]](https://github.com/huacong/ReconBoost) \|
+- [ReconBoost: Boosting Can Achieve Modality Reconcilement](https://arxiv.org/abs/2405.09321). <br> Cong Hua, Qianqian Xu, **Shilong Bao**, Zhiyong Yang and Qingming Huang. <br> International Conference on Machine Learning (**ICML**), 2024 \| [\[Code\]](https://github.com/huacong/ReconBoost) \|
 
-- [Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition](https://arxiv.org/pdf/2405.07780). Zhiyong Yang, Qianqian Xu, Zitai Wang, Sicong Li, Boyu Han, **Shilong Bao**, Xiaochun Cao and Qingming Huang. International Conference on Machine Learning (**ICML**), 2024 \| [\[Code\]](https://github.com/scongl/DirMixE) \|
+- [Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition](https://arxiv.org/pdf/2405.07780). <br> Zhiyong Yang, Qianqian Xu, Zitai Wang, Sicong Li, Boyu Han, **Shilong Bao**, Xiaochun Cao and Qingming Huang. <br> International Conference on Machine Learning (**ICML**), 2024 \| [\[Code\]](https://github.com/scongl/DirMixE) \|
 
 ## Earlier Publications
 
-- [Revisiting AUC-oriented Adversarial Training with Loss-Agnostic Perturbations](https://ieeexplore.ieee.org/abstract/document/10214340). Zhiyong Yang, Qianqian Xu, Wenzheng Hou, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2023. \| [\[Code\]](https://github.com/statusrank/AUC-Oriented-Adversarial-Training) \|
+- [Revisiting AUC-oriented Adversarial Training with Loss-Agnostic Perturbations](https://ieeexplore.ieee.org/abstract/document/10214340). <br> Zhiyong Yang, Qianqian Xu, Wenzheng Hou, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming Huang. <br> IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2023. \| [\[Code\]](https://github.com/statusrank/AUC-Oriented-Adversarial-Training) \|
 
-- [AUC-Oriented Domain Adaptation: From Theory to Algorithm](https://ieeexplore.ieee.org/abstract/document/10214222). Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Peisong Wen, Yuan He, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2023. \| [\[Code\]](https://github.com/statusrank/AUC-Oriented-Domain-Adaptation) \|
+- [AUC-Oriented Domain Adaptation: From Theory to Algorithm](https://ieeexplore.ieee.org/abstract/document/10214222). <br> Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Peisong Wen, Yuan He, Xiaochun Cao and Qingming Huang. <br> IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2023. \| [\[Code\]](https://github.com/statusrank/AUC-Oriented-Domain-Adaptation) \|
 
-- [Asymptotically Unbiased Instance-wise Regularized Partial AUC Optimization: Theory and Algorithm](https://arxiv.org/pdf/2210.03967.pdf). Huiyang Shao, Qianqian Xu, Zhiyong Yang, **Shilong Bao** and Qingming Huang. Advances in Neural Information Processing Systems (**NeurIPS**), 38667–38679, 2022. \| [\[Code\]](https://github.com/Shaocr/PAUCI) \|
+- [Asymptotically Unbiased Instance-wise Regularized Partial AUC Optimization: Theory and Algorithm](https://arxiv.org/pdf/2210.03967.pdf). <br> Huiyang Shao, Qianqian Xu, Zhiyong Yang, **Shilong Bao** and Qingming Huang. <br> Advances in Neural Information Processing Systems (**NeurIPS**), 38667–38679, 2022. \| [\[Code\]](https://github.com/Shaocr/PAUCI) \|
 
-- [Optimizing Two-way Partial AUC with an End-to-end Framework](https://arxiv.org/abs/2206.11655). Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 10228-10246, 2022. \| [\[Code\]](https://github.com/statusrank/XCurve) \|
+- [Optimizing Two-way Partial AUC with an End-to-end Framework](https://arxiv.org/abs/2206.11655). <br> Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming Huang. <br> IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 10228-10246, 2022. \| [\[Code\]](https://github.com/statusrank/XCurve) \|
 
-- [AdAUC: End-to-end Adversarial AUC Optimization Against Long-tail Problems](https://arxiv.org/abs/2206.12169). Wenzheng Hou, Qianqian Xu, Zhiyong Yang, **Shilong Bao**, Yuan He and Qingming Huang. International Conference on Machine Learning (**ICML**), 8903–8925, 2022. \| [\[Code\]](https://github.com/statusrank/AUC-Oriented-Adversarial-Training) \|
+- [AdAUC: End-to-end Adversarial AUC Optimization Against Long-tail Problems](https://arxiv.org/abs/2206.12169). <br> Wenzheng Hou, Qianqian Xu, Zhiyong Yang, **Shilong Bao**, Yuan He and Qingming Huang. <br> International Conference on Machine Learning (**ICML**), 8903–8925, 2022. \| [\[Code\]](https://github.com/statusrank/AUC-Oriented-Adversarial-Training) \|
 
 
-- [Learning with Multiclass AUC: Theory and Algorithms](https://arxiv.org/pdf/2107.13171.pdf). Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**),  7747–7763, 2021. \| [\[Code\]](https://github.com/joshuaas/Learning-with-Multiclass-AUC-Theory-and-Algorithms) \|
+- [Learning with Multiclass AUC: Theory and Algorithms](https://arxiv.org/pdf/2107.13171.pdf). <br> Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Xiaochun Cao and Qingming Huang. <br> IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**),  7747–7763, 2021. \| [\[Code\]](https://github.com/joshuaas/Learning-with-Multiclass-AUC-Theory-and-Algorithms) \|
 
-- [Collaborative Preference Embedding against Sparse Labels](http://www.jdl.link/doc/2011/20191229_ACMM-Collaborative%20Preference%20Embedding%20against%20Sparse%20Labels.pdf). **Shilong Bao**, Qianqian Xu, Ke Ma, Zhiyong Yang, Xiaochun Cao and Qingming Huang. ACM International Conference on Multimedia (**ACM-MM**), 2079–2087, 2019. \| [\[Code\]](https://github.com/statusrank/CPE)\|
+- [Collaborative Preference Embedding against Sparse Labels](http://www.jdl.link/doc/2011/20191229_ACMM-Collaborative%20Preference%20Embedding%20against%20Sparse%20Labels.pdf). <br> **Shilong Bao**, Qianqian Xu, Ke Ma, Zhiyong Yang, Xiaochun Cao and Qingming Huang. <br> ACM International Conference on Multimedia (**ACM-MM**), 2079–2087, 2019. \| [\[Code\]](https://github.com/statusrank/CPE)\|
 
 # 📖 Services
 
