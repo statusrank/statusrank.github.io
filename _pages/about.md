@@ -131,17 +131,17 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 ## 2025
 
-- [Closing the Approximation Gap of Partial AUC Optimization: A Tale of Two Formulations](https://ieeexplore.ieee.org/document/11268965).  Yangbangyan Jiang, Qianqian Xu, Huiyang Shao, Zhiyong Yang, **Shilong Bao**, Xiaochun Cao and Qingming Huang.IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2025. \|[\[Code\]](https://)\|
+- [Closing the Approximation Gap of Partial AUC Optimization: A Tale of Two Formulations](https://ieeexplore.ieee.org/document/11268965). <br> Yangbangyan Jiang, Qianqian Xu, Huiyang Shao, Zhiyong Yang, **Shilong Bao**, Xiaochun Cao and Qingming Huang. <br> IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2025. \|[\[Code\]](https://)\|
 
-- [LightFair: Towards an Efficient Alternative for Fair T2I Diffusion via Debiasing Pre-trained Text Encoders](https://arxiv.org/abs/2509.23639). Boyu Han, Qianqian Xu,**Shilong Bao**, Zhiyong Yang, Kangli Zi, and Qingming Huang. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. \|[\[Code\]](https://github.com/boyuh/LightFair)\|
+- [LightFair: Towards an Efficient Alternative for Fair T2I Diffusion via Debiasing Pre-trained Text Encoders](https://arxiv.org/abs/2509.23639). <br> Boyu Han, Qianqian Xu,**Shilong Bao**, Zhiyong Yang, Kangli Zi, and Qingming Huang. <br> Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. \|[\[Code\]](https://github.com/boyuh/LightFair)\|
 
-- [One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework for Diffusion Models](https://arxiv.org/pdf/2505.11131). Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Xiaochun Cao, Qingming Huang. International Conference on Machine Learning (**ICML**), 2025. \|[\[Code\]](https://github.com/Ferry-Li/Co-Erasing)\|
+- [One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework for Diffusion Models](https://arxiv.org/pdf/2505.11131). <br> Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Xiaochun Cao, Qingming Huang. <br> International Conference on Machine Learning (**ICML**), 2025. \|[\[Code\]](https://github.com/Ferry-Li/Co-Erasing)\|
 
-- [MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrödinger Bridges](https://arxiv.org/pdf/2505.08809?). Shixi Qin, Zhiyong Yang, **Shilong Bao**, Shi Wang, Qianqian Xu, Qingming Huang. International Conference on Machine Learning (**ICML**), 2025. \|[\[Code\]](https://github.com/qsx830/MixBridge)\|
+- [MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrödinger Bridges](https://arxiv.org/pdf/2505.08809?). <br> Shixi Qin, Zhiyong Yang, **Shilong Bao**, Shi Wang, Qianqian Xu, Qingming Huang. <br> International Conference on Machine Learning (**ICML**), 2025. \|[\[Code\]](https://github.com/qsx830/MixBridge)\|
 
-- [OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning](https://arxiv.org/pdf/2505.05180). Cong Hua, Qianqian Xu, Zhiyong Yang, Zitai Wang, **Shilong Bao**, Qingming Huang. International Conference on Machine Learning (**ICML**), 2025. \|[\[Code\]](https://github.com/huacong/OpenworldAUC)\|
+- [OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning](https://arxiv.org/pdf/2505.05180). <br> Cong Hua, Qianqian Xu, Zhiyong Yang, Zitai Wang, **Shilong Bao**, Qingming Huang. <br> International Conference on Machine Learning (**ICML**), 2025. \|[\[Code\]](https://github.com/huacong/OpenworldAUC)\|
 
-- [Bidirectional Logits Tree: Pursuing Granularity Reconcilement in Fine-Grained Classification](https://arxiv.org/abs/2412.12782). Zhiguang Lu, Qianqian Xu, **Shilong Bao**, and Zhiyong Yang and Qingming Huang. AAAI Conference on Artificial Intelligence (**AAAI**), 2025. \|[\[Code\]](https://github.com/ZhiguangLuu/BiLT)\|
+- [Bidirectional Logits Tree: Pursuing Granularity Reconcilement in Fine-Grained Classification](https://arxiv.org/abs/2412.12782). <br> Zhiguang Lu, Qianqian Xu, **Shilong Bao**, and Zhiyong Yang and Qingming Huang. <br> AAAI Conference on Artificial Intelligence (**AAAI**), 2025. \|[\[Code\]](https://github.com/ZhiguangLuu/BiLT)\|
 
 ## 2024
 
