@@ -10,7 +10,7 @@ main:
     url: "/#-publications"
   
   - title: "Services"
-  - url: "/#-services"
+    url: "/#-services"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -22,4 +22,7 @@ main:
     url: "/#-invited-talks"
 
   - title: "Project"
-    url: "/#-Project"
+    url: "/#-fundings-and-project"
+  
+  - title: "Students"
+    url: "/#-students"

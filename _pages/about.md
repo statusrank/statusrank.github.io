@@ -125,6 +125,10 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 </div>
 
 # 📝 Publications 
+## 2026
+- Boyu Han, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Ruochen Cui, Xilin Zhao, and Qingming Huang. [Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation](https://). IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted) \|[\[Code\]](https://)\|
+- Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Xilin Zhao, Xiaochun Cao, and Qingming Huang. [BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation](https://). IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted) \|[\[Code\]](https://)\
+
 ## 2025
 
 - [Closing the Approximation Gap of Partial AUC Optimization: A Tale of Two Formulations](https://ieeexplore.ieee.org/document/11268965).  Yangbangyan Jiang, Qianqian Xu, Huiyang Shao, Zhiyong Yang, **Shilong Bao**, Xiaochun Cao and Qingming Huang.IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2025. \|[\[Code\]](https://)\|
@@ -279,3 +283,17 @@ Qingdao University (QDU), Qingdao.
 <!-- - *2020.02 - 至今*: &nbsp; As core member, I participated in the developments of X as [XCurve: Machine Learning with X-Curve Metrics](https://github.com/statusrank/XCurve). 
 
 XCurve focuses on **the design criteria of the objective function for ML tasks**, which can be formulated as a series of X-metric (say AUROC, AUPRC, AUTKC) optimization problems considering the **average performance of all decision thresholds** during the training phase. Welcome to try now and give us feedback! -->
+
+# 💻 Students
+## Current Students (Co-supervised / Assisted in Supervision)
+- 韩博宇, Ph.D. student (2*NeurIPS, 1*CVPR)
+- 李斐然, Ph.D. student (2*ICML, 1*CVPR)
+- 华聪, Ph.D. student (2*ICML), 入选中国科协青年科技人才培育工程博士生专项计划
+- 秦世熙, Ph.D. student (1*ICML)
+- 崔若晨, Ph.D. student
+- 李玉海, Ph.D. student
+- 钟玉杰, Master student
+
+## Former Students (Co-supervised / Assisted in Supervision)
+- 侯文政, Master, 小红书 (国家奖学金)
+- 邵慧杨, Master, 字节跳动 (中国图象图形学学会优硕、北京图象图形学学会优硕)
