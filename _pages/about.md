@@ -286,10 +286,10 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
 
 # 🎓 Students
 ## Current Students (Co-supervised / Assisted in Supervision)
-- 韩博宇, Ph.D. Student (NeurIPS*2, CVPR*1)
-- 李斐然, Ph.D. Student (ICML*2, CVPR*1)
-- 华聪, Ph.D. Student (ICML*2), 入选中国科协青年科技人才培育工程博士生专项计划
-- 秦世熙, Ph.D. Student (ICML*1)
+- 韩博宇, Ph.D. Student (NeurIPS$\times$2, CVPR$\times$1)
+- 李斐然, Ph.D. Student (ICML$\times$2, CVPR$\times$1)
+- 华聪, Ph.D. Student (ICML$\times$2), 入选中国科协青年科技人才培育工程博士生专项计划
+- 秦世熙, Ph.D. Student (ICML$\times$1)
 - 崔若晨, Ph.D. Student
 - 李玉海, Ph.D. Student
 - 钟玉杰, Master Student
