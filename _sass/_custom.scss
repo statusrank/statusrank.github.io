@@ -488,3 +488,65 @@ pre {
   background-size: 200% 100%;
   animation: shimmer 1.5s infinite;
 }
+
+.badge {
+  display: inline-block;
+  padding: 3px 8px;
+  font-size: 11px;
+  border-radius: 6px;
+  margin-right: 5px;
+  font-weight: 600;
+}
+
+.badge-tpami {
+  background: #7C3AED;
+  color: white;
+}
+
+.badge-neurips {
+  background: #3B5BDB;
+  color: white;
+}
+
+.badge-icml {
+  background: #0EA5A4;
+  color: white;
+}
+
+/* Sidebar card style */
+.sidebar {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.06);
+}
+
+/* avatar */
+.author__avatar img {
+  border-radius: 50%;
+  border: 3px solid #3B5BDB;
+}
+
+/* name */
+.author__name {
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
+/* bio */
+.author__bio {
+  color: #475569;
+  font-size: 0.9rem;
+}
+
+/* icon style */
+.author__urls i {
+  color: #3B5BDB;
+  margin-right: 6px;
+}
+
+/* hover effect */
+.author__urls li:hover {
+  transform: translateX(3px);
+  transition: 0.2s;
+}
