@@ -446,6 +446,14 @@ pre {
   }
 }
 
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #1a202c;
+    color: #e2e8f0;
+  }
+  // ... 其他深色样式
+}
+
 /* ==========================================================================
    Utility Classes
    ========================================================================== */
@@ -488,3 +496,4 @@ pre {
   background-size: 200% 100%;
   animation: shimmer 1.5s infinite;
 }
+
