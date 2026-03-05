@@ -1,25 +1,22 @@
 /* ==========================================================================
-   MASTHEAD - Modern Glassmorphism Navigation
+   MASTHEAD
    ========================================================================== */
 
 .masthead {
   position: sticky;
   top: 0;
-  background: rgba(255, 255, 255, 0.85);
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
-  border-bottom: 1px solid rgba(226, 232, 240, 0.8);
-  -webkit-animation: intro 0.4s cubic-bezier(0.4, 0, 0.2, 1) both;
-          animation: intro 0.4s cubic-bezier(0.4, 0, 0.2, 1) both;
-  -webkit-animation-delay: 0.1s;
-          animation-delay: 0.1s;
-  z-index: 1000;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  background-color: white;
+  border-bottom: 1px solid $border-color;
+  -webkit-animation: intro 0.3s both;
+          animation: intro 0.3s both;
+  -webkit-animation-delay: 0.15s;
+          animation-delay: 0.15s;
+  z-index: 20;
 
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 0.75em 1em;
+    padding: .5em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -32,7 +29,6 @@
 
     a {
       text-decoration: none;
-      transition: $global-transition;
     }
   }
 }
@@ -44,10 +40,6 @@
     padding: 0;
     clear: both;
     list-style-type: none;
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 0.25rem;
   }
 }
 
@@ -64,256 +56,9 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 1.5em;
+    padding-right: 2em;
     font-weight: 700;
-    font-size: 1.1em;
-    letter-spacing: -0.02em;
-    
-    a {
-      color: $primary-dark !important;
-      
-      &:hover {
-        color: $primary !important;
-      }
-    }
-  }
-  
-  a {
-    display: inline-block;
-    padding: 0.5em 0.875em;
-    border-radius: $border-radius-sm;
-    color: $dark-gray;
-    font-weight: 500;
-    font-size: 0.9em;
-    position: relative;
-    
-    &::after {
-      content: '';
-      position: absolute;
-      bottom: 0.25em;
-      left: 50%;
-      width: 0;
-      height: 2px;
-      background: linear-gradient(90deg, $primary-light, $accent);
-      transition: $global-transition;
-      transform: translateX(-50%);
-      border-radius: 1px;
-    }
-    
-    &:hover {
-      color: $primary;
-      background: rgba(66, 153, 225, 0.08);
-      
-      &::after {
-        width: 60%;
-      }
-    }
-    
-    &:active {
-      transform: scale(0.98);
-    }
   }
 }
 
-/* Mobile Navigation Improvements */
-.greedy-nav {
-  position: relative;
-  display: flex;
-  align-items: center;
-  min-height: 2.5em;
-  background: transparent;
 
-  a {
-    display: block;
-    color: $masthead-link-color;
-    text-decoration: none;
-    transition: $global-transition;
-
-    &:hover {
-      color: $masthead-link-color-hover;
-    }
-
-    &.site-title {
-      margin-left: 0;
-      font-weight: 700;
-      font-size: 1.1em;
-    }
-  }
-
-  button {
-    position: absolute;
-    height: 2.5rem;
-    width: 2.5rem;
-    top: 50%;
-    right: 0;
-    transform: translateY(-50%);
-    background-color: transparent;
-    border: none;
-    border-radius: $border-radius-sm;
-    cursor: pointer;
-    transition: $global-transition;
-    
-    &:hover {
-      background-color: rgba(66, 153, 225, 0.1);
-    }
-
-    &:focus {
-      outline: none;
-      box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.3);
-    }
-  }
-
-  .visible-links {
-    display: flex;
-    align-items: center;
-    
-    li {
-      margin: 0;
-    }
-    
-    a {
-      position: relative;
-      
-      &:before {
-        content: "";
-        position: absolute;
-        left: 0;
-        bottom: 0;
-        height: 2px;
-        background: linear-gradient(90deg, $primary, $accent);
-        width: 0;
-        transition: $global-transition;
-      }
-      
-      &:hover:before {
-        width: 100%;
-      }
-    }
-  }
-
-  .hidden-links {
-    position: absolute;
-    top: 100%;
-    right: 0;
-    margin-top: 0.5rem;
-    padding: 0.5rem;
-    border: 1px solid $border-color;
-    border-radius: $border-radius;
-    background: rgba(255, 255, 255, 0.98);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    box-shadow: $box-shadow-lg;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateY(-10px);
-    transition: $global-transition;
-    z-index: 1001;
-
-    &.hidden {
-      display: none;
-    }
-
-    a {
-      margin: 0;
-      padding: 0.625rem 1rem;
-      font-size: 0.875em;
-      border-radius: $border-radius-sm;
-      
-      &:hover {
-        color: $primary;
-        background: rgba(66, 153, 225, 0.08);
-      }
-    }
-
-    li {
-      display: block;
-      border-bottom: 1px solid $border-color;
-
-      &:last-child {
-        border-bottom: none;
-      }
-    }
-  }
-}
-
-/* Show hidden links on toggle */
-.greedy-nav button[aria-expanded="true"] + .hidden-links,
-.greedy-nav .hidden-links:hover {
-  opacity: 1;
-  visibility: visible;
-  transform: translateY(0);
-}
-
-/* Navicon Animation */
-.navicon {
-  position: relative;
-  width: $navicon-width;
-  height: $navicon-height;
-  background: $primary;
-  margin: auto;
-  transition: $global-transition;
-  border-radius: 2px;
-
-  &:before,
-  &:after {
-    content: "";
-    position: absolute;
-    left: 0;
-    width: $navicon-width;
-    height: $navicon-height;
-    background: $primary;
-    transition: $global-transition;
-    border-radius: 2px;
-  }
-
-  &:before {
-    top: -0.5rem;
-  }
-
-  &:after {
-    bottom: -0.5rem;
-  }
-}
-
-/* Close animation */
-.close .navicon {
-  background: transparent;
-
-  &:before,
-  &:after {
-    transform-origin: 50% 50%;
-  }
-
-  &:before {
-    transform: rotate(45deg);
-    top: 0;
-  }
-
-  &:after {
-    transform: rotate(-45deg);
-    bottom: 0;
-  }
-}
-
-/* Animation Keyframes */
-@keyframes intro {
-  0% {
-    opacity: 0;
-    transform: translateY(-10px);
-  }
-  100% {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-@-webkit-keyframes intro {
-  0% {
-    opacity: 0;
-    -webkit-transform: translateY(-10px);
-  }
-  100% {
-    opacity: 1;
-    -webkit-transform: translateY(0);
-  }
-}
