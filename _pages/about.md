@@ -182,7 +182,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 # 📖 Services
 
 ### Conferences
- - *ICML*: PC Member (2022-2025)
+ - *ICML*: PC Member (2022-2026)
  - *ICLR*: PC Member (2024-2026)
  - *NeurIPS*: PC Member (2023-2026)
  - *CVPR*: PC Member (2024-2026)
@@ -199,6 +199,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - Multimedia Systems: Reviewer
 
 ### Others
+- *2026.05* &nbsp; **Co-chair** of Forum on Trustworthy Multimedia Analysis and Privacy-Preserving Computing at the [CCIG 2026](https://ccig.csig.org.cn/2026/11491/202605/7599.html)
 - *2025.11* &nbsp; **Program Chair** of Beijing Youth Science and Technology Salon: Multimodal Intelligent Perception and Cross-modal Computing [(北京青年科技沙龙)](https://mp.weixin.qq.com/s/pbxasNprMey2aul4Tx_TOg)
 - *2025.08* &nbsp;  **Co-chair** of Efficient Training and Inference of Large Models at the [CSIG Young Scientists Conference 2025](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA)
 
