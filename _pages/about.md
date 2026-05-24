@@ -37,6 +37,7 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 **<font color='red'> 欢迎对鲁棒机器学习、大模型安全、推荐系统等方向感兴趣的同学联系科研合作与实习机会。 </font>**
 
 # 🔥 News
+- *2026.4.28*: &nbsp;🎉🎉 One paper has been accepted by ICML 2026 with Oral presentation (0.69%). Congrat to shixi!
 - *2026.2.21*: &nbsp;🎉🎉 Two paper have been accepted by CVPR 2026. Congrat to Boyu and FerryLi
 - *2026.2.1*: &nbsp;🎉🎉 I expect to join the Institute of Computing Technology, Chinese Academy of Sciences (CAS) this July as an Assistant Professor.
 - *2025.11.15*: One paper has been accepted by T-PAMI 2025!
@@ -107,6 +108,15 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 (Oral)</div><img src='images/gooddiffusion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[GoodDiffusion: Proactive Copyright Protection for Diffusion Generative Models via Learnable Sample-specific Signatures](https://).
+
+Shixi Qin, Zhiyong Yang, *Shilong Bao*, Zitai Wang, Qianqian Xu, and Qingming Huang. International Conference on Machine Learning (**ICML**), 2024. **<font color='red'> (Oral, 0.69%) </font>** \| [\[Code\]](https://github.com/qsx830/GoodDiffusion)\| [\[Video\]](https://) \| [\[Poster\]](https://) \| [\[Slides\]](https://) \| [\[Project\]](https://github.com/qsx830/GoodDiffusion)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021 (Long Talk)</div><img src='images/tpauc_icml21.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [When All We Need is a Piece of the Pie: A Generic Framework for Optimizing Two-way Partial AUC](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/TPAUC.pdf).
@@ -124,10 +134,11 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 </div>
 </div>
 
+
 # 📝 Publications 
 ## 2026
-- [Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation](https://).  Boyu Han, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Ruochen Cui, Xilin Zhao, and Qingming Huang.  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted) \|[\[Code\]](https://)\|
-- [BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation](https://). Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Xilin Zhao, Xiaochun Cao, and Qingming Huang.  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted) \|[\[Code\]](https://)\
+- [Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation](https://arxiv.org/pdf/2603.04803).  Boyu Han, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Ruochen Cui, Xilin Zhao, and Qingming Huang.  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted) \|[\[Code\]](https://github.com/boyuh/DCR)\|
+- [BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation](https://arxiv.org/pdf/2603.05921). Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Xilin Zhao, Xiaochun Cao, and Qingming Huang.  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted) \|[\[Code\]](https://github.com/Ferry-Li/BlackMirror)\
 
 ## 2025
 
@@ -286,10 +297,10 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
 
 # 🎓 Students
 ## Current Students (Co-supervised / Assisted in Supervision)
-- 韩博宇, Ph.D. Student (NeurIPS$\times$2, CVPR$\times$1)
+- 韩博宇, Ph.D. Student (NeurIPS$\times$2, CVPR$\times$1), 中国科学院计算所所长优秀奖
 - 李斐然, Ph.D. Student (ICML$\times$2, CVPR$\times$1)
 - 华聪, Ph.D. Student (ICML$\times$2), 入选中国科协青年科技人才培育工程博士生专项计划
-- 秦世熙, Ph.D. Student (ICML$\times$1)
+- 秦世熙, Ph.D. Student (ICML$\times$2)
 - 崔若晨, Ph.D. Student
 - 李玉海, Ph.D. Student
 - 钟玉杰, Master Student
