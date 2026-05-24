@@ -37,7 +37,7 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 **<font color='red'> 欢迎对鲁棒机器学习、大模型安全、推荐系统等方向感兴趣的同学联系科研合作与实习机会。 </font>**
 
 # 🔥 News
-- *2026.4.28*: &nbsp;🎉🎉 One paper has been accepted by ICML 2026 with Oral presentation (0.69%). Congrat to shixi!
+- *2026.4.28*: &nbsp;🎉🎉 One paper has been accepted by ICML 2026 with **<font color='red'>Oral presentation (0.69%)</font>**. Congrat to shixi!
 - *2026.2.21*: &nbsp;🎉🎉 Two paper have been accepted by CVPR 2026. Congrat to Boyu and FerryLi
 - *2026.2.1*: &nbsp;🎉🎉 I expect to join the Institute of Computing Technology, Chinese Academy of Sciences (CAS) this July as an Assistant Professor.
 - *2025.11.15*: One paper has been accepted by T-PAMI 2025!
@@ -112,7 +112,7 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 <div class='paper-box-text' markdown="1">
 [GoodDiffusion: Proactive Copyright Protection for Diffusion Generative Models via Learnable Sample-specific Signatures](https://).
 
-Shixi Qin, Zhiyong Yang, *Shilong Bao*, Zitai Wang, Qianqian Xu, and Qingming Huang. International Conference on Machine Learning (**ICML**), 2024. **<font color='red'> (Oral, 0.69%) </font>** \| [\[Code\]](https://github.com/qsx830/GoodDiffusion)\| [\[Video\]](https://) \| [\[Poster\]](https://) \| [\[Slides\]](https://) \| [\[Project\]](https://github.com/qsx830/GoodDiffusion)
+Shixi Qin, Zhiyong Yang, **Shilong Bao**, Zitai Wang, Qianqian Xu, and Qingming Huang. International Conference on Machine Learning (**ICML**), 2026. **<font color='red'> (Oral, 0.69%) </font>** \| [\[Code\]](https://github.com/qsx830/GoodDiffusion)\| [\[Video\]](https://) \| [\[Poster\]](https://) \| [\[Slides\]](https://) \| [\[Project\]](https://github.com/qsx830/GoodDiffusion)
 </div>
 </div>
 
