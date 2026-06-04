@@ -26,17 +26,33 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 - AUC-oriented Learning and its Applications (e.g., downstream computer vision tasks)
 - Safe AI Models and Algorithms (e.g., certified/adversarial robustness, robust and fair generative models)
 
-**<font color='red'> I am always open to academic collaboration—please feel free to contact me if you are interested. </font>**
-
 -----
 
+{% comment %}
 <p style="text-align: justify; text-justify: inter-word;">
 包世龙 (邮箱：baoshilong@ucas.ac.cn)，现为中国科学院大学博士后、特别研究助理 (合作导师：黄庆明教授)，北京图象图形学学会青工委委员，主要研究方向为机器学习基础理论与人工智能安全，尤其聚焦鲁棒机器学习、排序学习理论与优化、无害多模态生成及大模型安全等方法与理论研究, 已在 CCF-A 类期刊/会议发表论文20余篇 (一作论文7篇)，其中TPAMI 9 篇 (IF:18.6，一作4篇)、NeurIPS/ICML 11篇等，并有多篇入选Oral/Spotlight论文。先后入选中国博士后科学基金国家资助博士后研究人员计划、北京市“高创计划”青年人才托举工程、中国科学院特别研究助理项目等人才支持计划；获 ACM China 优博奖提名（全国共5人）、ACM China SigMM 优博奖（共3人）、北京图象图形学学会优秀博士学位论文奖（京津冀共5篇）、中国科学院优秀博士学位论文奖（全学科 100 篇）、中国科学院信息工程研究所所长特别奖等荣誉奖励，并斩获多项 CCF-A 类会议国际竞赛冠军。项目承担方面，先后主持国家自然科学基金青年项目（C类）、中国博士后科学基金面上及国家资助博士后计划等多项国家级课题，并参与中科院先导 B、国家自然科学基金专项等重大项目。
 </p>
+{% endcomment %}
 
-**<font color='red'> 欢迎对鲁棒机器学习、大模型安全、推荐系统等方向感兴趣的同学联系科研合作与实习机会。 </font>**
+<div class="opportunity-stack">
+  <div class="opportunity-card opportunity-card--merged">
+    <div class="opportunity-item">
+      <strong>欢迎本科生、研究生加入科研实习（可远程），一起做有价值的研究！</strong>
+      <p>长期招募优秀的本科生、研究生，从事鲁棒机器学习、大模型安全、推荐系统与 AUC 优化相关研究。你将获得系统的科研指导、高水平论文发表与开放合作机会，欢迎通过 <a href="mailto:baoshilong@ucas.ac.cn">邮件</a> 联系。</p>
+    </div>
+    <div class="opportunity-item">
+      <strong>欢迎工业界/学术界交流与合作！</strong>
+      <p>非常乐意围绕可信多媒体学习、鲁棒优化、模型安全与生成式 AI 等方向开展合作。如果您对我们的研究成果感兴趣，欢迎通过 <a href="mailto:baoshilong@ucas.ac.cn">邮件</a> 与我联系。</p>
+    </div>
+  </div>
+</div>
 
 # 🔥 News
+<div class="news-scroll" markdown="1">
+
+- *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in the CVPR 2026 Vision-based Assistants in the Real World Workshop, AI Coach Challenge (Cooking Track).
+- *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, 2026), achieving back-to-back **<font color='red'> 1st Place Awards </font>** in the same track in 2025 and 2026.
+- *2026.05.14*: &nbsp;🎉🎉 I have been recognized as an **<font color='red'>ICML 2026 Gold Reviewer</font>**.
 - *2026.4.28*: &nbsp;🎉🎉 One paper has been accepted by ICML 2026 with **<font color='red'>Oral presentation (0.69%)</font>**. Congrat to shixi!
 - *2026.2.21*: &nbsp;🎉🎉 Two paper have been accepted by CVPR 2026. Congrat to Boyu and FerryLi
 - *2026.2.1*: &nbsp;🎉🎉 I expect to join the Institute of Computing Technology, Chinese Academy of Sciences (CAS) this July as an Assistant Professor.
@@ -53,6 +69,7 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 - *2025.05.02*: &nbsp;🎉🎉 Three papers have been accepted by ICML 2025.
 - *2025.02.20*: &nbsp;🎉🎉 One papers have been accepted by T-PAMI 2025.
 
+</div>
 
 <!-- - *2024.06.08*: &nbsp;🎉🎉 One paper has been accepted by T-PAMI 2024. Congrats to all! -->
 <!-- - *2024.05.2*: &nbsp;🎉🎉 Three papers have been accepted by ICML 2024 (One is Spotlight). Congrats to all! -->
@@ -204,6 +221,9 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - *2025.08* &nbsp;  **Co-chair** of Efficient Training and Inference of Large Models at the [CSIG Young Scientists Conference 2025](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA)
 
 # 🎖 Honors and Awards
+- *2026* **<font color='red'> 1st Place Award </font>** in CVPR 2026 Vision-based Assistants in the Real World Workshop (AI Coach Challenge, Cooking Track)
+- *2026* **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, 2026; back-to-back 1st-place awards in the same track in 2025 and 2026)
+- *2026* **<font color='red'> ICML Gold Reviewer </font>** (ICML 2026)
 - *2025* ACM China Excellent Doctoral Dissertation Award Normination  (ACM中国优博奖提名, <font color='red'>5 papers in China</font>)
 - *2025* ACM China SIGMM Excellent Doctoral Dissertation Award (ACM中国SigMM优博, <font color='red'>3 papers in total</font>)
 - *2025* Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院优秀博士学位论文，中科院<font color='red'>全学科100篇</font>)
@@ -297,15 +317,20 @@ Qingdao University (QDU), Qingdao.
 XCurve focuses on **the design criteria of the objective function for ML tasks**, which can be formulated as a series of X-metric (say AUROC, AUPRC, AUTKC) optimization problems considering the **average performance of all decision thresholds** during the training phase. Welcome to try now and give us feedback! -->
 
 # 🎓 Students
-## Current Students (Co-supervised / Assisted in Supervision)
-- 韩博宇, Ph.D. Student (NeurIPS$\times$2, CVPR$\times$1), 中国科学院计算所所长优秀奖
-- 李斐然, Ph.D. Student (ICML$\times$2, CVPR$\times$1)
-- 华聪, Ph.D. Student (ICML$\times$2), 入选中国科协青年科技人才培育工程博士生专项计划
-- 秦世熙, Ph.D. Student (ICML$\times$2)
-- 崔若晨, Ph.D. Student
-- 李玉海, Ph.D. Student
-- 钟玉杰, Master Student
 
-## Former Students (Co-supervised / Assisted in Supervision)
+## Current Students
+
+<div class="collaborator-grid">
+  <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://boyuh.github.io/" target="_blank" rel="noopener noreferrer" aria-label="Boyu Han homepage"><div class="collaborator-avatar collaborator-avatar--photo"><img src="images/students/boyu-han.jpg" alt="Boyu Han"></div></a><strong>韩博宇</strong><span>Ph.D. Student</span><small>NeurIPS×2, CVPR×1</small></div>
+  <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://ferry-li.github.io/" target="_blank" rel="noopener noreferrer" aria-label="Feiran Li homepage"><div class="collaborator-avatar collaborator-avatar--photo"><img src="images/students/feiran-li.jpg" alt="Feiran Li"></div></a><strong>李斐然</strong><span>Ph.D. Student</span><small>ICML×2, CVPR×1</small></div>
+  <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://huacong.github.io/" target="_blank" rel="noopener noreferrer" aria-label="Cong Hua homepage"><div class="collaborator-avatar collaborator-avatar--photo"><img src="images/students/cong-hua.jpg" alt="Cong Hua"></div></a><strong>华聪</strong><span>Ph.D. Student</span><small>ICML×2</small></div>
+  <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://dblp.org/pid/330/4448" target="_blank" rel="noopener noreferrer" aria-label="Shixi Qin profile"><div class="collaborator-avatar">QX</div></a><strong>秦世熙</strong><span>Ph.D. Student</span><small>ICML×2</small></div>
+  <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://dblp.org/pid/381/5172" target="_blank" rel="noopener noreferrer" aria-label="Ruochen Cui profile"><div class="collaborator-avatar">CR</div></a><strong>崔若晨</strong><span>Ph.D. Student</span></div>
+  <div class="collaborator-card"><div class="collaborator-avatar">YH</div><strong>李玉海</strong><span>Ph.D. Student</span></div>
+  <div class="collaborator-card"><div class="collaborator-avatar">YJ</div><strong>钟玉杰</strong><span>Master Student</span></div>
+</div>
+
+## Former Students
+
 - 侯文政, Master, 小红书 (国家奖学金)
 - 邵慧杨, Master, 字节跳动 (中国图象图形学学会优硕、北京图象图形学学会优硕)

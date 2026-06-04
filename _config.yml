@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Shilong Bao"
-  avatar           : "images/shilong2.jpg"
+  avatar           : "images/shilong4.jpg"
   bio              : "Post-doc Fellow with the School of Computer Science and Technology, UCAS"
   location         : "Beijing, China"
   employer         :
@@ -74,6 +74,7 @@ exclude:
   - .jekyll-assets-cache
   - .sass-cache
   - .github
+  - AGENTS.md
   - CHANGELOG
   - Capfile
   - Gemfile
@@ -88,6 +89,7 @@ exclude:
   - gulpfile.js
   - log
   - node_modules
+  - output
   - package.json
   - tmp
   - vendor
