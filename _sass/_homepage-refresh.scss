@@ -97,9 +97,31 @@
   font-weight: 800;
 }
 
+.about-copy {
+  color: #4a556d;
+  font-size: 1.02rem;
+  line-height: 1.65;
+}
+
 .about-copy > p {
+  margin-bottom: 0.85rem;
   text-align: justify;
   text-justify: inter-word;
+}
+
+.about-copy > ul {
+  margin: 0.35rem 0 1.1rem;
+}
+
+.about-copy > ul > li {
+  margin: 0.3rem 0;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.about-copy strong {
+  color: #26395f;
+  font-weight: 750;
 }
 
 .opportunity-card {
@@ -1190,6 +1212,10 @@ ul.page-section-body--students > li:hover {
 
   .page__content {
     overflow-wrap: anywhere;
+  }
+
+  .about-copy {
+    font-size: 0.96rem;
   }
 
   .page__content * {
