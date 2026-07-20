@@ -4,56 +4,58 @@
   var TOPIC_LABELS = {
     "auc-optimization": "AUC Optimization",
     "trustworthy-genai": "Trustworthy GenAI",
-    "long-tail-vision": "Long-tail Vision",
-    "multimodal-learning": "Multimodal Learning",
     "robust-learning": "Robust Learning",
-    "recommender-systems": "Recommender Systems"
+    "imbalanced-learning": "Imbalanced Learning",
+    "computer-vision": "Computer Vision",
+    "multimodal-learning": "Multimodal Learning",
+    "representation-learning": "Representation Learning",
+    "ranking-recommendation": "Ranking & Recommendation"
   };
 
   var PUBLICATION_METADATA = {
     "Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation": {
       kind: "conference",
-      topics: ["long-tail-vision"]
+      topics: ["imbalanced-learning", "computer-vision", "representation-learning"]
     },
     "BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation": {
       kind: "conference",
-      topics: ["trustworthy-genai", "robust-learning"]
+      topics: ["trustworthy-genai", "robust-learning", "multimodal-learning"]
     },
     "Closing the Approximation Gap of Partial AUC Optimization: A Tale of Two Formulations": {
       kind: "journal",
-      topics: ["auc-optimization"]
+      topics: ["auc-optimization", "ranking-recommendation"]
     },
     "LightFair: Towards an Efficient Alternative for Fair T2I Diffusion via Debiasing Pre-trained Text Encoders": {
       kind: "conference",
-      topics: ["trustworthy-genai"]
+      topics: ["trustworthy-genai", "multimodal-learning"]
     },
     "One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework for Diffusion Models": {
       kind: "conference",
-      topics: ["trustworthy-genai"]
+      topics: ["trustworthy-genai", "multimodal-learning"]
     },
     "MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrödinger Bridges": {
       kind: "conference",
-      topics: ["trustworthy-genai", "robust-learning"]
+      topics: ["trustworthy-genai", "robust-learning", "computer-vision"]
     },
     "OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning": {
       kind: "conference",
-      topics: ["auc-optimization", "robust-learning"]
+      topics: ["auc-optimization", "robust-learning", "multimodal-learning"]
     },
     "Bidirectional Logits Tree: Pursuing Granularity Reconcilement in Fine-Grained Classification": {
       kind: "conference",
-      topics: ["long-tail-vision"]
+      topics: ["computer-vision", "representation-learning"]
     },
     "AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation": {
       kind: "conference",
-      topics: ["auc-optimization", "long-tail-vision"]
+      topics: ["auc-optimization", "imbalanced-learning", "computer-vision"]
     },
     "ReconBoost: Boosting Can Achieve Modality Reconcilement": {
       kind: "conference",
-      topics: ["multimodal-learning"]
+      topics: ["multimodal-learning", "representation-learning"]
     },
     "Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition": {
       kind: "conference",
-      topics: ["long-tail-vision"]
+      topics: ["imbalanced-learning", "computer-vision", "representation-learning"]
     },
     "Revisiting AUC-oriented Adversarial Training with Loss-Agnostic Perturbations": {
       kind: "journal",
@@ -61,27 +63,27 @@
     },
     "AUC-Oriented Domain Adaptation: From Theory to Algorithm": {
       kind: "journal",
-      topics: ["auc-optimization", "robust-learning"]
+      topics: ["auc-optimization", "robust-learning", "representation-learning"]
     },
     "Asymptotically Unbiased Instance-wise Regularized Partial AUC Optimization: Theory and Algorithm": {
       kind: "conference",
-      topics: ["auc-optimization"]
+      topics: ["auc-optimization", "ranking-recommendation"]
     },
     "Optimizing Two-way Partial AUC with an End-to-end Framework": {
       kind: "journal",
-      topics: ["auc-optimization"]
+      topics: ["auc-optimization", "ranking-recommendation"]
     },
     "AdAUC: End-to-end Adversarial AUC Optimization Against Long-tail Problems": {
       kind: "conference",
-      topics: ["auc-optimization", "robust-learning"]
+      topics: ["auc-optimization", "robust-learning", "imbalanced-learning"]
     },
     "Learning with Multiclass AUC: Theory and Algorithms": {
       kind: "journal",
-      topics: ["auc-optimization"]
+      topics: ["auc-optimization", "imbalanced-learning"]
     },
     "Collaborative Preference Embedding against Sparse Labels": {
       kind: "conference",
-      topics: ["recommender-systems"]
+      topics: ["ranking-recommendation", "representation-learning"]
     }
   };
 
@@ -121,7 +123,6 @@
 
     var items = Array.prototype.slice.call(catalog.querySelectorAll("ul > li"));
     var controls = catalog.querySelector(".publication-catalog__intro");
-    var status = catalog.querySelector(".publication-filter-status");
     var selected = { kind: "all", topic: "all" };
 
     items.forEach(function (item) {
@@ -155,14 +156,11 @@
     });
 
     function applyFilters() {
-      var visibleCount = 0;
-
       items.forEach(function (item) {
         var matchesKind = selected.kind === "all" || item.dataset.kind === selected.kind;
         var topics = (item.dataset.topics || "").split(/\s+/);
         var matchesTopic = selected.topic === "all" || topics.indexOf(selected.topic) !== -1;
         item.hidden = !(matchesKind && matchesTopic);
-        if (!item.hidden) visibleCount += 1;
       });
 
       Array.prototype.slice.call(catalog.children).forEach(function (heading) {
@@ -176,9 +174,6 @@
         list.hidden = !hasVisibleItems;
       });
 
-      if (status) {
-        status.textContent = "Showing " + visibleCount + " of " + items.length + " publications";
-      }
     }
 
     if (controls) {

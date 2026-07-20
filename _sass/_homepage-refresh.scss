@@ -619,13 +619,6 @@
   }
 }
 
-.publication-filter-status {
-  margin: 0.1rem 0 0 3.55rem;
-  color: #7a8499;
-  font-size: 0.76rem;
-  font-weight: 650;
-}
-
 .publication-meta {
   display: flex;
   flex-wrap: wrap;
@@ -654,10 +647,22 @@
   color: #6848b8;
 }
 
-.publication-topic[data-topic="long-tail-vision"] {
+.publication-topic[data-topic="imbalanced-learning"] {
+  border-color: #f0ddc5;
+  background: #fff8ef;
+  color: #966025;
+}
+
+.publication-topic[data-topic="computer-vision"] {
   border-color: #d3e5f7;
   background: #f2f8ff;
   color: #276396;
+}
+
+.publication-topic[data-topic="robust-learning"] {
+  border-color: #f0d2d7;
+  background: #fff7f8;
+  color: #a43d4b;
 }
 
 .publication-topic[data-topic="multimodal-learning"] {
@@ -666,13 +671,13 @@
   color: #23766a;
 }
 
-.publication-topic[data-topic="robust-learning"] {
-  border-color: #f0ddc5;
-  background: #fff8ef;
-  color: #966025;
+.publication-topic[data-topic="representation-learning"] {
+  border-color: #d9ddf4;
+  background: #f5f6fc;
+  color: #505e96;
 }
 
-.publication-topic[data-topic="recommender-systems"] {
+.publication-topic[data-topic="ranking-recommendation"] {
   border-color: #e5d9ef;
   background: #fbf6ff;
   color: #79508f;
@@ -1366,10 +1371,6 @@ ul.page-section-body--students > li:hover {
     min-height: 1.9rem;
     padding: 0.26rem 0.6rem;
     font-size: 0.72rem;
-  }
-
-  .publication-filter-status {
-    margin-left: 0;
   }
 
   .page-section-body,
