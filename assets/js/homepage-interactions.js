@@ -129,6 +129,17 @@
       if (!titleLink) return;
 
       titleLink.classList.add("publication-title");
+      var textWalker = document.createTreeWalker(item, NodeFilter.SHOW_TEXT);
+      var textNode;
+      while ((textNode = textWalker.nextNode())) {
+        textNode.nodeValue = textNode.nodeValue.replace(
+          /[\u00a0\u1680\u180e\u2000-\u200f\u202f\u205f\u2060\u3000\ufeff]+/g,
+          " "
+        );
+      }
+      if (titleLink.nextSibling && titleLink.nextSibling.nodeType === Node.TEXT_NODE) {
+        titleLink.nextSibling.nodeValue = titleLink.nextSibling.nodeValue.replace(/^\s*/, " ");
+      }
       var title = normalizeTitle(titleLink.textContent);
       var metadata = PUBLICATION_METADATA[title];
 
