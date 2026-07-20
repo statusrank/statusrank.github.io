@@ -161,10 +161,24 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 <div class="publication-catalog" markdown="1">
 
-<div class="publication-catalog__intro" aria-label="Publication organization">
-  <span class="is-active">All Publications</span>
-  <span>Conference &amp; Journal</span>
-  <span>By Year</span>
+<div class="publication-catalog__intro" aria-label="Publication filters">
+  <div class="publication-filter-group" role="group" aria-label="Filter by publication type">
+    <span class="publication-filter-label">Type</span>
+    <button class="publication-filter is-active" type="button" data-filter-group="kind" data-filter-value="all" aria-pressed="true">All Publications</button>
+    <button class="publication-filter" type="button" data-filter-group="kind" data-filter-value="conference" aria-pressed="false">Conference</button>
+    <button class="publication-filter" type="button" data-filter-group="kind" data-filter-value="journal" aria-pressed="false">Journal</button>
+  </div>
+  <div class="publication-filter-group" role="group" aria-label="Filter by research topic">
+    <span class="publication-filter-label">Topic</span>
+    <button class="publication-filter is-active" type="button" data-filter-group="topic" data-filter-value="all" aria-pressed="true">All Topics</button>
+    <button class="publication-filter" type="button" data-filter-group="topic" data-filter-value="auc-optimization" aria-pressed="false">AUC Optimization</button>
+    <button class="publication-filter" type="button" data-filter-group="topic" data-filter-value="trustworthy-genai" aria-pressed="false">Trustworthy GenAI</button>
+    <button class="publication-filter" type="button" data-filter-group="topic" data-filter-value="long-tail-vision" aria-pressed="false">Long-tail Vision</button>
+    <button class="publication-filter" type="button" data-filter-group="topic" data-filter-value="multimodal-learning" aria-pressed="false">Multimodal Learning</button>
+    <button class="publication-filter" type="button" data-filter-group="topic" data-filter-value="robust-learning" aria-pressed="false">Robust Learning</button>
+    <button class="publication-filter" type="button" data-filter-group="topic" data-filter-value="recommender-systems" aria-pressed="false">Recommender Systems</button>
+  </div>
+  <p class="publication-filter-status" aria-live="polite"></p>
 </div>
 
 ## 2026
