@@ -287,10 +287,22 @@
     });
   }
 
+  function markSectionDates() {
+    Array.prototype.forEach.call(
+      document.querySelectorAll(".news-scroll em:first-child, .page-section-body em:first-child"),
+      function (date) {
+        if (/^\d{4}(?:\.|\s|$)/.test(date.textContent.trim())) {
+          date.classList.add("section-date");
+        }
+      }
+    );
+  }
+
   document.addEventListener("DOMContentLoaded", function () {
     enhancePublicationCatalog();
     enhanceResourceLinks();
     markSectionTypography();
     enhanceExperienceTimeline();
+    markSectionDates();
   });
 })();

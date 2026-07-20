@@ -385,5 +385,55 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
 
 ## Former Students
 
-- 侯文政, Master, 小红书 (国家奖学金)
-- 邵慧杨, Master, 字节跳动 (中国图象图形学学会优硕、北京图象图形学学会优硕)
+<!-- alumni-grid:start -->
+<div class="alumni-grid">
+  <article class="alumni-card">
+    <a class="alumni-card__portrait" href="https://vipl.ict.ac.cn/edu/paststudent/master/202205/t20220518_123574.html" target="_blank" rel="noopener noreferrer" aria-label="Wenzheng Hou profile">
+      <img src="images/students/wenzheng-hou.jpg" alt="Wenzheng Hou">
+    </a>
+    <div class="alumni-card__content">
+      <div class="alumni-card__identity">
+        <h3><a href="https://vipl.ict.ac.cn/edu/paststudent/master/202205/t20220518_123574.html" target="_blank" rel="noopener noreferrer">侯文政 <span>Wenzheng Hou</span></a></h3>
+        <p>M.S. · Institute of Computing Technology, CAS</p>
+      </div>
+      <p class="alumni-card__destination"><span>Now at</span> <strong>Xiaohongshu</strong></p>
+    </div>
+  </article>
+
+  <article class="alumni-card">
+    <a class="alumni-card__portrait" href="https://vipl.ict.ac.cn/edu/paststudent/master/202211/t20221118_123549.html" target="_blank" rel="noopener noreferrer" aria-label="Huiyang Shao profile">
+      <img src="images/students/huiyang-shao.jpg" alt="Huiyang Shao">
+    </a>
+    <div class="alumni-card__content">
+      <div class="alumni-card__identity">
+        <h3><a href="https://vipl.ict.ac.cn/edu/paststudent/master/202211/t20221118_123549.html" target="_blank" rel="noopener noreferrer">邵慧杨 <span>Huiyang Shao</span></a></h3>
+        <p>M.S. · Institute of Computing Technology, CAS</p>
+      </div>
+      <p class="alumni-card__destination"><span>Now at</span> <strong>ByteDance</strong></p>
+      <div class="alumni-card__honors" aria-label="Selected honors">
+        <a href="https://vipl.ict.ac.cn/edu/studenthonor/" target="_blank" rel="noopener noreferrer">CAS President's Award</a>
+        <a href="https://vipl.ict.ac.cn/edu/studenthonor/" target="_blank" rel="noopener noreferrer">CSIG Outstanding Master's Thesis</a>
+        <a href="https://vipl.ict.ac.cn/people/qqxu/" target="_blank" rel="noopener noreferrer">BSIG Outstanding Master's Thesis</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="alumni-card">
+    <a class="alumni-card__portrait" href="https://cs.cumt.edu.cn/info/1050/4749.htm" target="_blank" rel="noopener noreferrer" aria-label="Zhiguang Lu profile">
+      <img src="images/students/zhiguang-lu.png" alt="Zhiguang Lu">
+    </a>
+    <div class="alumni-card__content">
+      <div class="alumni-card__identity">
+        <h3><a href="https://cs.cumt.edu.cn/info/1050/4749.htm" target="_blank" rel="noopener noreferrer">芦志广 <span>Zhiguang Lu</span></a></h3>
+        <p>M.S. · Institute of Computing Technology, CAS</p>
+      </div>
+      <p class="alumni-card__destination"><span>Now at</span> <strong>ByteDance</strong></p>
+      <div class="alumni-card__honors" aria-label="Selected honors">
+        <a href="https://vipl.ict.ac.cn/edu/studenthonor/" target="_blank" rel="noopener noreferrer">ICT–E Fund FinTech M.S. Award</a>
+        <a href="https://cs.cumt.edu.cn/info/1050/4749.htm" target="_blank" rel="noopener noreferrer">National Scholarship</a>
+        <a href="https://vipl.ict.ac.cn/news/lab/202501/t20250110_308555.html" target="_blank" rel="noopener noreferrer">NeurIPS 2024 CLAS Champion</a>
+      </div>
+    </div>
+  </article>
+</div>
+<!-- alumni-grid:end -->
