@@ -57,7 +57,7 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 - *2026.07.16*: &nbsp;🎉🎉 I joined the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) as an Assistant Professor.
 - *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in the CVPR 2026 Vision-based Assistants in the Real World Workshop, AI Coach Challenge (Cooking Track).
 - *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, 2026), achieving back-to-back **<font color='red'> 1st Place Awards </font>** in the same track in 2025 and 2026.
-- *2026.05.14*: &nbsp;🎉🎉 I have been recognized as an **<font color='red'>ICML 2026 Gold Reviewer</font>**.
+- *2026.05.14*: &nbsp;🎉🎉 I have been recognized as an ICML 2026 Gold Reviewer.
 - *2026.04.28*: &nbsp;🎉🎉 One paper has been accepted by ICML 2026 with **<font color='red'>Oral presentation (0.69%)</font>**. Congrat to shixi!
 - *2026.02.21*: &nbsp;🎉🎉 Two paper have been accepted by CVPR 2026. Congrat to Boyu and FerryLi
 - *2025.11.15*: One paper has been accepted by T-PAMI 2025!
@@ -259,7 +259,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 # 🎖 Honors and Awards
 - *2026* **<font color='red'> 1st Place Award </font>** in CVPR 2026 Vision-based Assistants in the Real World Workshop (AI Coach Challenge, Cooking Track)
 - *2026* **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, 2026; back-to-back 1st-place awards in the same track in 2025 and 2026)
-- *2026* **<font color='red'> ICML Gold Reviewer </font>** (ICML 2026)
+- *2026* ICML Gold Reviewer (ICML 2026)
 - *2025* ACM China Excellent Doctoral Dissertation Award Normination  (ACM中国优博奖提名, <font color='red'>5 papers in China</font>)
 - *2025* ACM China SIGMM Excellent Doctoral Dissertation Award (ACM中国SigMM优博, <font color='red'>3 papers in total</font>)
 - *2025* Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院优秀博士学位论文，中科院<font color='red'>全学科100篇</font>)
