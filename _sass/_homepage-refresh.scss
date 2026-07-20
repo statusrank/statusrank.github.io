@@ -11,29 +11,6 @@
   --homepage-muted: #5f6b80;
 }
 
-.author__name {
-  position: relative;
-  display: inline-block;
-  margin-bottom: 0.85rem;
-  color: #142d63;
-  font-size: 1.48rem;
-  font-weight: 900;
-  letter-spacing: -0.025em;
-  line-height: 1.2;
-}
-
-.author__name::after {
-  position: absolute;
-  left: 0;
-  bottom: -0.42rem;
-  width: 3.1rem;
-  height: 4px;
-  border-radius: 999px;
-  background: linear-gradient(90deg, var(--homepage-blue), var(--homepage-violet));
-  box-shadow: 0 3px 9px rgba(79, 70, 229, 0.24);
-  content: "";
-}
-
 .masthead {
   border-bottom: 1px solid rgba(229, 233, 255, 0.96);
   background: rgba(255, 255, 255, 0.9);
@@ -1054,10 +1031,6 @@
         font-size: 1.07rem;
       }
     }
-  }
-
-  .author__name {
-    font-size: 1.36rem;
   }
 
   .publication-catalog > ul > li {
