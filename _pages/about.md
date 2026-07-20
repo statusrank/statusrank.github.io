@@ -54,7 +54,7 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 # 🔥 News
 <div class="news-scroll" markdown="1">
 
-- *2026.07*: &nbsp;🎉🎉 I joined the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) as an Assistant Professor.
+- *2026.07.16*: &nbsp;🎉🎉 I joined the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) as an Assistant Professor.
 - *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in the CVPR 2026 Vision-based Assistants in the Real World Workshop, AI Coach Challenge (Cooking Track).
 - *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, 2026), achieving back-to-back **<font color='red'> 1st Place Awards </font>** in the same track in 2025 and 2026.
 - *2026.05.14*: &nbsp;🎉🎉 I have been recognized as an **<font color='red'>ICML 2026 Gold Reviewer</font>**.
