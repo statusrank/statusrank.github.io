@@ -440,7 +440,6 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
       <div class="alumni-card__honors" aria-label="Selected honors">
         <a href="https://vipl.ict.ac.cn/edu/studenthonor/" target="_blank" rel="noopener noreferrer">ICT–E Fund FinTech M.S. Award</a>
         <a href="https://cs.cumt.edu.cn/info/1050/4749.htm" target="_blank" rel="noopener noreferrer">National Scholarship</a>
-        <a href="https://vipl.ict.ac.cn/news/lab/202501/t20250110_308555.html" target="_blank" rel="noopener noreferrer">NeurIPS 2024 CLAS Champion</a>
       </div>
     </div>
   </article>
