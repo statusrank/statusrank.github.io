@@ -373,6 +373,7 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
 
 ## Current Students
 
+<!-- current-students-grid:start -->
 <div class="collaborator-grid">
   <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://boyuh.github.io/" target="_blank" rel="noopener noreferrer" aria-label="Boyu Han homepage"><div class="collaborator-avatar collaborator-avatar--photo"><img src="images/students/boyu-han.jpg" alt="Boyu Han"></div></a><strong>韩博宇</strong><span>Ph.D. Student</span><small>NeurIPS×2, CVPR×1</small></div>
   <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://ferry-li.github.io/" target="_blank" rel="noopener noreferrer" aria-label="Feiran Li homepage"><div class="collaborator-avatar collaborator-avatar--photo"><img src="images/students/feiran-li.jpg" alt="Feiran Li"></div></a><strong>李斐然</strong><span>Ph.D. Student</span><small>ICML×2, CVPR×1</small></div>
@@ -381,7 +382,13 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
   <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://dblp.org/pid/381/5172" target="_blank" rel="noopener noreferrer" aria-label="Ruochen Cui profile"><div class="collaborator-avatar">CR</div></a><strong>崔若晨</strong><span>Ph.D. Student</span></div>
   <div class="collaborator-card"><div class="collaborator-avatar">YH</div><strong>李玉海</strong><span>Ph.D. Student</span></div>
   <div class="collaborator-card"><div class="collaborator-avatar">YJ</div><strong>钟玉杰</strong><span>Master Student</span></div>
+  <div class="collaborator-card"><div class="collaborator-avatar">LP</div><strong>李鹏</strong><span>Master Student</span></div>
+  <div class="collaborator-card"><div class="collaborator-avatar">CD</div><strong>陈铎友</strong><span>Incoming Ph.D. Student</span></div>
+  <div class="collaborator-card"><div class="collaborator-avatar">CB</div><strong>崔斌</strong><span>Incoming Ph.D. Student</span></div>
+  <div class="collaborator-card"><div class="collaborator-avatar">CJ</div><strong>陈嘉</strong><span>Incoming Master Student</span></div>
+  <div class="collaborator-card"><div class="collaborator-avatar">BJ</div><strong>鲍俊</strong><span>Incoming Master Student</span></div>
 </div>
+<!-- current-students-grid:end -->
 
 ## Former Students
 
