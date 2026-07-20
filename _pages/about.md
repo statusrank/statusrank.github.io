@@ -398,7 +398,7 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
 <div class="alumni-grid">
   <article class="alumni-card">
     <a class="alumni-card__portrait" href="https://vipl.ict.ac.cn/edu/paststudent/master/202205/t20220518_123574.html" target="_blank" rel="noopener noreferrer" aria-label="Wenzheng Hou profile">
-      <img class="student-photo student-photo--wenzheng" src="images/students/wenzheng-hou.jpg" alt="Wenzheng Hou">
+      <img class="student-photo student-photo--wenzheng" src="images/students/wenzheng-hou.png" alt="Wenzheng Hou">
     </a>
     <div class="alumni-card__content">
       <div class="alumni-card__identity">
@@ -406,6 +406,9 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
         <p>M.S. · Institute of Computing Technology, CAS</p>
       </div>
       <p class="alumni-card__destination"><span>Now at</span> <strong>Xiaohongshu</strong></p>
+      <div class="alumni-card__honors" aria-label="Selected honors">
+        <a href="https://vipl.ict.ac.cn/edu/studenthonor/" target="_blank" rel="noopener noreferrer">National Scholarship</a>
+      </div>
     </div>
   </article>
 
@@ -428,9 +431,7 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
   </article>
 
   <article class="alumni-card">
-    <a class="alumni-card__portrait" href="https://cs.cumt.edu.cn/info/1050/4749.htm" target="_blank" rel="noopener noreferrer" aria-label="Zhiguang Lu profile">
-      <img class="student-photo student-photo--zhiguang" src="images/students/zhiguang-lu.png" alt="Zhiguang Lu">
-    </a>
+    <a class="alumni-card__portrait alumni-card__portrait--placeholder" href="https://cs.cumt.edu.cn/info/1050/4749.htm" target="_blank" rel="noopener noreferrer" aria-label="Zhiguang Lu profile">ZL</a>
     <div class="alumni-card__content">
       <div class="alumni-card__identity">
         <h3><a href="https://cs.cumt.edu.cn/info/1050/4749.htm" target="_blank" rel="noopener noreferrer">芦志广 <span>Zhiguang Lu</span></a></h3>
@@ -439,7 +440,6 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
       <p class="alumni-card__destination"><span>Now at</span> <strong>ByteDance</strong></p>
       <div class="alumni-card__honors" aria-label="Selected honors">
         <a href="https://vipl.ict.ac.cn/edu/studenthonor/" target="_blank" rel="noopener noreferrer">ICT–E Fund FinTech M.S. Award</a>
-        <a href="https://cs.cumt.edu.cn/info/1050/4749.htm" target="_blank" rel="noopener noreferrer">National Scholarship</a>
       </div>
     </div>
   </article>

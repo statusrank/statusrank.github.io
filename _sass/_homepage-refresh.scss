@@ -1308,15 +1308,11 @@ ul.page-section-body--students > li:hover {
 }
 
 .student-photo--wenzheng {
-  --student-photo-scale: 0.88;
+  --student-photo-scale: 0.82;
 }
 
 .student-photo--huiyang {
   --student-photo-scale: 0.74;
-}
-
-.student-photo--zhiguang {
-  --student-photo-scale: 0.82;
 }
 
 .alumni-grid {
@@ -1384,6 +1380,18 @@ ul.page-section-body--students > li:hover {
   transform: translateY(var(--student-photo-shift-y, 0)) scale(var(--student-photo-scale, 1));
   transform-origin: center;
   transition: transform 0.25s ease;
+}
+
+.alumni-card__portrait--placeholder {
+  display: grid;
+  place-items: center;
+  background:
+    radial-gradient(circle at 30% 25%, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.2) 35%, transparent 36%),
+    linear-gradient(135deg, #edf7ff 0%, #dce8ff 48%, #eeeaff 100%);
+  color: #4d5da8;
+  font-size: 1.25rem;
+  font-weight: 850;
+  letter-spacing: 0.02em;
 }
 
 .alumni-card__portrait:hover img,
