@@ -17,34 +17,16 @@ redirect_from:
 
 # About Me
 
-<section class="about-intro" aria-label="Academic profile introduction">
-  <div class="about-intro__meta">
-    <span class="about-intro__role">Assistant Professor · ICT, CAS</span>
-    <a class="about-intro__email" href="mailto:baoshilong@ucas.ac.cn">Email</a>
-  </div>
+<span class='anchor' id='about-me'></span>
 
-  <p class="about-intro__lead">Hi, I’m <strong>Shilong Bao</strong> <span lang="zh-CN">包世龙</span>.</p>
+Hi! I'm Shilong Bao (包世龙, E-mail: baoshilong@ucas.ac.cn). I am currently an Assistant Professor at the **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**. I received my Ph.D. degree from the **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also fortunate to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS), [Xiaochun Cao (操晓春)](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (Dean of the School of Cyber Science and Technology, Sun Yat-sen University), and [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Tenure-track Assistant Professor at UCAS).
 
-  <p class="about-intro__copy">I am an Assistant Professor at the <strong>Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)</strong>. I received my Ph.D. degree from the <strong>Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)</strong>, supervised by Prof. <a href="https://qmhuang-ucas.github.io/">Qingming Huang (黄庆明)</a> (IEEE Fellow).</p>
+My research interests primarily lie in machine learning and AI safety, with a particular focus on:
+- Theory of Learning to Rank and its Derived Algorithms
+- AUC-oriented Learning and its Applications (e.g., downstream computer vision tasks)
+- Safe AI Models and Algorithms (e.g., certified/adversarial robustness, robust and fair generative models)
 
-  <p class="about-intro__collaboration"><span>Collaborations</span> I am also fortunate to collaborate with <a href="https://qianqianxu010.github.io/">Qianqian Xu (许倩倩)</a> (Professor at ICT, CAS), <a href="https://scst.sysu.edu.cn/members/caoxiaochun.htm">Xiaochun Cao (操晓春)</a> (Dean of the School of Cyber Science and Technology, Sun Yat-sen University), and <a href="https://joshuaas.github.io/">Zhiyong Yang (杨智勇)</a> (Tenure-track Assistant Professor at UCAS).</p>
-
-  <div class="about-focus" aria-label="Research focus">
-    <div class="about-focus__heading">Research Focus</div>
-    <div class="about-focus__item">
-      <span class="about-focus__index">01</span>
-      <div><strong>Learning to Rank</strong><span>Theory, optimization, and derived algorithms</span></div>
-    </div>
-    <div class="about-focus__item">
-      <span class="about-focus__index">02</span>
-      <div><strong>AUC-oriented Learning</strong><span>Metric-aware learning and visual applications</span></div>
-    </div>
-    <div class="about-focus__item">
-      <span class="about-focus__index">03</span>
-      <div><strong>Safe &amp; Trustworthy AI</strong><span>Robust, fair, and safe generative models</span></div>
-    </div>
-  </div>
-</section>
+-----
 
 {% comment %}
 <p style="text-align: justify; text-justify: inter-word;">
