@@ -374,6 +374,8 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
 ## Current Students
 
 <!-- current-students-grid:start -->
+<p class="student-supervision-note">I co-supervise the following students.</p>
+
 <div class="collaborator-grid">
   <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://boyuh.github.io/" target="_blank" rel="noopener noreferrer" aria-label="Boyu Han homepage"><div class="collaborator-avatar collaborator-avatar--photo"><img src="images/students/boyu-han.jpg" alt="Boyu Han"></div></a><strong>韩博宇</strong><span>Ph.D. Student</span><small>NeurIPS×2, CVPR×1</small></div>
   <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://ferry-li.github.io/" target="_blank" rel="noopener noreferrer" aria-label="Feiran Li homepage"><div class="collaborator-avatar collaborator-avatar--photo"><img src="images/students/feiran-li.jpg" alt="Feiran Li"></div></a><strong>李斐然</strong><span>Ph.D. Student</span><small>ICML×2, CVPR×1</small></div>

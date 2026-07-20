@@ -1155,6 +1155,14 @@ ul.page-section-body--students > li:hover {
   font-weight: 650;
 }
 
+.student-supervision-note {
+  margin: 0.7rem 0 0;
+  color: #67718a;
+  font-size: var(--homepage-type-body);
+  font-style: italic;
+  line-height: 1.55;
+}
+
 .collaborator-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(132px, 1fr));
