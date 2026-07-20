@@ -108,14 +108,25 @@
 
 .about-copy {
   color: #4a556d;
-  font-size: var(--homepage-type-body);
-  line-height: var(--homepage-line-body);
+  font-size: 1.06rem;
+  line-height: 1.72;
 }
 
 .about-copy > p {
-  margin-bottom: 0.85rem;
+  margin-bottom: 0.95rem;
   text-align: justify;
   text-justify: inter-word;
+}
+
+.about-copy > p:nth-of-type(2) {
+  color: #3f4c66;
+  font-weight: 650;
+}
+
+.about-copy a {
+  font-weight: 650;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.16em;
 }
 
 .about-copy > ul {
@@ -124,7 +135,9 @@
 
 .about-copy > ul > li {
   margin: 0.3rem 0;
+  color: #3f4c66;
   font-size: inherit;
+  font-weight: 650;
   line-height: inherit;
 }
 
@@ -1505,7 +1518,8 @@ ul.page-section-body--students > li:hover {
   }
 
   .about-copy {
-    font-size: var(--homepage-type-body);
+    font-size: 0.99rem;
+    line-height: 1.68;
   }
 
   .page__content * {
