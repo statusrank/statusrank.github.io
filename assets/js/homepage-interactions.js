@@ -231,24 +231,31 @@
   }
 
   function markSectionTypography() {
-    var targetHeadings = [
-      "Services",
-      "Honors and Awards",
-      "Educations & Work Experience",
-      "Invited Talks",
-      "Fundings and Project"
+    var targetSections = [
+      { title: "Services", slug: "services" },
+      { title: "Honors and Awards", slug: "honors" },
+      { title: "Educations & Work Experience", slug: "experience" },
+      { title: "Invited Talks", slug: "invited-talks" },
+      { title: "Fundings and Project", slug: "projects" },
+      { title: "Students", slug: "students" }
     ];
 
     Array.prototype.forEach.call(document.querySelectorAll(".page__content h1"), function (heading) {
       var headingText = heading.textContent.replace(/\s+/g, " ").trim();
-      var isTarget = targetHeadings.some(function (title) {
-        return headingText.indexOf(title) !== -1;
+      var section = targetSections.find(function (target) {
+        return headingText.indexOf(target.title) !== -1;
       });
-      if (!isTarget) return;
+      if (!section) return;
+
+      heading.classList.add("page-section-heading", "page-section-heading--" + section.slug);
 
       var sibling = heading.nextElementSibling;
       while (sibling && sibling.tagName !== "H1") {
-        if (!/^H[2-6]$/.test(sibling.tagName)) sibling.classList.add("page-section-body");
+        if (/^H[2-6]$/.test(sibling.tagName)) {
+          sibling.classList.add("page-section-subheading", "page-section-subheading--" + section.slug);
+        } else {
+          sibling.classList.add("page-section-body", "page-section-body--" + section.slug);
+        }
         sibling = sibling.nextElementSibling;
       }
     });

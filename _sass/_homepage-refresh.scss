@@ -97,6 +97,11 @@
   font-weight: 800;
 }
 
+.about-copy > p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 .opportunity-card {
   min-width: 0;
   overflow-wrap: anywhere;
@@ -355,7 +360,7 @@
 
     .badge {
       top: 0.58rem;
-      left: 50%;
+      left: 0.58rem;
       max-width: calc(100% - 1.5rem);
       padding: 0.42rem 0.86rem;
       border-radius: 999px;
@@ -365,7 +370,7 @@
       line-height: 1.2;
       text-align: center;
       white-space: nowrap;
-      transform: translateX(-50%);
+      transform: none;
     }
   }
 
@@ -715,9 +720,210 @@
 }
 
 .page-section-body,
-.experience-timeline {
+.experience-timeline,
+.collaborator-grid {
   font-size: 1.02rem;
   line-height: 1.65;
+}
+
+.page-section-heading {
+  margin-top: 2.7rem;
+}
+
+.page-section-subheading {
+  position: relative;
+  margin: 1.3rem 0 0.55rem;
+  padding-left: 0.82rem;
+  border: 0;
+  color: #26395f;
+  font-size: 1.08rem;
+  font-weight: 850;
+  letter-spacing: -0.012em;
+  line-height: 1.45;
+}
+
+.page-section-subheading::before {
+  position: absolute;
+  top: 0.25rem;
+  bottom: 0.25rem;
+  left: 0;
+  width: 3px;
+  border-radius: 999px;
+  background: linear-gradient(180deg, var(--homepage-blue), var(--homepage-violet));
+  content: "";
+}
+
+.page-section-body {
+  color: #4a556d;
+}
+
+.page-section-body > li {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.page-section-body a {
+  color: #3153a4;
+  font-weight: 700;
+  text-decoration-color: rgba(49, 83, 164, 0.35);
+  text-underline-offset: 0.16em;
+}
+
+ul.page-section-body--services,
+ul.page-section-body--honors,
+ul.page-section-body--invited-talks,
+ul.page-section-body--projects,
+ul.page-section-body--students {
+  margin: 0.3rem 0 1.35rem;
+  padding: 0;
+  list-style: none;
+}
+
+ul.page-section-body--services > li,
+ul.page-section-body--honors > li,
+ul.page-section-body--invited-talks > li,
+ul.page-section-body--projects > li,
+ul.page-section-body--students > li {
+  position: relative;
+  margin: 0;
+  padding: 0.56rem 0.35rem 0.58rem 1.05rem;
+  border-bottom: 1px solid #edf0f7;
+  color: #4a556d;
+  background: transparent;
+}
+
+ul.page-section-body--services > li::before,
+ul.page-section-body--honors > li::before,
+ul.page-section-body--invited-talks > li::before,
+ul.page-section-body--projects > li::before,
+ul.page-section-body--students > li::before {
+  position: absolute;
+  top: 1.17rem;
+  left: 0.12rem;
+  width: 0.34rem;
+  height: 0.34rem;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--homepage-blue), var(--homepage-violet));
+  box-shadow: 0 0 0 4px #f1f4ff;
+  content: "";
+}
+
+ul.page-section-body--services > li:hover,
+ul.page-section-body--honors > li:hover,
+ul.page-section-body--invited-talks > li:hover,
+ul.page-section-body--projects > li:hover,
+ul.page-section-body--students > li:hover {
+  background: linear-gradient(90deg, rgba(246, 249, 255, 0.92), rgba(255, 255, 255, 0));
+}
+
+.page-section-body--services > li > em:first-child,
+.page-section-body--honors > li > em:first-child,
+.page-section-body--projects > li > em:first-child,
+.page-section-body--invited-talks > li > em:first-child {
+  display: inline-block;
+  margin-right: 0.42rem;
+  color: #3959a8;
+  font-style: normal;
+  font-weight: 850;
+  white-space: nowrap;
+}
+
+.page-section-body--honors > li > em:first-child {
+  min-width: 3.45rem;
+  padding: 0.08rem 0.42rem;
+  border-radius: 999px;
+  background: #f0f3ff;
+  color: #4e57bc;
+  font-size: 0.86rem;
+  line-height: 1.35;
+  text-align: center;
+}
+
+.page-section-body--honors font[color="red"],
+.page-section-body--projects font[color="red"] {
+  padding: 0.02rem 0.2rem;
+  border-radius: 4px;
+  background: #f1efff;
+  color: #5b42e8 !important;
+}
+
+.page-section-body--invited-talks.paper-box,
+.page-section-body--projects.paper-box {
+  display: grid;
+  grid-template-columns: minmax(190px, 26%) minmax(0, 1fr);
+  align-items: center;
+  gap: 1.35rem;
+  margin: 0;
+  padding: 1.1rem 0;
+  border: 0;
+  border-bottom: 1px solid #e7ebf5;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  transform: none;
+}
+
+.page-section-body--invited-talks.paper-box:hover,
+.page-section-body--projects.paper-box:hover {
+  border-color: #d9e0f3;
+  background: linear-gradient(90deg, rgba(248, 250, 255, 0.9), rgba(255, 255, 255, 0));
+  box-shadow: none;
+  transform: none;
+}
+
+.page-section-body--invited-talks .paper-box-image,
+.page-section-body--projects .paper-box-image {
+  width: 100%;
+  min-width: 0;
+}
+
+.page-section-body--invited-talks .paper-box-image img,
+.page-section-body--projects .paper-box-image img {
+  display: block;
+  width: 100%;
+  max-height: 190px;
+  border: 0;
+  border-radius: 9px;
+  box-shadow: 0 8px 20px rgba(38, 50, 120, 0.12);
+  object-fit: contain;
+}
+
+.page-section-body--invited-talks .paper-box-image .badge,
+.page-section-body--projects .paper-box-image .badge {
+  top: 0.5rem;
+  left: 0.5rem;
+  max-width: calc(100% - 1rem);
+  padding: 0.34rem 0.62rem;
+  border-radius: 6px;
+  font-size: 0.74rem;
+  letter-spacing: 0;
+  line-height: 1.3;
+  text-transform: none;
+  transform: none;
+}
+
+.page-section-body--invited-talks .paper-box-text,
+.page-section-body--projects .paper-box-text {
+  min-width: 0;
+  font-size: 1.02rem;
+  line-height: 1.65;
+}
+
+.page-section-body--invited-talks .paper-box-text p,
+.page-section-body--projects .paper-box-text p {
+  line-height: inherit;
+}
+
+.page-section-body--students.collaborator-grid {
+  font-size: 1.02rem;
+}
+
+.page-section-body--students .collaborator-card strong {
+  font-size: 1.02rem;
+}
+
+.page-section-body--students .collaborator-card span {
+  font-size: 0.9rem;
 }
 
 .experience-timeline {
@@ -1115,7 +1321,44 @@
   }
 
   .page-section-body,
-  .experience-timeline {
+  .experience-timeline,
+  .collaborator-grid {
+    font-size: 0.96rem;
+  }
+
+  .page-section-heading {
+    margin-top: 2.2rem;
+  }
+
+  .page-section-subheading {
+    margin-top: 1.05rem;
+    font-size: 1.02rem;
+  }
+
+  ul.page-section-body--services > li,
+  ul.page-section-body--honors > li,
+  ul.page-section-body--invited-talks > li,
+  ul.page-section-body--projects > li,
+  ul.page-section-body--students > li {
+    padding: 0.54rem 0.15rem 0.56rem 0.95rem;
+  }
+
+  .page-section-body--invited-talks.paper-box,
+  .page-section-body--projects.paper-box {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.85rem;
+    padding: 0.9rem 0;
+  }
+
+  .page-section-body--invited-talks .paper-box-image img,
+  .page-section-body--projects .paper-box-image img {
+    max-height: 210px;
+  }
+
+  .page-section-body--invited-talks .paper-box-text,
+  .page-section-body--projects .paper-box-text,
+  .page-section-body--students.collaborator-grid,
+  .page-section-body--students .collaborator-card strong {
     font-size: 0.96rem;
   }
 

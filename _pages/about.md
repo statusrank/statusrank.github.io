@@ -19,12 +19,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<div class="about-copy" markdown="1">
+
 Hi! I'm Shilong Bao (包世龙, E-mail: baoshilong@ucas.ac.cn). I am currently an Assistant Professor at the **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**. I received my Ph.D. degree from the **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also fortunate to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS), [Xiaochun Cao (操晓春)](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (Dean of the School of Cyber Science and Technology, Sun Yat-sen University), and [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Tenure-track Assistant Professor at UCAS).
 
 My research interests primarily lie in machine learning and AI safety, with a particular focus on:
 - Theory of Learning to Rank and its Derived Algorithms
 - AUC-oriented Learning and its Applications (e.g., downstream computer vision tasks)
 - Safe AI Models and Algorithms (e.g., certified/adversarial robustness, robust and fair generative models)
+
+</div>
 
 -----
 
@@ -54,8 +58,8 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 - *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in the CVPR 2026 Vision-based Assistants in the Real World Workshop, AI Coach Challenge (Cooking Track).
 - *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, 2026), achieving back-to-back **<font color='red'> 1st Place Awards </font>** in the same track in 2025 and 2026.
 - *2026.05.14*: &nbsp;🎉🎉 I have been recognized as an **<font color='red'>ICML 2026 Gold Reviewer</font>**.
-- *2026.4.28*: &nbsp;🎉🎉 One paper has been accepted by ICML 2026 with **<font color='red'>Oral presentation (0.69%)</font>**. Congrat to shixi!
-- *2026.2.21*: &nbsp;🎉🎉 Two paper have been accepted by CVPR 2026. Congrat to Boyu and FerryLi
+- *2026.04.28*: &nbsp;🎉🎉 One paper has been accepted by ICML 2026 with **<font color='red'>Oral presentation (0.69%)</font>**. Congrat to shixi!
+- *2026.02.21*: &nbsp;🎉🎉 Two paper have been accepted by CVPR 2026. Congrat to Boyu and FerryLi
 - *2025.11.15*: One paper has been accepted by T-PAMI 2025!
 - *2025.10.12*: &nbsp;🎉🎉 My PhD Thesis "Toward Efficient and Generalizable Collaborative Metric Learning Algorithms" (in Chinese) has been selected as the ACM China Excellent Doctoral Dissertation Normination Award (totally 5 papers in China) (ACM China 优博奖提名)
 - *2025.09.20*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2025!
@@ -72,7 +76,7 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 </div>
 
 <!-- - *2024.06.08*: &nbsp;🎉🎉 One paper has been accepted by T-PAMI 2024. Congrats to all! -->
-<!-- - *2024.05.2*: &nbsp;🎉🎉 Three papers have been accepted by ICML 2024 (One is Spotlight). Congrats to all! -->
+<!-- - *2024.05.02*: &nbsp;🎉🎉 Three papers have been accepted by ICML 2024 (One is Spotlight). Congrats to all! -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
