@@ -549,13 +549,18 @@
     }
 
     .badge {
-      top: 0.65rem;
-      left: 0.65rem;
-      padding: 0.38rem 0.7rem;
+      top: 0.58rem;
+      left: 50%;
+      max-width: calc(100% - 1.5rem);
+      padding: 0.42rem 0.86rem;
       border-radius: 999px;
       background: linear-gradient(135deg, var(--homepage-blue-deep), var(--homepage-violet));
       box-shadow: 0 7px 16px rgba(0, 54, 159, 0.24);
-      font-size: 0.72rem;
+      font-size: 0.82rem;
+      line-height: 1.2;
+      text-align: center;
+      white-space: nowrap;
+      transform: translateX(-50%);
     }
   }
 
@@ -1314,6 +1319,12 @@
 
     .paper-box-image > div {
       height: 178px;
+    }
+
+    .paper-box-image .badge {
+      max-width: calc(100% - 1.1rem);
+      padding: 0.38rem 0.72rem;
+      font-size: 0.76rem;
     }
 
     .paper-box-text {
