@@ -24,9 +24,9 @@ redirect_from:
 Hi! I'm Shilong Bao (包世龙, E-mail: baoshilong@ucas.ac.cn). I am currently an Assistant Professor at the **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**. I received my Ph.D. degree from the **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also fortunate to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS), [Xiaochun Cao (操晓春)](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (Dean of the School of Cyber Science and Technology, Sun Yat-sen University), and [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Tenure-track Assistant Professor at UCAS).
 
 My research interests primarily lie in machine learning and AI safety, with a particular focus on:
-- Theory of Learning to Rank and its Derived Algorithms
-- AUC-oriented Learning and its Applications (e.g., downstream computer vision tasks)
-- Safe AI Models and Algorithms (e.g., certified/adversarial robustness, robust and fair generative models)
+- Learning to Rank and AUC-oriented Optimization
+- Robust Representation Learning for Imbalanced Data
+- Trustworthy Multimodal and Generative AI
 
 </div>
 
