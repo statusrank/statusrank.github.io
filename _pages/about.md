@@ -377,9 +377,9 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
 <p class="student-supervision-note">I co-supervise the following students.</p>
 
 <div class="collaborator-grid">
-  <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://boyuh.github.io/" target="_blank" rel="noopener noreferrer" aria-label="Boyu Han homepage"><div class="collaborator-avatar collaborator-avatar--photo"><img src="images/students/boyu-han.jpg" alt="Boyu Han"></div></a><strong>韩博宇</strong><span>Ph.D. Student</span><small>NeurIPS×2, CVPR×1</small></div>
-  <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://ferry-li.github.io/" target="_blank" rel="noopener noreferrer" aria-label="Feiran Li homepage"><div class="collaborator-avatar collaborator-avatar--photo"><img src="images/students/feiran-li.jpg" alt="Feiran Li"></div></a><strong>李斐然</strong><span>Ph.D. Student</span><small>ICML×2, CVPR×1</small></div>
-  <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://huacong.github.io/" target="_blank" rel="noopener noreferrer" aria-label="Cong Hua homepage"><div class="collaborator-avatar collaborator-avatar--photo"><img src="images/students/cong-hua.jpg" alt="Cong Hua"></div></a><strong>华聪</strong><span>Ph.D. Student</span><small>ICML×2</small></div>
+  <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://boyuh.github.io/" target="_blank" rel="noopener noreferrer" aria-label="Boyu Han homepage"><div class="collaborator-avatar collaborator-avatar--photo"><img class="student-photo student-photo--boyu" src="images/students/boyu-han.jpg" alt="Boyu Han"></div></a><strong>韩博宇</strong><span>Ph.D. Student</span><small>NeurIPS×2, CVPR×1</small></div>
+  <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://ferry-li.github.io/" target="_blank" rel="noopener noreferrer" aria-label="Feiran Li homepage"><div class="collaborator-avatar collaborator-avatar--photo"><img class="student-photo student-photo--feiran" src="images/students/feiran-li.jpg" alt="Feiran Li"></div></a><strong>李斐然</strong><span>Ph.D. Student</span><small>ICML×2, CVPR×1</small></div>
+  <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://huacong.github.io/" target="_blank" rel="noopener noreferrer" aria-label="Cong Hua homepage"><div class="collaborator-avatar collaborator-avatar--photo"><img class="student-photo student-photo--cong" src="images/students/cong-hua.jpg" alt="Cong Hua"></div></a><strong>华聪</strong><span>Ph.D. Student</span><small>ICML×2</small></div>
   <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://dblp.org/pid/330/4448" target="_blank" rel="noopener noreferrer" aria-label="Shixi Qin profile"><div class="collaborator-avatar">QX</div></a><strong>秦世熙</strong><span>Ph.D. Student</span><small>ICML×2</small></div>
   <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://dblp.org/pid/381/5172" target="_blank" rel="noopener noreferrer" aria-label="Ruochen Cui profile"><div class="collaborator-avatar">CR</div></a><strong>崔若晨</strong><span>Ph.D. Student</span></div>
   <div class="collaborator-card"><div class="collaborator-avatar">YH</div><strong>李玉海</strong><span>Ph.D. Student</span></div>
@@ -398,7 +398,7 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
 <div class="alumni-grid">
   <article class="alumni-card">
     <a class="alumni-card__portrait" href="https://vipl.ict.ac.cn/edu/paststudent/master/202205/t20220518_123574.html" target="_blank" rel="noopener noreferrer" aria-label="Wenzheng Hou profile">
-      <img src="images/students/wenzheng-hou.jpg" alt="Wenzheng Hou">
+      <img class="student-photo student-photo--wenzheng" src="images/students/wenzheng-hou.jpg" alt="Wenzheng Hou">
     </a>
     <div class="alumni-card__content">
       <div class="alumni-card__identity">
@@ -411,7 +411,7 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
 
   <article class="alumni-card">
     <a class="alumni-card__portrait" href="https://vipl.ict.ac.cn/edu/paststudent/master/202211/t20221118_123549.html" target="_blank" rel="noopener noreferrer" aria-label="Huiyang Shao profile">
-      <img src="images/students/huiyang-shao.jpg" alt="Huiyang Shao">
+      <img class="student-photo student-photo--huiyang" src="images/students/huiyang-shao.jpg" alt="Huiyang Shao">
     </a>
     <div class="alumni-card__content">
       <div class="alumni-card__identity">
@@ -429,7 +429,7 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
 
   <article class="alumni-card">
     <a class="alumni-card__portrait" href="https://cs.cumt.edu.cn/info/1050/4749.htm" target="_blank" rel="noopener noreferrer" aria-label="Zhiguang Lu profile">
-      <img src="images/students/zhiguang-lu.png" alt="Zhiguang Lu">
+      <img class="student-photo student-photo--zhiguang" src="images/students/zhiguang-lu.png" alt="Zhiguang Lu">
     </a>
     <div class="alumni-card__content">
       <div class="alumni-card__identity">
