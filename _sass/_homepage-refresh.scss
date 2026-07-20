@@ -907,6 +907,16 @@ ul.page-section-body--students > li:hover {
   max-width: none;
 }
 
+.page-section-body--invited-talks .paper-box-image > div {
+  display: grid;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  place-items: center;
+  border-radius: 9px;
+  background: linear-gradient(145deg, #f8fbff, #f5f4ff);
+  box-shadow: 0 8px 20px rgba(38, 50, 120, 0.12);
+}
+
 .page-section-body--invited-talks .paper-box-image img,
 .page-section-body--projects .paper-box-image img {
   display: block;
@@ -918,6 +928,12 @@ ul.page-section-body--students > li:hover {
   border-radius: 9px;
   box-shadow: 0 8px 20px rgba(38, 50, 120, 0.12);
   object-fit: contain !important;
+}
+
+.page-section-body--invited-talks .paper-box-image img {
+  height: 100% !important;
+  border-radius: 0;
+  box-shadow: none;
 }
 
 .page-section-body--invited-talks .paper-box-image .badge,
