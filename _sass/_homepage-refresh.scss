@@ -808,8 +808,8 @@ ul.page-section-body--projects > li,
 ul.page-section-body--students > li {
   position: relative;
   margin: 0;
-  padding: 0.56rem 0.35rem 0.58rem 1.05rem;
-  border-bottom: 1px solid #edf0f7;
+  padding: 0.34rem 0;
+  border: 0;
   color: #4a556d;
   background: transparent;
 }
@@ -819,15 +819,7 @@ ul.page-section-body--honors > li::before,
 ul.page-section-body--invited-talks > li::before,
 ul.page-section-body--projects > li::before,
 ul.page-section-body--students > li::before {
-  position: absolute;
-  top: 1.17rem;
-  left: 0.12rem;
-  width: 0.34rem;
-  height: 0.34rem;
-  border-radius: 50%;
-  background: linear-gradient(135deg, var(--homepage-blue), var(--homepage-violet));
-  box-shadow: 0 0 0 4px #f1f4ff;
-  content: "";
+  display: none;
 }
 
 ul.page-section-body--services > li:hover,
@@ -835,7 +827,7 @@ ul.page-section-body--honors > li:hover,
 ul.page-section-body--invited-talks > li:hover,
 ul.page-section-body--projects > li:hover,
 ul.page-section-body--students > li:hover {
-  background: linear-gradient(90deg, rgba(246, 249, 255, 0.92), rgba(255, 255, 255, 0));
+  background: transparent;
 }
 
 .page-section-body--services > li > em:first-child,
@@ -872,13 +864,13 @@ ul.page-section-body--students > li:hover {
 .page-section-body--invited-talks.paper-box,
 .page-section-body--projects.paper-box {
   display: grid;
-  grid-template-columns: minmax(190px, 26%) minmax(0, 1fr);
-  align-items: center;
-  gap: 1.35rem;
+  grid-template-columns: minmax(320px, 38%) minmax(0, 1fr);
+  align-items: start;
+  gap: 1.65rem;
+  width: 100%;
   margin: 0;
-  padding: 1.1rem 0;
+  padding: 1.25rem 0 1.65rem;
   border: 0;
-  border-bottom: 1px solid #e7ebf5;
   border-radius: 0;
   background: transparent;
   box-shadow: none;
@@ -887,27 +879,40 @@ ul.page-section-body--students > li:hover {
 
 .page-section-body--invited-talks.paper-box:hover,
 .page-section-body--projects.paper-box:hover {
-  border-color: #d9e0f3;
-  background: linear-gradient(90deg, rgba(248, 250, 255, 0.9), rgba(255, 255, 255, 0));
+  border-color: transparent;
+  background: transparent;
   box-shadow: none;
   transform: none;
 }
 
 .page-section-body--invited-talks .paper-box-image,
 .page-section-body--projects .paper-box-image {
+  display: block;
+  justify-content: stretch;
   width: 100%;
+  max-width: none;
   min-width: 0;
+  order: initial;
+}
+
+.page-section-body--invited-talks .paper-box-image > div,
+.page-section-body--projects .paper-box-image > div {
+  display: block;
+  width: 100%;
+  max-width: none;
 }
 
 .page-section-body--invited-talks .paper-box-image img,
 .page-section-body--projects .paper-box-image img {
   display: block;
-  width: 100%;
-  max-height: 190px;
+  width: 100% !important;
+  max-width: none !important;
+  height: auto !important;
+  max-height: none !important;
   border: 0;
   border-radius: 9px;
   box-shadow: 0 8px 20px rgba(38, 50, 120, 0.12);
-  object-fit: contain;
+  object-fit: contain !important;
 }
 
 .page-section-body--invited-talks .paper-box-image .badge,
@@ -926,7 +931,11 @@ ul.page-section-body--students > li:hover {
 
 .page-section-body--invited-talks .paper-box-text,
 .page-section-body--projects .paper-box-text {
+  width: 100%;
+  max-width: none;
   min-width: 0;
+  padding-left: 0;
+  order: initial;
   font-size: 1.02rem;
   line-height: 1.65;
 }
@@ -934,6 +943,24 @@ ul.page-section-body--students > li:hover {
 .page-section-body--invited-talks .paper-box-text p,
 .page-section-body--projects .paper-box-text p {
   line-height: inherit;
+}
+
+.page-section-body--invited-talks .paper-box-text p:last-child,
+.page-section-body--projects .paper-box-text p:last-child,
+.page-section-body--projects .paper-box-text li {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.page-section-body--projects .paper-box-text ul {
+  margin: 0.55rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.page-section-body--projects .paper-box-text li {
+  margin: 0;
+  padding: 0;
 }
 
 .page-section-body--students.collaborator-grid {
@@ -950,31 +977,24 @@ ul.page-section-body--students > li:hover {
 
 .experience-timeline {
   position: relative;
-  margin: 1.35rem 0 2.75rem;
-  padding: 0.25rem 0;
+  display: grid;
+  gap: 0.4rem;
+  margin: 1.15rem 0 2.5rem;
+  padding: 0;
 }
 
 .experience-timeline::before {
-  position: absolute;
-  top: 3.15rem;
-  bottom: 3.15rem;
-  left: 2.65rem;
-  width: 2px;
-  border-radius: 999px;
-  background: linear-gradient(180deg, var(--homepage-blue), var(--homepage-violet));
-  box-shadow: none;
-  opacity: 0.7;
-  content: "";
+  display: none;
 }
 
 .experience-timeline .school-box {
   position: relative;
   display: grid;
-  grid-template-columns: 5.3rem minmax(0, 1fr);
+  grid-template-columns: 5rem minmax(0, 1fr);
   align-items: center;
-  gap: 1.75rem;
+  gap: 1.25rem;
   margin: 0;
-  padding: 1.25rem 0;
+  padding: 0.8rem 0;
   border: 0;
   border-radius: 0;
   background: transparent;
@@ -982,7 +1002,7 @@ ul.page-section-body--students > li:hover {
 }
 
 .experience-timeline .school-box + .school-box {
-  margin-top: 0.15rem;
+  margin-top: 0;
 }
 
 .experience-timeline .school-box:hover {
@@ -991,11 +1011,10 @@ ul.page-section-body--students > li:hover {
 }
 
 .experience-timeline .school-box > div:first-child {
-  z-index: 1;
   display: grid;
   place-items: center;
-  width: 5.3rem;
-  height: 5.3rem;
+  width: 5rem;
+  height: 5rem;
   border: 0;
   border-radius: 0;
   background: transparent;
@@ -1003,8 +1022,8 @@ ul.page-section-body--students > li:hover {
 }
 
 .experience-timeline .school-box img {
-  width: 4.65rem;
-  height: 4.65rem;
+  width: 4.35rem;
+  height: 4.35rem;
   padding: 0;
   border-radius: 0;
   background: transparent;
@@ -1014,7 +1033,7 @@ ul.page-section-body--students > li:hover {
 .experience-timeline .school-box-text {
   position: relative;
   min-width: 0;
-  padding: 0.58rem 6.3rem 0.65rem 1.35rem;
+  padding: 0.62rem 0.35rem 0.68rem 1.15rem;
   border: 0;
   border-radius: 0;
   background: transparent;
@@ -1023,8 +1042,8 @@ ul.page-section-body--students > li:hover {
 
 .experience-timeline .school-box-text::before {
   position: absolute;
-  top: 0.48rem;
-  bottom: 0.48rem;
+  top: 0.55rem;
+  bottom: 0.55rem;
   left: 0;
   width: 3px;
   border-radius: 999px;
@@ -1033,24 +1052,7 @@ ul.page-section-body--students > li:hover {
 }
 
 .experience-timeline .school-box-text::after {
-  position: absolute;
-  top: 0.62rem;
-  right: 0.2rem;
-  color: #98a3bb;
-  font-size: 0.64rem;
-  font-weight: 850;
-  letter-spacing: 0.09em;
-  line-height: 1.2;
-  text-transform: uppercase;
-}
-
-.experience-timeline .school-box:first-child .school-box-text::after {
-  content: "Work Experience";
-}
-
-.experience-timeline .school-box:nth-child(2) .school-box-text::after,
-.experience-timeline .school-box:nth-child(3) .school-box-text::after {
-  content: "Education";
+  display: none;
 }
 
 .experience-timeline .school-box:hover .school-box-text {
@@ -1060,12 +1062,36 @@ ul.page-section-body--students > li:hover {
 }
 
 .experience-timeline .school-box-text p:first-child {
-  margin: 0 0 0.48rem;
+  display: grid;
+  grid-template-columns: 10.5rem minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 0.78rem;
+  margin: 0 0 0.42rem;
+  line-height: 1.4;
+}
+
+.experience-period {
+  color: #4f5f82;
+  font-size: 0.88rem;
+  font-weight: 800;
+  letter-spacing: 0.01em;
+  white-space: nowrap;
+}
+
+.experience-role {
   color: #173f9e;
   font-size: 1.08rem;
   font-weight: 850;
   letter-spacing: -0.012em;
-  line-height: 1.45;
+}
+
+.experience-kind {
+  color: #8a95ad;
+  font-size: 0.66rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  white-space: nowrap;
 }
 
 .experience-timeline .school-box-text p:not(:first-child) {
@@ -1366,7 +1392,7 @@ ul.page-section-body--students > li:hover {
   ul.page-section-body--invited-talks > li,
   ul.page-section-body--projects > li,
   ul.page-section-body--students > li {
-    padding: 0.54rem 0.15rem 0.56rem 0.95rem;
+    padding: 0.32rem 0;
   }
 
   .page-section-body--invited-talks.paper-box,
@@ -1376,11 +1402,6 @@ ul.page-section-body--students > li:hover {
     padding: 0.9rem 0;
   }
 
-  .page-section-body--invited-talks .paper-box-image img,
-  .page-section-body--projects .paper-box-image img {
-    max-height: 210px;
-  }
-
   .page-section-body--invited-talks .paper-box-text,
   .page-section-body--projects .paper-box-text,
   .page-section-body--students.collaborator-grid,
@@ -1388,14 +1409,10 @@ ul.page-section-body--students > li:hover {
     font-size: 0.96rem;
   }
 
-  .experience-timeline::before {
-    left: 1.9rem;
-  }
-
   .experience-timeline .school-box {
     grid-template-columns: 3.8rem minmax(0, 1fr);
     gap: 0.9rem;
-    padding: 0.95rem 0;
+    padding: 0.7rem 0;
   }
 
   .experience-timeline .school-box > div:first-child {
@@ -1423,6 +1440,25 @@ ul.page-section-body--students > li:hover {
   }
 
   .experience-timeline .school-box-text p:first-child {
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 0.16rem 0.55rem;
+  }
+
+  .experience-period {
+    grid-column: 1;
+    grid-row: 1;
+    font-size: 0.8rem;
+  }
+
+  .experience-kind {
+    grid-column: 2;
+    grid-row: 1;
+    font-size: 0.6rem;
+  }
+
+  .experience-role {
+    grid-column: 1 / -1;
+    grid-row: 2;
     font-size: 0.99rem;
   }
 }

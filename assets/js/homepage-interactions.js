@@ -261,9 +261,41 @@
     });
   }
 
+  function enhanceExperienceTimeline() {
+    var timeline = document.querySelector(".experience-timeline");
+    if (!timeline) return;
+
+    Array.prototype.forEach.call(timeline.querySelectorAll(".school-box"), function (item, index) {
+      var summary = item.querySelector(".school-box-text p:first-child");
+      if (!summary || summary.querySelector(".experience-period")) return;
+
+      var text = summary.textContent.replace(/\s+/g, " ").trim();
+      var separator = text.indexOf(",");
+      if (separator === -1) return;
+
+      var period = document.createElement("span");
+      period.className = "experience-period";
+      period.textContent = text.slice(0, separator).trim();
+
+      var role = document.createElement("span");
+      role.className = "experience-role";
+      role.textContent = text.slice(separator + 1).trim();
+
+      var kind = document.createElement("span");
+      kind.className = "experience-kind";
+      kind.textContent = index === 0 ? "Work Experience" : "Education";
+
+      summary.textContent = "";
+      summary.appendChild(period);
+      summary.appendChild(role);
+      summary.appendChild(kind);
+    });
+  }
+
   document.addEventListener("DOMContentLoaded", function () {
     enhancePublicationCatalog();
     enhanceResourceLinks();
     markSectionTypography();
+    enhanceExperienceTimeline();
   });
 })();
