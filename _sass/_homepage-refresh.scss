@@ -1340,17 +1340,6 @@ ul.page-section-body--students > li:hover {
   transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
 }
 
-.alumni-card::before {
-  position: absolute;
-  top: 0;
-  right: 1.15rem;
-  left: 1.15rem;
-  height: 2px;
-  border-radius: 999px;
-  background: linear-gradient(90deg, var(--homepage-blue), rgba(109, 93, 252, 0.52), transparent 88%);
-  content: "";
-}
-
 .alumni-card:hover {
   border-color: rgba(70, 92, 167, 0.28);
   box-shadow: 0 16px 34px rgba(39, 55, 112, 0.12);
