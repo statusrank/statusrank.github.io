@@ -6,16 +6,14 @@
     "trustworthy-genai": "Trustworthy GenAI",
     "robust-learning": "Robust Learning",
     "imbalanced-learning": "Imbalanced Learning",
-    "computer-vision": "Computer Vision",
     "multimodal-learning": "Multimodal Learning",
-    "representation-learning": "Representation Learning",
     "ranking-recommendation": "Ranking & Recommendation"
   };
 
   var PUBLICATION_METADATA = {
     "Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation": {
       kind: "conference",
-      topics: ["imbalanced-learning", "computer-vision", "representation-learning"]
+      topics: ["imbalanced-learning", "robust-learning"]
     },
     "BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation": {
       kind: "conference",
@@ -35,7 +33,7 @@
     },
     "MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrödinger Bridges": {
       kind: "conference",
-      topics: ["trustworthy-genai", "robust-learning", "computer-vision"]
+      topics: ["trustworthy-genai", "robust-learning"]
     },
     "OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning": {
       kind: "conference",
@@ -43,19 +41,19 @@
     },
     "Bidirectional Logits Tree: Pursuing Granularity Reconcilement in Fine-Grained Classification": {
       kind: "conference",
-      topics: ["computer-vision", "representation-learning"]
+      topics: ["imbalanced-learning", "robust-learning"]
     },
     "AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation": {
       kind: "conference",
-      topics: ["auc-optimization", "imbalanced-learning", "computer-vision"]
+      topics: ["auc-optimization", "imbalanced-learning"]
     },
     "ReconBoost: Boosting Can Achieve Modality Reconcilement": {
       kind: "conference",
-      topics: ["multimodal-learning", "representation-learning"]
+      topics: ["multimodal-learning", "robust-learning"]
     },
     "Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition": {
       kind: "conference",
-      topics: ["imbalanced-learning", "computer-vision", "representation-learning"]
+      topics: ["imbalanced-learning", "robust-learning"]
     },
     "Revisiting AUC-oriented Adversarial Training with Loss-Agnostic Perturbations": {
       kind: "journal",
@@ -63,7 +61,7 @@
     },
     "AUC-Oriented Domain Adaptation: From Theory to Algorithm": {
       kind: "journal",
-      topics: ["auc-optimization", "robust-learning", "representation-learning"]
+      topics: ["auc-optimization", "robust-learning"]
     },
     "Asymptotically Unbiased Instance-wise Regularized Partial AUC Optimization: Theory and Algorithm": {
       kind: "conference",
@@ -83,7 +81,7 @@
     },
     "Collaborative Preference Embedding against Sparse Labels": {
       kind: "conference",
-      topics: ["ranking-recommendation", "representation-learning"]
+      topics: ["ranking-recommendation", "robust-learning"]
     }
   };
 
