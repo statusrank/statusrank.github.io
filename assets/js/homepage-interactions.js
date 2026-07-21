@@ -2,8 +2,8 @@
   "use strict";
 
   var TOPIC_LABELS = {
-    "ranking-auc": "Ranking & AUC",
-    "trustworthy-learning": "Trustworthy Learning",
+    "learning-optimization": "Learning & Optimization",
+    "trustworthy-learning": "Trustworthy ML",
     "multimodal-genai": "Multimodal & GenAI"
   };
 
@@ -18,7 +18,7 @@
     },
     "Closing the Approximation Gap of Partial AUC Optimization: A Tale of Two Formulations": {
       kind: "journal",
-      topics: ["ranking-auc"]
+      topics: ["learning-optimization"]
     },
     "LightFair: Towards an Efficient Alternative for Fair T2I Diffusion via Debiasing Pre-trained Text Encoders": {
       kind: "conference",
@@ -34,7 +34,7 @@
     },
     "OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning": {
       kind: "conference",
-      topics: ["ranking-auc", "multimodal-genai"]
+      topics: ["learning-optimization", "multimodal-genai"]
     },
     "Bidirectional Logits Tree: Pursuing Granularity Reconcilement in Fine-Grained Classification": {
       kind: "conference",
@@ -42,7 +42,7 @@
     },
     "AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation": {
       kind: "conference",
-      topics: ["ranking-auc", "trustworthy-learning"]
+      topics: ["learning-optimization", "trustworthy-learning"]
     },
     "ReconBoost: Boosting Can Achieve Modality Reconcilement": {
       kind: "conference",
@@ -54,31 +54,31 @@
     },
     "Revisiting AUC-oriented Adversarial Training with Loss-Agnostic Perturbations": {
       kind: "journal",
-      topics: ["ranking-auc", "trustworthy-learning"]
+      topics: ["learning-optimization", "trustworthy-learning"]
     },
     "AUC-Oriented Domain Adaptation: From Theory to Algorithm": {
       kind: "journal",
-      topics: ["ranking-auc", "trustworthy-learning"]
+      topics: ["learning-optimization", "trustworthy-learning"]
     },
     "Asymptotically Unbiased Instance-wise Regularized Partial AUC Optimization: Theory and Algorithm": {
       kind: "conference",
-      topics: ["ranking-auc"]
+      topics: ["learning-optimization"]
     },
     "Optimizing Two-way Partial AUC with an End-to-end Framework": {
       kind: "journal",
-      topics: ["ranking-auc"]
+      topics: ["learning-optimization"]
     },
     "AdAUC: End-to-end Adversarial AUC Optimization Against Long-tail Problems": {
       kind: "conference",
-      topics: ["ranking-auc", "trustworthy-learning"]
+      topics: ["learning-optimization", "trustworthy-learning"]
     },
     "Learning with Multiclass AUC: Theory and Algorithms": {
       kind: "journal",
-      topics: ["ranking-auc"]
+      topics: ["learning-optimization"]
     },
     "Collaborative Preference Embedding against Sparse Labels": {
       kind: "conference",
-      topics: ["ranking-auc"]
+      topics: ["learning-optimization"]
     }
   };
 

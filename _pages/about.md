@@ -23,10 +23,10 @@ redirect_from:
 
 Hi! I'm Shilong Bao (包世龙, E-mail: baoshilong@ucas.ac.cn). I am currently an Assistant Research Fellow at the **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**. I received my Ph.D. degree from the **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also fortunate to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS), [Xiaochun Cao (操晓春)](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (Dean of the School of Cyber Science and Technology, Sun Yat-sen University), and [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Tenure-track Assistant Professor at UCAS).
 
-My research focuses on objective-driven and trustworthy machine learning, connecting principled learning objectives with reliable learning under challenging data conditions and safe multimodal generation:
-- **Ranking and AUC Optimization** <span class="research-interest-detail">— Theory and algorithms for ranking metrics, with applications to recommender systems, long-tailed visual recognition, and semantic segmentation.</span>
-- **Trustworthy Machine Learning** <span class="research-interest-detail">— Robust and generalizable learning under class imbalance, distribution shifts, and adversarial perturbations, supporting fine-grained recognition, domain adaptation, and open-world learning.</span>
-- **Trustworthy Multimodal and Generative AI** <span class="research-interest-detail">— Safe and reliable multimodal and diffusion models for text-to-image and image-to-image generation, with emphasis on bias mitigation, concept erasure, backdoor analysis and detection, and copyright protection.</span>
+My research spans three closely related areas, from foundational learning theory and optimization to trustworthy methods and their applications in multimodal and generative AI:
+- **Machine Learning Theory and Optimization** <span class="research-interest-detail">(Learning to Rank, AUC-oriented Optimization, and Collaborative Metric Learning)</span>
+- **Trustworthy Machine Learning** <span class="research-interest-detail">(Robust Learning, Imbalanced Learning, Domain Adaptation, and Open-world Learning)</span>
+- **Multimodal and Generative AI** <span class="research-interest-detail">(Multimodal Learning, Text-to-Image and Image-to-Image Models, and Generative Model Safety)</span>
 
 </div>
 
@@ -175,8 +175,8 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
   <div class="publication-filter-group" role="group" aria-label="Filter by research topic">
     <span class="publication-filter-label">Topic</span>
     <button class="publication-filter is-active" type="button" data-filter-group="topic" data-filter-value="all" aria-pressed="true">All Topics</button>
-    <button class="publication-filter" type="button" data-filter-group="topic" data-filter-value="ranking-auc" aria-pressed="false">Ranking &amp; AUC</button>
-    <button class="publication-filter" type="button" data-filter-group="topic" data-filter-value="trustworthy-learning" aria-pressed="false">Trustworthy Learning</button>
+    <button class="publication-filter" type="button" data-filter-group="topic" data-filter-value="learning-optimization" aria-pressed="false">Learning &amp; Optimization</button>
+    <button class="publication-filter" type="button" data-filter-group="topic" data-filter-value="trustworthy-learning" aria-pressed="false">Trustworthy ML</button>
     <button class="publication-filter" type="button" data-filter-group="topic" data-filter-value="multimodal-genai" aria-pressed="false">Multimodal &amp; GenAI</button>
   </div>
 </div>
