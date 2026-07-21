@@ -21,11 +21,11 @@ redirect_from:
 
 <div class="about-copy" markdown="1">
 
-Hi! I'm Shilong Bao (包世龙, E-mail: baoshilong@ucas.ac.cn). I am currently an Assistant Professor at the **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**. I received my Ph.D. degree from the **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also fortunate to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS), [Xiaochun Cao (操晓春)](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (Dean of the School of Cyber Science and Technology, Sun Yat-sen University), and [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Tenure-track Assistant Professor at UCAS).
+Hi! I'm Shilong Bao (包世龙, E-mail: baoshilong@ucas.ac.cn). I am currently an Assistant Research Fellow at the **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**. I received my Ph.D. degree from the **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also fortunate to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS), [Xiaochun Cao (操晓春)](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (Dean of the School of Cyber Science and Technology, Sun Yat-sen University), and [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Tenure-track Assistant Professor at UCAS).
 
 My research interests primarily lie in machine learning and AI safety, with a particular focus on:
 - Learning to Rank and AUC-oriented Optimization
-- Robust Representation Learning for Imbalanced Data
+- Robust and Imbalanced Machine Learning
 - Trustworthy Multimodal and Generative AI
 
 </div>
@@ -54,14 +54,14 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 # 🔥 News
 <div class="news-scroll" markdown="1">
 
-- *2026.07.16*: &nbsp;🎉🎉 I joined the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) as an Assistant Professor.
+- *2026.07.16*: &nbsp;🎉🎉 I joined the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) as an Assistant Research Fellow.
 - *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in the CVPR 2026 Vision-based Assistants in the Real World Workshop, AI Coach Challenge (Cooking Track).
 - *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, 2026), achieving back-to-back **<font color='red'> 1st Place Awards </font>** in the same track in 2025 and 2026.
 - *2026.05.14*: &nbsp;🎉🎉 I have been recognized as an ICML 2026 Gold Reviewer.
-- *2026.04.28*: &nbsp;🎉🎉 One paper has been accepted by ICML 2026 with **<font color='red'>Oral presentation (0.69%)</font>**. Congrat to shixi!
-- *2026.02.21*: &nbsp;🎉🎉 Two paper have been accepted by CVPR 2026. Congrat to Boyu and FerryLi
+- *2026.04.28*: &nbsp;🎉🎉 One paper has been accepted by ICML 2026 with **<font color='red'>Oral presentation (0.69%)</font>**. Congratulations to Shixi!
+- *2026.02.21*: &nbsp;🎉🎉 Two papers have been accepted by CVPR 2026. Congratulations to Boyu and Feiran!
 - *2025.11.15*: One paper has been accepted by T-PAMI 2025!
-- *2025.10.12*: &nbsp;🎉🎉 My PhD Thesis "Toward Efficient and Generalizable Collaborative Metric Learning Algorithms" (in Chinese) has been selected as the ACM China Excellent Doctoral Dissertation Normination Award (totally 5 papers in China) (ACM China 优博奖提名)
+- *2025.10.12*: &nbsp;🎉🎉 My PhD Thesis "Toward Efficient and Generalizable Collaborative Metric Learning Algorithms" (in Chinese) has been selected as the ACM China Excellent Doctoral Dissertation Award Nomination (totally 5 papers in China) (ACM China 优博奖提名)
 - *2025.09.20*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2025!
 - *2025.09.15*: &nbsp;🎉🎉 One paper has been accepted by T-PAMI!
 - *2025.09.13*: &nbsp;🎉🎉 We are organizing the forum "Efficient Training and Inference of Large Models" at the [CSIG Young Scientists Conference 2025](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA). Welcome to join us! 
@@ -71,7 +71,7 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 - *2025.06.12*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'> 1st Place Award </font>** in CVPR 2025 Competition for Fine-grained Video Understanding (EgoVis HoloAssist Challenges: Mistake Detection Track).
 - *2025.05.20*: &nbsp;🎉🎉 I have been nominated as ICLR Notable Reviewer 2025.
 - *2025.05.02*: &nbsp;🎉🎉 Three papers have been accepted by ICML 2025.
-- *2025.02.20*: &nbsp;🎉🎉 One papers have been accepted by T-PAMI 2025.
+- *2025.02.20*: &nbsp;🎉🎉 One paper has been accepted by T-PAMI 2025.
 
 </div>
 
@@ -109,7 +109,7 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 
 [Improved Diversity-Promoting Collaborative Metric Learning for Recommendation](https://ieeexplore.ieee.org/abstract/document/10553349). 
 
-**Shilong Bao**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 46(12): 9004-9022, Jun. 2024. \|[\[Code\]](https://)\|
+**Shilong Bao**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 46(12): 9004-9022, Jun. 2024.
 </div>
 </div>
 
@@ -133,9 +133,9 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 (Oral)</div><img src='images/gooddiffusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[GoodDiffusion: Proactive Copyright Protection for Diffusion Generative Models via Learnable Sample-specific Signatures](https://).
+[GoodDiffusion: Proactive Copyright Protection for Diffusion Generative Models via Learnable Sample-specific Signatures](https://github.com/qsx830/GoodDiffusion).
 
-Shixi Qin, Zhiyong Yang, **Shilong Bao**, Zitai Wang, Qianqian Xu, and Qingming Huang. International Conference on Machine Learning (**ICML**), 2026. **<font color='red'> (Oral, 0.69%) </font>** \| [\[Code\]](https://github.com/qsx830/GoodDiffusion)\| [\[Video\]](https://) \| [\[Poster\]](https://) \| [\[Slides\]](https://) \| [\[Project\]](https://github.com/qsx830/GoodDiffusion)
+Shixi Qin, Zhiyong Yang, **Shilong Bao**, Zitai Wang, Qianqian Xu, and Qingming Huang. International Conference on Machine Learning (**ICML**), 2026. **<font color='red'> (Oral, 0.69%) </font>** \| [\[Code\]](https://github.com/qsx830/GoodDiffusion)\|
 </div>
 </div>
 
@@ -192,13 +192,13 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 ## 2025
 
-- [Closing the Approximation Gap of Partial AUC Optimization: A Tale of Two Formulations](https://ieeexplore.ieee.org/document/11268965)  Yangbangyan Jiang, Qianqian Xu, Huiyang Shao, Zhiyong Yang, **Shilong Bao**, Xiaochun Cao and Qingming Huang.  IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2025. \|[\[Code\]](https://)\|
+- [Closing the Approximation Gap of Partial AUC Optimization: A Tale of Two Formulations](https://ieeexplore.ieee.org/document/11268965)  Yangbangyan Jiang, Qianqian Xu, Huiyang Shao, Zhiyong Yang, **Shilong Bao**, Xiaochun Cao and Qingming Huang.  IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2025.
 
 - [LightFair: Towards an Efficient Alternative for Fair T2I Diffusion via Debiasing Pre-trained Text Encoders](https://arxiv.org/abs/2509.23639)  Boyu Han, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Kangli Zi, and Qingming Huang.  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. \|[\[Code\]](https://github.com/boyuh/LightFair)\|
 
 - [One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework for Diffusion Models](https://arxiv.org/pdf/2505.11131)  Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Xiaochun Cao, Qingming Huang.  International Conference on Machine Learning (**ICML**), 2025. \|[\[Code\]](https://github.com/Ferry-Li/Co-Erasing)\|
 
-- [MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrödinger Bridges](https://arxiv.org/pdf/2505.08809?)  Shixi Qin, Zhiyong Yang, **Shilong Bao**, Shi Wang, Qianqian Xu, Qingming Huang.  International Conference on Machine Learning (**ICML**), 2025. \|[\[Code\]](https://github.com/qsx830/MixBridge)\|
+- [MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrödinger Bridges](https://arxiv.org/pdf/2505.08809)  Shixi Qin, Zhiyong Yang, **Shilong Bao**, Shi Wang, Qianqian Xu, Qingming Huang.  International Conference on Machine Learning (**ICML**), 2025. \|[\[Code\]](https://github.com/qsx830/MixBridge)\|
 
 - [OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning](https://arxiv.org/pdf/2505.05180)  Cong Hua, Qianqian Xu, Zhiyong Yang, Zitai Wang, **Shilong Bao**, Qingming Huang.  International Conference on Machine Learning (**ICML**), 2025. \|[\[Code\]](https://github.com/huacong/OpenworldAUC)\|
 
@@ -246,7 +246,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 ### Journals
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI): Reviewer
 - IEEE Transactions on Multimedia (T-MM): Reviewer
-- IEEE Transactions on Circuits and Systems for Video Technology publication information (T-CSVT): Reviewer
+- IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT): Reviewer
 - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM): Reviewer
 - Multimedia Systems: Reviewer
 
@@ -260,7 +260,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - *2026* **<font color='red'> 1st Place Award </font>** in CVPR 2026 Vision-based Assistants in the Real World Workshop (AI Coach Challenge, Cooking Track)
 - *2026* **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, 2026; back-to-back 1st-place awards in the same track in 2025 and 2026)
 - *2026* ICML Gold Reviewer (ICML 2026)
-- *2025* ACM China Excellent Doctoral Dissertation Award Normination  (ACM中国优博奖提名, <font color='red'>5 papers in China</font>)
+- *2025* ACM China Excellent Doctoral Dissertation Award Nomination (ACM中国优博奖提名, <font color='red'>5 papers in China</font>)
 - *2025* ACM China SIGMM Excellent Doctoral Dissertation Award (ACM中国SigMM优博, <font color='red'>3 papers in total</font>)
 - *2025* Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院优秀博士学位论文，中科院<font color='red'>全学科100篇</font>)
 - *2025* **<font color='red'> 1st Place Award </font>** in ICCV 2025 Competition for High-Quality Face Dataset Generation (DataCV Challenge)
@@ -431,7 +431,9 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
   </article>
 
   <article class="alumni-card">
-    <a class="alumni-card__portrait alumni-card__portrait--placeholder" href="https://cs.cumt.edu.cn/info/1050/4749.htm" target="_blank" rel="noopener noreferrer" aria-label="Zhiguang Lu profile">ZL</a>
+    <a class="alumni-card__portrait" href="https://cs.cumt.edu.cn/info/1050/4749.htm" target="_blank" rel="noopener noreferrer" aria-label="Zhiguang Lu profile">
+      <img class="student-photo student-photo--zhiguang" src="images/students/zhiguang-lu.png" alt="Zhiguang Lu">
+    </a>
     <div class="alumni-card__content">
       <div class="alumni-card__identity">
         <h3><a href="https://cs.cumt.edu.cn/info/1050/4749.htm" target="_blank" rel="noopener noreferrer">芦志广 <span>Zhiguang Lu</span></a></h3>
