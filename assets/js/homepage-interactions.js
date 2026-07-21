@@ -2,86 +2,83 @@
   "use strict";
 
   var TOPIC_LABELS = {
-    "auc-optimization": "AUC Optimization",
-    "trustworthy-genai": "Trustworthy GenAI",
-    "robust-learning": "Robust Learning",
-    "imbalanced-learning": "Imbalanced Learning",
-    "multimodal-learning": "Multimodal Learning",
-    "ranking-recommendation": "Ranking & Recommendation"
+    "ranking-auc": "Ranking & AUC",
+    "trustworthy-learning": "Trustworthy Learning",
+    "multimodal-genai": "Multimodal & GenAI"
   };
 
   var PUBLICATION_METADATA = {
     "Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation": {
       kind: "conference",
-      topics: ["imbalanced-learning", "robust-learning"]
+      topics: ["trustworthy-learning"]
     },
     "BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation": {
       kind: "conference",
-      topics: ["trustworthy-genai", "robust-learning", "multimodal-learning"]
+      topics: ["multimodal-genai"]
     },
     "Closing the Approximation Gap of Partial AUC Optimization: A Tale of Two Formulations": {
       kind: "journal",
-      topics: ["auc-optimization", "ranking-recommendation"]
+      topics: ["ranking-auc"]
     },
     "LightFair: Towards an Efficient Alternative for Fair T2I Diffusion via Debiasing Pre-trained Text Encoders": {
       kind: "conference",
-      topics: ["trustworthy-genai", "multimodal-learning"]
+      topics: ["multimodal-genai"]
     },
     "One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework": {
       kind: "conference",
-      topics: ["trustworthy-genai", "multimodal-learning"]
+      topics: ["multimodal-genai"]
     },
     "MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrödinger Bridges": {
       kind: "conference",
-      topics: ["trustworthy-genai", "robust-learning"]
+      topics: ["multimodal-genai"]
     },
     "OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning": {
       kind: "conference",
-      topics: ["auc-optimization", "robust-learning", "multimodal-learning"]
+      topics: ["ranking-auc", "multimodal-genai"]
     },
     "Bidirectional Logits Tree: Pursuing Granularity Reconcilement in Fine-Grained Classification": {
       kind: "conference",
-      topics: ["imbalanced-learning", "robust-learning"]
+      topics: ["trustworthy-learning"]
     },
     "AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation": {
       kind: "conference",
-      topics: ["auc-optimization", "imbalanced-learning"]
+      topics: ["ranking-auc", "trustworthy-learning"]
     },
     "ReconBoost: Boosting Can Achieve Modality Reconcilement": {
       kind: "conference",
-      topics: ["multimodal-learning", "robust-learning"]
+      topics: ["multimodal-genai"]
     },
     "Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition": {
       kind: "conference",
-      topics: ["imbalanced-learning", "robust-learning"]
+      topics: ["trustworthy-learning"]
     },
     "Revisiting AUC-oriented Adversarial Training with Loss-Agnostic Perturbations": {
       kind: "journal",
-      topics: ["auc-optimization", "robust-learning"]
+      topics: ["ranking-auc", "trustworthy-learning"]
     },
     "AUC-Oriented Domain Adaptation: From Theory to Algorithm": {
       kind: "journal",
-      topics: ["auc-optimization", "robust-learning"]
+      topics: ["ranking-auc", "trustworthy-learning"]
     },
     "Asymptotically Unbiased Instance-wise Regularized Partial AUC Optimization: Theory and Algorithm": {
       kind: "conference",
-      topics: ["auc-optimization", "ranking-recommendation"]
+      topics: ["ranking-auc"]
     },
     "Optimizing Two-way Partial AUC with an End-to-end Framework": {
       kind: "journal",
-      topics: ["auc-optimization", "ranking-recommendation"]
+      topics: ["ranking-auc"]
     },
     "AdAUC: End-to-end Adversarial AUC Optimization Against Long-tail Problems": {
       kind: "conference",
-      topics: ["auc-optimization", "robust-learning", "imbalanced-learning"]
+      topics: ["ranking-auc", "trustworthy-learning"]
     },
     "Learning with Multiclass AUC: Theory and Algorithms": {
       kind: "journal",
-      topics: ["auc-optimization", "imbalanced-learning"]
+      topics: ["ranking-auc"]
     },
     "Collaborative Preference Embedding against Sparse Labels": {
       kind: "conference",
-      topics: ["ranking-recommendation", "robust-learning"]
+      topics: ["ranking-auc"]
     }
   };
 
