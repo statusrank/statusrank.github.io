@@ -84,12 +84,12 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 
 <div class="highlight-paper-list" markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2025</div><img src='images/TPAMI2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2026</div><img src='images/TPAMI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Size-invariant Salient Object Detection: A Generic Evaluation and Optimization Approach](https://arxiv.org/pdf/2509.15573). 
+[Towards Size-invariant Salient Object Detection: A Generic Evaluation and Optimization Approach](https://doi.org/10.1109/TPAMI.2025.3609882).
 
-**Shilong Bao**, Qianqian Xu, Feiran Li, Boyu Han, Zhiyong Yang, Xiaochun Cao, and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2025.
+**Shilong Bao**, Qianqian Xu, Feiran Li, Boyu Han, Zhiyong Yang, Xiaochun Cao, and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 48(2): 1115–1132, Feb. 2026.
 </div>
 </div>
 
@@ -109,7 +109,7 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 
 [Improved Diversity-Promoting Collaborative Metric Learning for Recommendation](https://ieeexplore.ieee.org/abstract/document/10553349). 
 
-**Shilong Bao**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 46(12): 9004-9022, Jun. 2024.
+**Shilong Bao**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 46(12): 9004–9022, Dec. 2024.
 </div>
 </div>
 
@@ -127,7 +127,7 @@ My research interests primarily lie in machine learning and AI safety, with a pa
 <div class='paper-box-text' markdown="1">
 [The Minority Matters: A Diversity-Promoting Collaborative Metric Learning Algorithm](https://arxiv.org/pdf/2209.15292.pdf).
 
-**Shilong Bao**, Qianqian Xu, Zhiyong Yang , Yuan He, Xiaochun Cao, Qingming Huang. Advances in Neural Information Processing Systems (**NeurIPS**), 2451-2464, 2022. **<font color='red'> (Oral, 1.7%) </font>** \| [\[Code\]](https://github.com/statusrank/DPCML)\| [\[Video\]](https://nips.cc/virtual/2022/poster/55412) \| [\[Poster\]](https://nips.cc/media/PosterPDFs/NeurIPS%202022/55412.png?t=1668477709.8846257) \| [\[Slides\]](https://nips.cc/virtual/2022/poster/55412)
+**Shilong Bao**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, and Qingming Huang. Advances in Neural Information Processing Systems (**NeurIPS**), 35: 2451–2464, 2022. **<font color='red'> (Oral, 1.7%) </font>** \| [\[Code\]](https://github.com/statusrank/DPCML)\| [\[Video\]](https://nips.cc/virtual/2022/poster/55412) \| [\[Poster\]](https://nips.cc/media/PosterPDFs/NeurIPS%202022/55412.png?t=1668477709.8846257) \| [\[Slides\]](https://nips.cc/virtual/2022/poster/55412)
 </div>
 </div>
 
@@ -144,16 +144,16 @@ Shixi Qin, Zhiyong Yang, **Shilong Bao**, Zitai Wang, Qianqian Xu, and Qingming 
 <div class='paper-box-text' markdown="1">
 [When All We Need is a Piece of the Pie: A Generic Framework for Optimizing Two-way Partial AUC](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/TPAUC.pdf).
 
-Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming Huang. International Conference on Machine Learning (**ICML**), 11820–11829, 2021. **<font color='red'> (Long Talk, 3%) </font>** \| [\[Code\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC)\| [\[Video\]](https://slideslive.com/38958537/when-all-we-need-is-a-piece-of-the-pie-a-generic-framework-for-optimizing-twoway-partial-auc?ref=speaker-22247) \| [\[Poster\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/TPAUC_poster.png) \| [\[Slides\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/oral_pdf.pdf)
+Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao, and Qingming Huang. International Conference on Machine Learning (**ICML**), PMLR 139: 11820–11829, 2021. **<font color='red'> (Long Talk, 3%) </font>** \| [\[Code\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC)\| [\[Video\]](https://slideslive.com/38958537/when-all-we-need-is-a-piece-of-the-pie-a-generic-framework-for-optimizing-twoway-partial-auc?ref=speaker-22247) \| [\[Poster\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/TPAUC_poster.png) \| [\[Slides\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/oral_pdf.pdf)
 </div>
 </div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 (Spotlight)</div><img src='images/SI_SOD1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection](https://arxiv.org/pdf/2405.09782).
+[Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection](https://proceedings.mlr.press/v235/li24bx.html).
 
-Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao and Qingming Huang. International Conference on Machine Learning (**ICML**), 2024. **<font color='red'> (Spotlight, 3.5%) </font>** \| [\[Code\]](https://github.com/Ferry-Li/SI-SOD)\| [\[Video\]](https://ferry-li.github.io/SI_SOD/) \| [\[Poster\]](https://ferry-li.github.io/SI_SOD/) \| [\[Slides\]](https://ferry-li.github.io/SI_SOD/) \| [\[Project\]](https://ferry-li.github.io/SI_SOD/)
+Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao, and Qingming Huang. International Conference on Machine Learning (**ICML**), PMLR 235: 28989–29021, 2024. **<font color='red'> (Spotlight, 3.5%) </font>** \| [\[Code\]](https://github.com/Ferry-Li/SI-SOD)\| [\[Video\]](https://ferry-li.github.io/SI_SOD/) \| [\[Poster\]](https://ferry-li.github.io/SI_SOD/) \| [\[Slides\]](https://ferry-li.github.io/SI_SOD/) \| [\[Project\]](https://ferry-li.github.io/SI_SOD/)
 </div>
 </div>
 
@@ -187,47 +187,47 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 </div>
 
 ## 2026
-- [Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation](https://arxiv.org/pdf/2603.04803)  Boyu Han, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Ruochen Cui, Xilin Zhao, and Qingming Huang.  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted) \|[\[Code\]](https://github.com/boyuh/DCR)\|
-- [BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation](https://arxiv.org/pdf/2603.05921)  Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Xilin Zhao, Xiaochun Cao, and Qingming Huang.  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. (Accepted) \|[\[Code\]](https://github.com/Ferry-Li/BlackMirror)\
+- [Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Guiding_Diffusion-based_Reconstruction_with_Contrastive_Signals_for_Balanced_Visual_Representation_CVPR_2026_paper.html)  Boyu Han, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Ruochen Cui, Xilin Zhao, and Qingming Huang.  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2369–2380, 2026. \|[\[Code\]](https://github.com/boyuh/DCR)\|
+- [BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation](https://openaccess.thecvf.com/content/CVPR2026/html/Li_BlackMirror_Black-Box_Backdoor_Detection_for_Text-to-Image_Models_via_Instruction-Response_Deviation_CVPR_2026_paper.html)  Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Xilin Zhao, Xiaochun Cao, and Qingming Huang.  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 30098–30109, 2026. \|[\[Code\]](https://github.com/Ferry-Li/BlackMirror)\|
+
+- [Closing the Approximation Gap of Partial AUC Optimization: A Tale of Two Formulations](https://doi.org/10.1109/TPAMI.2025.3637063)  Yangbangyan Jiang, Qianqian Xu, Huiyang Shao, Zhiyong Yang, **Shilong Bao**, Xiaochun Cao, and Qingming Huang.  IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 48(3): 3482–3498, Mar. 2026.
 
 ## 2025
 
-- [Closing the Approximation Gap of Partial AUC Optimization: A Tale of Two Formulations](https://ieeexplore.ieee.org/document/11268965)  Yangbangyan Jiang, Qianqian Xu, Huiyang Shao, Zhiyong Yang, **Shilong Bao**, Xiaochun Cao and Qingming Huang.  IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2025.
+- [LightFair: Towards an Efficient Alternative for Fair T2I Diffusion via Debiasing Pre-trained Text Encoders](https://proceedings.neurips.cc/paper_files/paper/2025/hash/20bd42d82998bc61732c00452228e814-Abstract-Conference.html)  Boyu Han, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Kangli Zi, and Qingming Huang.  Advances in Neural Information Processing Systems (**NeurIPS**), 38, 2025. \|[\[Code\]](https://github.com/boyuh/LightFair)\|
 
-- [LightFair: Towards an Efficient Alternative for Fair T2I Diffusion via Debiasing Pre-trained Text Encoders](https://arxiv.org/abs/2509.23639)  Boyu Han, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Kangli Zi, and Qingming Huang.  Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. \|[\[Code\]](https://github.com/boyuh/LightFair)\|
+- [One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework](https://proceedings.mlr.press/v267/li25de.html)  Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Xiaochun Cao, and Qingming Huang.  International Conference on Machine Learning (**ICML**), PMLR 267: 36486–36529, 2025. \|[\[Code\]](https://github.com/Ferry-Li/Co-Erasing)\|
 
-- [One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework for Diffusion Models](https://arxiv.org/pdf/2505.11131)  Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Xiaochun Cao, Qingming Huang.  International Conference on Machine Learning (**ICML**), 2025. \|[\[Code\]](https://github.com/Ferry-Li/Co-Erasing)\|
+- [MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrödinger Bridges](https://proceedings.mlr.press/v267/qin25i.html)  Shixi Qin, Zhiyong Yang, **Shilong Bao**, Shi Wang, Qianqian Xu, and Qingming Huang.  International Conference on Machine Learning (**ICML**), PMLR 267: 50397–50434, 2025. \|[\[Code\]](https://github.com/qsx830/MixBridge)\|
 
-- [MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrödinger Bridges](https://arxiv.org/pdf/2505.08809)  Shixi Qin, Zhiyong Yang, **Shilong Bao**, Shi Wang, Qianqian Xu, Qingming Huang.  International Conference on Machine Learning (**ICML**), 2025. \|[\[Code\]](https://github.com/qsx830/MixBridge)\|
+- [OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning](https://proceedings.mlr.press/v267/hua25d.html)  Cong Hua, Qianqian Xu, Zhiyong Yang, Zitai Wang, **Shilong Bao**, and Qingming Huang.  International Conference on Machine Learning (**ICML**), PMLR 267: 24975–25020, 2025. \|[\[Code\]](https://github.com/huacong/OpenworldAUC)\|
 
-- [OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning](https://arxiv.org/pdf/2505.05180)  Cong Hua, Qianqian Xu, Zhiyong Yang, Zitai Wang, **Shilong Bao**, Qingming Huang.  International Conference on Machine Learning (**ICML**), 2025. \|[\[Code\]](https://github.com/huacong/OpenworldAUC)\|
-
-- [Bidirectional Logits Tree: Pursuing Granularity Reconcilement in Fine-Grained Classification](https://arxiv.org/abs/2412.12782)  Zhiguang Lu, Qianqian Xu, **Shilong Bao**, and Zhiyong Yang and Qingming Huang.  AAAI Conference on Artificial Intelligence (**AAAI**), 2025. \|[\[Code\]](https://github.com/ZhiguangLuu/BiLT)\|
+- [Bidirectional Logits Tree: Pursuing Granularity Reconcilement in Fine-Grained Classification](https://ojs.aaai.org/index.php/AAAI/article/view/34112)  Zhiguang Lu, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, and Qingming Huang.  AAAI Conference on Artificial Intelligence (**AAAI**), 39(18): 19189–19197, 2025. \|[\[Code\]](https://github.com/ZhiguangLuu/BiLT)\|
 
 ## 2024
 
-- [AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation](https://arxiv.org/abs/2409.20398)  Boyu Han, Qianqian Xu, Zhiyong Yang, **Shilong Bao**, Peisong Wen, Yangbangyan Jiang and Qingming Huang.  Advances in Neural Information Processing Systems (**NeurIPS**), 2024. \|[\[Code\]](https://github.com/boyuh/AUCSeg)\|
+- [AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation](https://proceedings.neurips.cc/paper_files/paper/2024/hash/e574db41163e700545ff4114f96b3d7a-Abstract-Conference.html)  Boyu Han, Qianqian Xu, Zhiyong Yang, **Shilong Bao**, Peisong Wen, Yangbangyan Jiang, and Qingming Huang.  Advances in Neural Information Processing Systems (**NeurIPS**), 37: 126863–126907, 2024. \|[\[Code\]](https://github.com/boyuh/AUCSeg)\|
 
-- [ReconBoost: Boosting Can Achieve Modality Reconcilement](https://arxiv.org/abs/2405.09321)  Cong Hua, Qianqian Xu, **Shilong Bao**, Zhiyong Yang and Qingming Huang.  International Conference on Machine Learning (**ICML**), 2024 \| [\[Code\]](https://github.com/huacong/ReconBoost) \|
+- [ReconBoost: Boosting Can Achieve Modality Reconcilement](https://proceedings.mlr.press/v235/hua24a.html)  Cong Hua, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, and Qingming Huang.  International Conference on Machine Learning (**ICML**), PMLR 235: 19573–19597, 2024. \| [\[Code\]](https://github.com/huacong/ReconBoost) \|
 
-- [Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition](https://arxiv.org/pdf/2405.07780)  Zhiyong Yang, Qianqian Xu, Zitai Wang, Sicong Li, Boyu Han, **Shilong Bao**, Xiaochun Cao and Qingming Huang.  International Conference on Machine Learning (**ICML**), 2024 \| [\[Code\]](https://github.com/scongl/DirMixE) \|
+- [Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition](https://proceedings.mlr.press/v235/yang24af.html)  Zhiyong Yang, Qianqian Xu, Zitai Wang, Sicong Li, Boyu Han, **Shilong Bao**, Xiaochun Cao, and Qingming Huang.  International Conference on Machine Learning (**ICML**), PMLR 235: 56624–56664, 2024. \| [\[Code\]](https://github.com/scongl/DirMixE) \|
 
 ## Earlier Publications
 
-- [Revisiting AUC-oriented Adversarial Training with Loss-Agnostic Perturbations](https://ieeexplore.ieee.org/abstract/document/10214340)  Zhiyong Yang, Qianqian Xu, Wenzheng Hou, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming Huang.  IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2023. \| [\[Code\]](https://github.com/statusrank/AUC-Oriented-Adversarial-Training) \|
+- [Revisiting AUC-oriented Adversarial Training with Loss-Agnostic Perturbations](https://doi.org/10.1109/TPAMI.2023.3303934)  Zhiyong Yang, Qianqian Xu, Wenzheng Hou, **Shilong Bao**, Yuan He, Xiaochun Cao, and Qingming Huang.  IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 45(12): 15494–15511, Dec. 2023. \| [\[Code\]](https://github.com/statusrank/AUC-Oriented-Adversarial-Training) \|
 
-- [AUC-Oriented Domain Adaptation: From Theory to Algorithm](https://ieeexplore.ieee.org/abstract/document/10214222)  Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Peisong Wen, Yuan He, Xiaochun Cao and Qingming Huang.  IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2023. \| [\[Code\]](https://github.com/statusrank/AUC-Oriented-Domain-Adaptation) \|
+- [AUC-Oriented Domain Adaptation: From Theory to Algorithm](https://doi.org/10.1109/TPAMI.2023.3303943)  Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Peisong Wen, Yuan He, Xiaochun Cao, and Qingming Huang.  IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 45(12): 14161–14174, Dec. 2023. \| [\[Code\]](https://github.com/statusrank/AUC-Oriented-Domain-Adaptation) \|
 
-- [Asymptotically Unbiased Instance-wise Regularized Partial AUC Optimization: Theory and Algorithm](https://arxiv.org/pdf/2210.03967.pdf)  Huiyang Shao, Qianqian Xu, Zhiyong Yang, **Shilong Bao** and Qingming Huang.  Advances in Neural Information Processing Systems (**NeurIPS**), 38667–38679, 2022. \| [\[Code\]](https://github.com/Shaocr/PAUCI) \|
+- [Optimizing Two-way Partial AUC with an End-to-end Framework](https://doi.org/10.1109/TPAMI.2022.3185311)  Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao, and Qingming Huang.  IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 45(8): 10228–10246, Aug. 2023. \| [\[Code\]](https://github.com/statusrank/XCurve) \|
 
-- [Optimizing Two-way Partial AUC with an End-to-end Framework](https://arxiv.org/abs/2206.11655)  Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming Huang.  IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 10228-10246, 2022. \| [\[Code\]](https://github.com/statusrank/XCurve) \|
+- [Asymptotically Unbiased Instance-wise Regularized Partial AUC Optimization: Theory and Algorithm](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fc9f83d9925e6885e8f1ae1e17b3c44b-Abstract-Conference.html)  Huiyang Shao, Qianqian Xu, Zhiyong Yang, **Shilong Bao**, and Qingming Huang.  Advances in Neural Information Processing Systems (**NeurIPS**), 35: 38667–38679, 2022. \| [\[Code\]](https://github.com/Shaocr/PAUCI) \|
 
-- [AdAUC: End-to-end Adversarial AUC Optimization Against Long-tail Problems](https://arxiv.org/abs/2206.12169)  Wenzheng Hou, Qianqian Xu, Zhiyong Yang, **Shilong Bao**, Yuan He and Qingming Huang.  International Conference on Machine Learning (**ICML**), 8903–8925, 2022. \| [\[Code\]](https://github.com/statusrank/AUC-Oriented-Adversarial-Training) \|
+- [AdAUC: End-to-end Adversarial AUC Optimization Against Long-tail Problems](https://proceedings.mlr.press/v162/hou22b.html)  Wenzheng Hou, Qianqian Xu, Zhiyong Yang, **Shilong Bao**, Yuan He, and Qingming Huang.  International Conference on Machine Learning (**ICML**), PMLR 162: 8903–8925, 2022. \| [\[Code\]](https://github.com/statusrank/AUC-Oriented-Adversarial-Training) \|
 
 
-- [Learning with Multiclass AUC: Theory and Algorithms](https://arxiv.org/pdf/2107.13171.pdf)  Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Xiaochun Cao and Qingming Huang.  IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**),  7747–7763, 2021. \| [\[Code\]](https://github.com/joshuaas/Learning-with-Multiclass-AUC-Theory-and-Algorithms) \|
+- [Learning with Multiclass AUC: Theory and Algorithms](https://doi.org/10.1109/TPAMI.2021.3101125)  Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Xiaochun Cao, and Qingming Huang.  IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 44(11): 7747–7763, Nov. 2022. \| [\[Code\]](https://github.com/joshuaas/Learning-with-Multiclass-AUC-Theory-and-Algorithms) \|
 
-- [Collaborative Preference Embedding against Sparse Labels](http://www.jdl.link/doc/2011/20191229_ACMM-Collaborative%20Preference%20Embedding%20against%20Sparse%20Labels.pdf)  **Shilong Bao**, Qianqian Xu, Ke Ma, Zhiyong Yang, Xiaochun Cao and Qingming Huang.  ACM International Conference on Multimedia (**ACM-MM**), 2079–2087, 2019. \| [\[Code\]](https://github.com/statusrank/CPE)\|
+- [Collaborative Preference Embedding against Sparse Labels](https://doi.org/10.1145/3343031.3350915)  **Shilong Bao**, Qianqian Xu, Ke Ma, Zhiyong Yang, Xiaochun Cao, and Qingming Huang.  ACM International Conference on Multimedia (**ACM-MM**), 2079–2087, 2019. \| [\[Code\]](https://github.com/statusrank/CPE)\|
 
 </div>
 

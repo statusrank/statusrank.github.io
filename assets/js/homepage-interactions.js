@@ -29,7 +29,7 @@
       kind: "conference",
       topics: ["trustworthy-genai", "multimodal-learning"]
     },
-    "One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework for Diffusion Models": {
+    "One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework": {
       kind: "conference",
       topics: ["trustworthy-genai", "multimodal-learning"]
     },
