@@ -25,8 +25,8 @@ Hi! I'm Shilong Bao (包世龙, E-mail: baoshilong@ucas.ac.cn). I am currently a
 
 My research interests primarily lie in machine learning and AI safety, with a particular focus on:
 - Learning to Rank and AUC-oriented Optimization
-- Robust and Imbalanced Machine Learning
-- Trustworthy Multimodal and Generative AI
+- Trustworthy Machine Learning
+- Multimodal and Generative AI
 
 </div>
 
