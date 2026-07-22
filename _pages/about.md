@@ -41,11 +41,11 @@ My research primarily focuses on machine learning and AI safety, with particular
   <div class="opportunity-card opportunity-card--merged">
     <div class="opportunity-item">
       <strong>欢迎本科生、研究生加入科研实习（可远程），一起做有价值的研究！</strong>
-      <p>长期招募优秀的本科生、研究生，从事鲁棒机器学习、大模型安全、推荐系统与 AUC 优化相关研究。你将获得系统的科研指导、高水平论文发表与开放合作机会，欢迎通过 <a href="mailto:baoshilong@ucas.ac.cn">邮件</a> 联系。</p>
+      <p>长期招募优秀的本科生、研究生，围绕可信机器学习（鲁棒学习、不平衡学习、排序与 AUC 优化）和安全可靠生成式人工智能（安全性、公平性、鲁棒性与版权保护）开展研究。你将获得系统的科研指导、高水平论文发表与开放合作机会，欢迎通过 <a href="mailto:baoshilong@ucas.ac.cn">邮件</a> 联系。</p>
     </div>
     <div class="opportunity-item">
       <strong>欢迎工业界/学术界交流与合作！</strong>
-      <p>非常乐意围绕可信多媒体学习、鲁棒优化、模型安全与生成式 AI 等方向开展合作。如果您对我们的研究成果感兴趣，欢迎通过 <a href="mailto:baoshilong@ucas.ac.cn">邮件</a> 与我联系。</p>
+      <p>非常乐意围绕可信机器学习与安全可靠生成式人工智能开展合作，具体包括鲁棒学习、不平衡学习、排序与 AUC 优化，以及生成模型的安全、公平、鲁棒性与版权保护。如果您对我们的研究成果感兴趣，欢迎通过 <a href="mailto:baoshilong@ucas.ac.cn">邮件</a> 与我联系。</p>
     </div>
   </div>
 </div>
