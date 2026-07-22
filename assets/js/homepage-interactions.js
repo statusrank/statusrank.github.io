@@ -11,27 +11,27 @@
   var PUBLICATION_METADATA = {
     "Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation": {
       kind: "conference",
-      topics: ["robust-imbalanced"]
+      topics: ["robust-imbalanced", "multimodal-learning"]
     },
     "BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation": {
       kind: "conference",
-      topics: ["trustworthy-genai"]
+      topics: ["trustworthy-genai", "multimodal-learning"]
     },
     "Closing the Approximation Gap of Partial AUC Optimization: A Tale of Two Formulations": {
       kind: "journal",
-      topics: ["auc-ranking"]
+      topics: ["auc-ranking", "robust-imbalanced"]
     },
     "LightFair: Towards an Efficient Alternative for Fair T2I Diffusion via Debiasing Pre-trained Text Encoders": {
       kind: "conference",
-      topics: ["trustworthy-genai"]
+      topics: ["trustworthy-genai", "multimodal-learning"]
     },
     "One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework": {
       kind: "conference",
-      topics: ["trustworthy-genai"]
+      topics: ["trustworthy-genai", "multimodal-learning"]
     },
     "MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrödinger Bridges": {
       kind: "conference",
-      topics: ["trustworthy-genai"]
+      topics: ["trustworthy-genai", "multimodal-learning"]
     },
     "OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning": {
       kind: "conference",
@@ -39,7 +39,7 @@
     },
     "Bidirectional Logits Tree: Pursuing Granularity Reconcilement in Fine-Grained Classification": {
       kind: "conference",
-      topics: ["robust-imbalanced"]
+      topics: ["robust-imbalanced", "auc-ranking"]
     },
     "AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation": {
       kind: "conference",
@@ -47,11 +47,11 @@
     },
     "ReconBoost: Boosting Can Achieve Modality Reconcilement": {
       kind: "conference",
-      topics: ["multimodal-learning"]
+      topics: ["multimodal-learning", "robust-imbalanced"]
     },
     "Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition": {
       kind: "conference",
-      topics: ["robust-imbalanced"]
+      topics: ["robust-imbalanced", "auc-ranking"]
     },
     "Revisiting AUC-oriented Adversarial Training with Loss-Agnostic Perturbations": {
       kind: "journal",
@@ -63,11 +63,11 @@
     },
     "Asymptotically Unbiased Instance-wise Regularized Partial AUC Optimization: Theory and Algorithm": {
       kind: "conference",
-      topics: ["auc-ranking"]
+      topics: ["auc-ranking", "robust-imbalanced"]
     },
     "Optimizing Two-way Partial AUC with an End-to-end Framework": {
       kind: "journal",
-      topics: ["auc-ranking"]
+      topics: ["auc-ranking", "robust-imbalanced"]
     },
     "AdAUC: End-to-end Adversarial AUC Optimization Against Long-tail Problems": {
       kind: "conference",
@@ -75,11 +75,11 @@
     },
     "Learning with Multiclass AUC: Theory and Algorithms": {
       kind: "journal",
-      topics: ["auc-ranking"]
+      topics: ["auc-ranking", "robust-imbalanced"]
     },
     "Collaborative Preference Embedding against Sparse Labels": {
       kind: "conference",
-      topics: ["auc-ranking"]
+      topics: ["auc-ranking", "robust-imbalanced"]
     }
   };
 
