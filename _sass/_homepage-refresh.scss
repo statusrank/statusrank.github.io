@@ -189,15 +189,21 @@
 }
 
 .opportunity-item {
-  padding: 0.1rem 0 0.7rem;
+  display: grid;
+  grid-template-columns: minmax(14rem, auto) minmax(0, 1fr);
+  align-items: baseline;
+  gap: 1.2rem;
+  padding: 0.2rem 0;
 
   strong {
+    margin-bottom: 0;
     color: #1f54d6;
+    white-space: nowrap;
   }
 
   + .opportunity-item {
-    margin-top: 0.72rem;
-    padding-top: 0.86rem;
+    margin-top: 0.55rem;
+    padding-top: 0.7rem;
     border-top: 1px solid #e4e8ff;
 
     strong {
@@ -206,7 +212,7 @@
   }
 
   &:last-child {
-    padding-bottom: 0.1rem;
+    padding-bottom: 0.2rem;
   }
 }
 
@@ -1552,6 +1558,15 @@ a.alumni-card__portrait:focus-visible {
 
   .opportunity-card {
     padding: 0.85rem;
+  }
+
+  .opportunity-item {
+    display: block;
+
+    strong {
+      margin-bottom: 0.3rem;
+      white-space: normal;
+    }
   }
 
   .news-scroll {

@@ -41,11 +41,11 @@ My research primarily focuses on machine learning and AI safety, with particular
   <div class="opportunity-card opportunity-card--merged">
     <div class="opportunity-item">
       <strong>欢迎加入科研实习（可远程）</strong>
-      <p>长期招募优秀本科生和研究生，围绕可信机器学习与安全可靠生成式人工智能开展研究。提供系统的科研指导与开放合作机会，欢迎通过 <a href="mailto:baoshilong@ucas.ac.cn">邮件</a> 联系。</p>
+      <p>招募本科生和研究生，开展可信机器学习与安全可靠生成式人工智能研究，欢迎通过 <a href="mailto:baoshilong@ucas.ac.cn">邮件</a> 联系。</p>
     </div>
     <div class="opportunity-item">
       <strong>欢迎学术界与工业界交流合作</strong>
-      <p>期待围绕相关研究方向开展交流与合作，欢迎通过 <a href="mailto:baoshilong@ucas.ac.cn">邮件</a> 联系。</p>
+      <p>欢迎学术界与工业界围绕相关方向交流合作，可通过 <a href="mailto:baoshilong@ucas.ac.cn">邮件</a> 联系。</p>
     </div>
   </div>
 </div>
