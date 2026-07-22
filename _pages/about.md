@@ -23,10 +23,9 @@ redirect_from:
 
 Hi! I'm Shilong Bao (包世龙, E-mail: baoshilong@ucas.ac.cn). I am currently an Assistant Research Fellow at the **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**. I received my Ph.D. degree from the **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also fortunate to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS), [Xiaochun Cao (操晓春)](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (Dean of the School of Cyber Science and Technology, Sun Yat-sen University), and [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Tenure-track Assistant Professor at UCAS).
 
-My research spans three closely related areas, from foundational learning theory and optimization to trustworthy methods and their applications in multimodal and generative AI:
-- **Machine Learning Theory and Optimization** <span class="research-interest-detail">(Learning to Rank, AUC-oriented Optimization, and Collaborative Metric Learning)</span>
-- **Trustworthy Machine Learning** <span class="research-interest-detail">(Robust Learning, Imbalanced Learning, Domain Adaptation, and Open-world Learning)</span>
-- **Multimodal and Generative AI** <span class="research-interest-detail">(Multimodal Learning, Text-to-Image and Image-to-Image Models, and Generative Model Safety)</span>
+My research primarily focuses on machine learning and AI safety, with particular interests in:
+- **Trustworthy Machine Learning** <span class="research-interest-detail">(Robust Learning, Imbalanced Learning, and Ranking &amp; AUC Optimization)</span>
+- **Safe and Reliable Generative AI** <span class="research-interest-detail">(Safety, Fairness, Robustness, and Copyright Protection)</span>
 
 </div>
 
