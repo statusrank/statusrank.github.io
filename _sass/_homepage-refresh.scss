@@ -668,46 +668,28 @@
   line-height: 1.2;
 }
 
-.publication-topic[data-topic="trustworthy-genai"] {
-  border-color: #e0d9fb;
-  background: #f8f5ff;
-  color: #6848b8;
+.publication-topic[data-topic="auc-ranking"] {
+  border-color: #aab9f6;
+  background: #edf1ff;
+  color: #2948a5;
 }
 
-.publication-topic[data-topic="imbalanced-learning"] {
-  border-color: #f0ddc5;
-  background: #fff8ef;
-  color: #966025;
-}
-
-.publication-topic[data-topic="computer-vision"] {
-  border-color: #d3e5f7;
-  background: #f2f8ff;
-  color: #276396;
-}
-
-.publication-topic[data-topic="robust-learning"] {
-  border-color: #f0d2d7;
-  background: #fff7f8;
-  color: #a43d4b;
+.publication-topic[data-topic="robust-generalizable"] {
+  border-color: #e6b86e;
+  background: #fff3df;
+  color: #8a4b12;
 }
 
 .publication-topic[data-topic="multimodal-learning"] {
-  border-color: #cfe9e4;
-  background: #f1faf8;
-  color: #23766a;
+  border-color: #84c9bd;
+  background: #eaf8f5;
+  color: #176d62;
 }
 
-.publication-topic[data-topic="representation-learning"] {
-  border-color: #d9ddf4;
-  background: #f5f6fc;
-  color: #505e96;
-}
-
-.publication-topic[data-topic="ranking-recommendation"] {
-  border-color: #e5d9ef;
-  background: #fbf6ff;
-  color: #79508f;
+.publication-topic[data-topic="trustworthy-genai"] {
+  border-color: #c8a0e8;
+  background: #f7edff;
+  color: #733aa1;
 }
 
 .page__content .resource-link {
@@ -1384,12 +1366,12 @@ ul.page-section-body--students > li:hover {
   letter-spacing: 0.02em;
 }
 
-.alumni-card__portrait:hover img,
-.alumni-card__portrait:focus-visible img {
+a.alumni-card__portrait:hover img,
+a.alumni-card__portrait:focus-visible img {
   transform: scale(1.025);
 }
 
-.alumni-card__portrait:focus-visible {
+a.alumni-card__portrait:focus-visible {
   outline: 3px solid rgba(109, 93, 252, 0.3);
   outline-offset: 3px;
 }
@@ -1462,7 +1444,8 @@ ul.page-section-body--students > li:hover {
   margin-top: 0.55rem;
 }
 
-.alumni-card__honors a {
+.alumni-card__honors a,
+.alumni-card__honors span {
   display: inline-flex;
   align-items: center;
   min-height: 1.45rem;
