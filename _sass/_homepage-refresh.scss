@@ -107,6 +107,15 @@
 }
 
 .about-copy {
+  min-width: 0;
+  margin: 0.8rem 0 1.15rem;
+  padding: 1.1rem 1.3rem 0.95rem;
+  border: 1.5px solid transparent;
+  border-radius: 14px;
+  background:
+    linear-gradient(135deg, #ffffff 0%, #fbfdff 58%, #faf9ff 100%) padding-box,
+    linear-gradient(120deg, #4a8cff, #8273ff) border-box;
+  box-shadow: 0 12px 30px rgba(35, 57, 122, 0.08);
   color: #4a556d;
   font-size: var(--homepage-type-body);
   line-height: var(--homepage-line-body);
@@ -181,11 +190,11 @@
 }
 
 .opportunity-card--merged {
-  border-color: transparent;
-  background:
-    linear-gradient(#ffffff, #ffffff) padding-box,
-    linear-gradient(120deg, #4a8cff, #8273ff) border-box;
-  background-color: #ffffff;
+  border: 0;
+  border-radius: 0;
+  padding: 0.2rem 0;
+  background: transparent;
+  box-shadow: none;
 }
 
 .opportunity-item {
@@ -1558,6 +1567,15 @@ a.alumni-card__portrait:focus-visible {
 
   .opportunity-card {
     padding: 0.85rem;
+  }
+
+  .opportunity-card--merged {
+    padding: 0.2rem 0;
+  }
+
+  .about-copy {
+    padding: 0.9rem 0.95rem 0.8rem;
+    border-radius: 12px;
   }
 
   .opportunity-item {
