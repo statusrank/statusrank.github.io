@@ -3,7 +3,7 @@
 
   var TOPIC_LABELS = {
     "auc-ranking": "AUC & Ranking",
-    "robust-generalizable": "Robust & Generalizable",
+    "robust-imbalanced": "Robust & Imbalanced Learning",
     "multimodal-learning": "Multimodal Learning",
     "trustworthy-genai": "Trustworthy GenAI"
   };
@@ -11,7 +11,7 @@
   var PUBLICATION_METADATA = {
     "Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation": {
       kind: "conference",
-      topics: ["robust-generalizable"]
+      topics: ["robust-imbalanced"]
     },
     "BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation": {
       kind: "conference",
@@ -39,11 +39,11 @@
     },
     "Bidirectional Logits Tree: Pursuing Granularity Reconcilement in Fine-Grained Classification": {
       kind: "conference",
-      topics: ["robust-generalizable"]
+      topics: ["robust-imbalanced"]
     },
     "AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation": {
       kind: "conference",
-      topics: ["auc-ranking", "robust-generalizable"]
+      topics: ["auc-ranking", "robust-imbalanced"]
     },
     "ReconBoost: Boosting Can Achieve Modality Reconcilement": {
       kind: "conference",
@@ -51,15 +51,15 @@
     },
     "Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition": {
       kind: "conference",
-      topics: ["robust-generalizable"]
+      topics: ["robust-imbalanced"]
     },
     "Revisiting AUC-oriented Adversarial Training with Loss-Agnostic Perturbations": {
       kind: "journal",
-      topics: ["auc-ranking", "robust-generalizable"]
+      topics: ["auc-ranking", "robust-imbalanced"]
     },
     "AUC-Oriented Domain Adaptation: From Theory to Algorithm": {
       kind: "journal",
-      topics: ["auc-ranking", "robust-generalizable"]
+      topics: ["auc-ranking", "robust-imbalanced"]
     },
     "Asymptotically Unbiased Instance-wise Regularized Partial AUC Optimization: Theory and Algorithm": {
       kind: "conference",
@@ -71,7 +71,7 @@
     },
     "AdAUC: End-to-end Adversarial AUC Optimization Against Long-tail Problems": {
       kind: "conference",
-      topics: ["auc-ranking", "robust-generalizable"]
+      topics: ["auc-ranking", "robust-imbalanced"]
     },
     "Learning with Multiclass AUC: Theory and Algorithms": {
       kind: "journal",

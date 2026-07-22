@@ -175,7 +175,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
     <span class="publication-filter-label">Topic</span>
     <button class="publication-filter is-active" type="button" data-filter-group="topic" data-filter-value="all" aria-pressed="true">All Topics</button>
     <button class="publication-filter" type="button" data-filter-group="topic" data-filter-value="auc-ranking" aria-pressed="false">AUC &amp; Ranking</button>
-    <button class="publication-filter" type="button" data-filter-group="topic" data-filter-value="robust-generalizable" aria-pressed="false">Robust &amp; Generalizable</button>
+    <button class="publication-filter" type="button" data-filter-group="topic" data-filter-value="robust-imbalanced" aria-pressed="false">Robust &amp; Imbalanced Learning</button>
     <button class="publication-filter" type="button" data-filter-group="topic" data-filter-value="multimodal-learning" aria-pressed="false">Multimodal Learning</button>
     <button class="publication-filter" type="button" data-filter-group="topic" data-filter-value="trustworthy-genai" aria-pressed="false">Trustworthy GenAI</button>
   </div>
