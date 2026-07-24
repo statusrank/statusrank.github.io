@@ -21,7 +21,7 @@ redirect_from:
 
 <div class="about-copy" markdown="1">
 
-Hi! I'm Shilong Bao (包世龙, E-mail: baoshilong@ucas.ac.cn). I am currently an Assistant Research Fellow at the **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**. I received my Ph.D. degree from the **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also fortunate to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS), [Xiaochun Cao (操晓春)](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (Dean of the School of Cyber Science and Technology, Sun Yat-sen University), and [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Tenure-track Assistant Professor at UCAS).
+Hi! I'm Shilong Bao (包世龙, E-mail: baoshilong@ict.ac.cn). I am currently an Assistant Research Fellow at the **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**. I received my Ph.D. degree from the **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also fortunate to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS), [Xiaochun Cao (操晓春)](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (Dean of the School of Cyber Science and Technology, Sun Yat-sen University), and [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Tenure-track Assistant Professor at UCAS).
 
 My research primarily focuses on machine learning and AI safety, with particular interests in:
 - **Trustworthy Machine Learning** <span class="research-interest-detail">(Robust Learning, Imbalanced Learning, and Ranking &amp; AUC Optimization)</span>
@@ -33,7 +33,7 @@ My research primarily focuses on machine learning and AI safety, with particular
 
 {% comment %}
 <p style="text-align: justify; text-justify: inter-word;">
-包世龙 (邮箱：baoshilong@ucas.ac.cn)，现为中国科学院大学博士后、特别研究助理 (合作导师：黄庆明教授)，北京图象图形学学会青工委委员，主要研究方向为机器学习基础理论与人工智能安全，尤其聚焦鲁棒机器学习、排序学习理论与优化、无害多模态生成及大模型安全等方法与理论研究, 已在 CCF-A 类期刊/会议发表论文20余篇 (一作论文7篇)，其中TPAMI 9 篇 (IF:18.6，一作4篇)、NeurIPS/ICML 11篇等，并有多篇入选Oral/Spotlight论文。先后入选中国博士后科学基金国家资助博士后研究人员计划、北京市“高创计划”青年人才托举工程、中国科学院特别研究助理项目等人才支持计划；获 ACM China 优博奖提名（全国共5人）、ACM China SigMM 优博奖（共3人）、北京图象图形学学会优秀博士学位论文奖（京津冀共5篇）、中国科学院优秀博士学位论文奖（全学科 100 篇）、中国科学院信息工程研究所所长特别奖等荣誉奖励，并斩获多项 CCF-A 类会议国际竞赛冠军。项目承担方面，先后主持国家自然科学基金青年项目（C类）、中国博士后科学基金面上及国家资助博士后计划等多项国家级课题，并参与中科院先导 B、国家自然科学基金专项等重大项目。
+包世龙 (邮箱：baoshilong@ict.ac.cn)，现为中国科学院大学博士后、特别研究助理 (合作导师：黄庆明教授)，北京图象图形学学会青工委委员，主要研究方向为机器学习基础理论与人工智能安全，尤其聚焦鲁棒机器学习、排序学习理论与优化、无害多模态生成及大模型安全等方法与理论研究, 已在 CCF-A 类期刊/会议发表论文20余篇 (一作论文7篇)，其中TPAMI 9 篇 (IF:18.6，一作4篇)、NeurIPS/ICML 11篇等，并有多篇入选Oral/Spotlight论文。先后入选中国博士后科学基金国家资助博士后研究人员计划、北京市“高创计划”青年人才托举工程、中国科学院特别研究助理项目等人才支持计划；获 ACM China 优博奖提名（全国共5人）、ACM China SigMM 优博奖（共3人）、北京图象图形学学会优秀博士学位论文奖（京津冀共5篇）、中国科学院优秀博士学位论文奖（全学科 100 篇）、中国科学院信息工程研究所所长特别奖等荣誉奖励，并斩获多项 CCF-A 类会议国际竞赛冠军。项目承担方面，先后主持国家自然科学基金青年项目（C类）、中国博士后科学基金面上及国家资助博士后计划等多项国家级课题，并参与中科院先导 B、国家自然科学基金专项等重大项目。
 </p>
 {% endcomment %}
 
@@ -41,11 +41,11 @@ My research primarily focuses on machine learning and AI safety, with particular
   <div class="opportunity-card opportunity-card--merged">
     <div class="opportunity-item">
       <strong>欢迎加入科研实习（可远程）</strong>
-      <p>招募本科生和研究生，开展可信机器学习与安全可靠生成式人工智能研究，欢迎通过 <a href="mailto:baoshilong@ucas.ac.cn">邮件</a> 联系。</p>
+      <p>招募本科生和研究生，开展可信机器学习与安全可靠生成式人工智能研究，欢迎通过 <a href="mailto:baoshilong@ict.ac.cn">邮件</a> 联系。</p>
     </div>
     <div class="opportunity-item">
       <strong>欢迎学术界与工业界交流合作</strong>
-      <p>欢迎学术界与工业界围绕相关方向交流合作，可通过 <a href="mailto:baoshilong@ucas.ac.cn">邮件</a> 联系。</p>
+      <p>欢迎学术界与工业界围绕相关方向交流合作，可通过 <a href="mailto:baoshilong@ict.ac.cn">邮件</a> 联系。</p>
     </div>
   </div>
 </div>
