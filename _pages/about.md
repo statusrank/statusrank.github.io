@@ -53,6 +53,7 @@ My research primarily focuses on machine learning and AI safety, with particular
 # 🔥 News
 <div class="news-scroll" markdown="1">
 
+- *2026.08.05*: &nbsp;🎉🎉 I am honored to serve as an **Area Chair** for [GroundLM 2026](https://groundlm.github.io/grouplm_emnlp2026/), an EMNLP 2026 Workshop.
 - *2026.07.16*: &nbsp;🎉🎉 I joined the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) as an Assistant Research Fellow.
 - *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in the CVPR 2026 Vision-based Assistants in the Real World Workshop, AI Coach Challenge (Cooking Track).
 - *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, 2026), achieving back-to-back **<font color='red'> 1st Place Awards </font>** in the same track in 2025 and 2026.
@@ -229,6 +230,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 # 📖 Services
 
 ### Conferences
+ - *GroundLM 2026 (EMNLP 2026 Workshop)*: Area Chair
  - *ICML*: PC Member (2022-2026)
  - *ICLR*: PC Member (2024-2026)
  - *NeurIPS*: PC Member (2023-2026)
