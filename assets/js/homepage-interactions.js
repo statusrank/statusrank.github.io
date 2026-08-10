@@ -1,11 +1,13 @@
 (function () {
   "use strict";
 
+  var isChinese = document.documentElement.lang.toLowerCase().indexOf("zh") === 0;
+
   var TOPIC_LABELS = {
-    "auc-ranking": "AUC & Ranking",
-    "robust-imbalanced": "Robust & Imbalanced Learning",
-    "multimodal-learning": "Multimodal Learning",
-    "trustworthy-genai": "Trustworthy GenAI"
+    "auc-ranking": isChinese ? "AUC 优化与排序学习" : "AUC & Ranking",
+    "robust-imbalanced": isChinese ? "鲁棒学习与不平衡学习" : "Robust & Imbalanced Learning",
+    "multimodal-learning": isChinese ? "多模态学习" : "Multimodal Learning",
+    "trustworthy-genai": isChinese ? "可信生成式人工智能" : "Trustworthy GenAI"
   };
 
   var PUBLICATION_METADATA = {
@@ -93,6 +95,23 @@
     pdf: { label: "PDF", icon: "PDF" }
   };
 
+  var RESOURCE_ALIASES = {
+    code: "code",
+    video: "video",
+    poster: "poster",
+    slides: "slides",
+    project: "project",
+    website: "website",
+    pdf: "pdf",
+    "代码": "code",
+    "视频": "video",
+    "海报": "poster",
+    "幻灯片": "slides",
+    "项目主页": "project",
+    "网站": "website",
+    "会议网站": "website"
+  };
+
   function normalizeTitle(value) {
     return value.replace(/\s+/g, " ").trim().replace(/\.$/, "");
   }
@@ -100,7 +119,7 @@
   function makeTopicTags(metadata) {
     var container = document.createElement("span");
     container.className = "publication-meta";
-    container.setAttribute("aria-label", "Research topics");
+    container.setAttribute("aria-label", isChinese ? "研究主题" : "Research topics");
 
     metadata.topics.forEach(function (topic) {
       var tag = document.createElement("span");
@@ -200,15 +219,16 @@
     var parents = [];
 
     Array.prototype.forEach.call(document.querySelectorAll(".page__content a"), function (link) {
-      var match = link.textContent.trim().match(/^\[(Code|Video|Poster|Slides|Project|Website|PDF)\]$/i);
+      var match = link.textContent.trim().match(/^\[(Code|Video|Poster|Slides|Project|Website|PDF|代码|视频|海报|幻灯片|项目主页|网站|会议网站)\]$/i);
       if (!match) return;
 
-      var type = match[1].toLowerCase();
+      var label = match[1];
+      var type = RESOURCE_ALIASES[label.toLowerCase()] || RESOURCE_ALIASES[label];
       var resource = RESOURCE_LINKS[type];
       link.classList.add("resource-link", "resource-link--" + type);
       link.dataset.icon = resource.icon;
-      link.textContent = resource.label;
-      link.setAttribute("aria-label", resource.label + " resource");
+      link.textContent = isChinese ? label : resource.label;
+      link.setAttribute("aria-label", isChinese ? label : resource.label + " resource");
       if (parents.indexOf(link.parentNode) === -1) parents.push(link.parentNode);
     });
 
@@ -223,18 +243,20 @@
 
   function markSectionTypography() {
     var targetSections = [
-      { title: "Services", slug: "services" },
-      { title: "Honors and Awards", slug: "honors" },
-      { title: "Educations & Work Experience", slug: "experience" },
-      { title: "Invited Talks", slug: "invited-talks" },
-      { title: "Fundings and Project", slug: "projects" },
-      { title: "Students", slug: "students" }
+      { titles: ["Services", "学术服务"], slug: "services" },
+      { titles: ["Honors and Awards", "荣誉与奖励"], slug: "honors" },
+      { titles: ["Educations & Work Experience", "教育与工作经历"], slug: "experience" },
+      { titles: ["Invited Talks", "邀请报告", "学术报告"], slug: "invited-talks" },
+      { titles: ["Fundings and Project", "科研项目", "科研项目与开源项目"], slug: "projects" },
+      { titles: ["Students", "学生", "学生指导"], slug: "students" }
     ];
 
     Array.prototype.forEach.call(document.querySelectorAll(".page__content h1"), function (heading) {
       var headingText = heading.textContent.replace(/\s+/g, " ").trim();
       var section = targetSections.find(function (target) {
-        return headingText.indexOf(target.title) !== -1;
+        return target.titles.some(function (title) {
+          return headingText.indexOf(title) !== -1;
+        });
       });
       if (!section) return;
 
@@ -274,7 +296,9 @@
 
       var kind = document.createElement("span");
       kind.className = "experience-kind";
-      kind.textContent = index === 0 ? "Work Experience" : "Education";
+      kind.textContent = index === 0
+        ? (isChinese ? "工作经历" : "Work Experience")
+        : (isChinese ? "教育经历" : "Education");
 
       summary.textContent = "";
       summary.appendChild(period);

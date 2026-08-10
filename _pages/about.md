@@ -3,6 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+lang: en
 redirect_from: 
   - /about/
   - /about.html
@@ -53,6 +54,7 @@ My research primarily focuses on machine learning and AI safety, with particular
 # 🔥 News
 <div class="news-scroll" markdown="1">
 
+- *2026.08.05*: &nbsp;🎉🎉 I chaired the [Forum on Efficient Training and Inference of Large Models](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x8.html) and gave an invited talk, ["A Brief Discussion on Representation Reconcilement Learning in Multimodal Models"](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html), at the CSIG Young Scientists Conference 2026.
 - *2026.08.05*: &nbsp;🎉🎉 I am honored to serve as an **Area Chair** for [GroundLM 2026](https://groundlm.github.io/grouplm_emnlp2026/), an EMNLP 2026 Workshop.
 - *2026.07.16*: &nbsp;🎉🎉 I joined the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) as an Assistant Research Fellow.
 - *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in the CVPR 2026 Vision-based Assistants in the Real World Workshop, AI Coach Challenge (Cooking Track).
@@ -248,6 +250,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - Multimedia Systems: Reviewer
 
 ### Others
+- *2026.08.05* &nbsp; **Chair** of the [Forum on Efficient Training and Inference of Large Models](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x8.html) at the CSIG Young Scientists Conference 2026
 - *2026.07* &nbsp; **Forum Co-chair** of the Theoretical Foundations of Trustworthy Artificial Intelligence for Multimedia Forum at [ChinaMM 2026](https://mp.weixin.qq.com/s/m9KCKvG8bjKVqGPvjnoz3g)
 - *2026.05* &nbsp; **Co-chair** of Forum on Trustworthy Multimedia Analysis and Privacy-Preserving Computing at the [CCIG 2026](https://ccig.csig.org.cn/2026/11491/202605/7599.html)
 - *2025.11* &nbsp; **Program Chair** of Beijing Youth Science and Technology Salon: Multimodal Intelligent Perception and Cross-modal Computing [(北京青年科技沙龙)](https://mp.weixin.qq.com/s/pbxasNprMey2aul4Tx_TOg)
@@ -316,27 +319,39 @@ Qingdao University (QDU), Qingdao.
 
 # 💬 Invited Talks
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> MLNLP 2025: Large Molde Security </div><img src='images/Talk_at_MLNLP_2025.png' alt="sym" width="100%"></div></div>
+<!-- User-provided official conference visual; event details are verified against the official forum page linked below. -->
+<div class='paper-box'><div class='paper-box-image'><div class="talk-poster talk-poster--wide"><img src='/images/csig-youth-2026-conference-visual.webp' alt="Official visual for the CSIG Young Scientists Conference 2026" width="100%"><span class="talk-poster__forum">Forum: Academic Rising Stars Forum</span></div></div>
+<div class='paper-box-text' markdown="1">
+
+*2026.08.05*: &nbsp; [A Brief Discussion on Representation Reconcilement Learning in Multimodal Models](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html), invited talk at the Academic Rising Stars Forum, CSIG Young Scientists Conference 2026. [\[Website\]](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html)
+
+**Abstract**: Large-scale pretraining endows visual, language, audio, and other modality encoders with strong general-purpose representation capabilities, making pretrained representations an important foundation for multimodal fusion, visual representation enhancement, conditional generation, and related tasks. However, differences among pretraining objectives, representation granularity, and task requirements still create adaptation challenges when such representations are transferred, combined, and reused. Centered on multimodal representation reconcilement learning, this talk draws on our recent research in multimodal learning, visual representation enhancement, and conditional image generation to examine how inconsistencies and conflicts among representation signals can be identified and mitigated at the optimization level. It focuses on modality competition in multimodal fusion, objective conflicts in pretrained visual representations, and the impact of text-encoder bias on generative fairness. The talk argues that effectively reusing pretrained representations depends not only on model and data scale, but also on representation reconcilement and adaptation for downstream tasks.
+</div></div>
+
+<!-- Image source: existing project-owned talk asset; conference page: https://mlnlp.org/mlnlp2025/ -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLNLP 2025 · Large Model Safety</div><img src='/images/Talk_at_MLNLP_2025.png' alt="MLNLP 2025 invited talk visual" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *2025.11*:  &nbsp;  [Towards Harmless Multimodal Generation: Challenges and Preliminary Pathways
-](https://github.com/statusrank/statusrank.github.io/tree/main/docs/MLNLP2025.pdf). [\[Website\]](https://mlnlp.org/mlnlp2025/) \| [\[Video\]](https://www.bilibili.com/video/BV1QCScB1EtP/?spm_id_from=333.1387.favlist.content.click&vd_source=7592ab667b6943a549ce3810b5d1166e)
+](https://github.com/statusrank/statusrank.github.io/blob/main/docs/MLNLP2025.pdf). [\[Website\]](https://mlnlp.org/mlnlp2025/) \| [\[Video\]](https://www.bilibili.com/video/BV1QCScB1EtP/?spm_id_from=333.1387.favlist.content.click&vd_source=7592ab667b6943a549ce3810b5d1166e)
 
-**Abstract**: Generative AI is reshaping digital creation, but its potential for harmful generation remains a bottleneck to real-world deployment. This talk reports our early efforts toward harmless generation along three strands: (i) avoiding harmful content via targeted model unlearning; (ii) mitigating generation bias with lightweight fair interventions; and (iii) exposing backdoor vulnerabilities to inform robust defenses. Across empirical studies, these directions preserve utility while showing encouraging effectiveness, pointing to promising avenues for future work.
+**Abstract**: Harmful generation remains an obstacle to deploying generative AI in practice. The talk presents early work on three directions: targeted model unlearning to suppress harmful outputs, lightweight fairness interventions to reduce generation bias, and analyses of backdoor vulnerabilities that can guide stronger defenses. The reported studies show encouraging risk reduction while largely preserving model utility.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> ChinaMM 2025 Special Forum 22: Trustworthy Multimedia Learning </div><img src='images/ChinaMM2025.png' alt="sym" width="100%"></div></div>
+<!-- Image source: existing project-owned talk asset; conference page: https://ccf.org.cn/ChinaMM2025/news_d_3177 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ChinaMM 2025 Special Forum 22 · Trustworthy Multimedia Learning</div><img src='/images/ChinaMM2025.png' alt="ChinaMM 2025 invited talk visual" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*2025.08*:  &nbsp;  [Efficient and Generalizable Robust Collaborative Ranking](https://github.com/statusrank/statusrank.github.io/tree/main/docs/ChinaMM25.pdf). [\[Website\]](https://ccf.org.cn/ChinaMM2025/news_d_3177)
+*2025.08*:  &nbsp;  [Efficient, Generalizable, and Robust Collaborative Ranking Learning](https://github.com/statusrank/statusrank.github.io/blob/main/docs/ChinaMM25.pdf). [\[Website\]](https://ccf.org.cn/ChinaMM2025/news_d_3177)
 
 **Abstract**: Collaborative Ranking is a fundamental technique in tasks such as representation learning, content retrieval, and multimedia recommendation. However, it often faces significant challenges when dealing with large-scale web data, including limited representational capacity, low computational efficiency, and poor robustness, hindering the generalization ability of models. While existing research primarily focuses on model architecture and loss function optimization, systematic theoretical analysis of generalization remains limited. This report introduces a generalization theory framework for collaborative ranking, which further guides the design and optimization of ranking algorithms toward developing efficient, robust, and generalizable solutions.
 </div>
 </div>
 
-- *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
-- *2022.11*: &nbsp; Oral presentation at NeurIPS conference [\[Video\]](https://nips.cc/virtual/2022/poster/55412).
+*2023.02*: &nbsp; AI TIME Youth PhD Talk, NeurIPS 2022 session. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
+
+*2022.11*: &nbsp; Oral presentation at NeurIPS 2022. [\[Video\]](https://nips.cc/virtual/2022/poster/55412).
 
 
 # 💻 Fundings and Project
@@ -380,7 +395,7 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
   <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://dblp.org/pid/330/4448" target="_blank" rel="noopener noreferrer" aria-label="Shixi Qin profile"><div class="collaborator-avatar">QX</div></a><strong>秦世熙</strong><span>Ph.D. Student</span><small>ICML×2</small></div>
   <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://dblp.org/pid/381/5172" target="_blank" rel="noopener noreferrer" aria-label="Ruochen Cui profile"><div class="collaborator-avatar">CR</div></a><strong>崔若晨</strong><span>Ph.D. Student</span></div>
   <div class="collaborator-card"><div class="collaborator-avatar">YH</div><strong>李玉海</strong><span>Ph.D. Student</span></div>
-  <div class="collaborator-card"><div class="collaborator-avatar">YJ</div><strong>钟玉杰</strong><span>Master Student</span></div>
+  <div class="collaborator-card"><div class="collaborator-avatar">YJ</div><strong>钟玉洁</strong><span>Master Student</span></div>
   <div class="collaborator-card"><div class="collaborator-avatar">LP</div><strong>李鹏</strong><span>Master Student</span></div>
   <div class="collaborator-card"><div class="collaborator-avatar">CD</div><strong>陈铎友</strong><span>Incoming Ph.D. Student</span></div>
   <div class="collaborator-card"><div class="collaborator-avatar">CB</div><strong>崔斌</strong><span>Incoming Ph.D. Student</span></div>

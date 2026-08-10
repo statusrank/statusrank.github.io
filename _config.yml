@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "Shilong Bao"
 description              : ""
+url                      : "https://statusrank.github.io"
 repository               : "statusrank/statusrank.github.io"
 google_scholar_stats_use_cdn : true
 

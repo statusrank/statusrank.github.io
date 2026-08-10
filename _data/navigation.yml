@@ -1,5 +1,5 @@
-# main links links
-main:
+# English homepage links
+main_en:
   - title: "About Me"
     url: "/#about-me"
 
@@ -26,3 +26,32 @@ main:
   
   - title: "Students"
     url: "/#-students"
+
+# 中文主页链接
+main_zh:
+  - title: "个人简介"
+    url: "/zh/#about-me"
+
+  - title: "最新动态"
+    url: "/zh/#news"
+
+  - title: "论文"
+    url: "/zh/#publications"
+
+  - title: "学术服务"
+    url: "/zh/#services"
+
+  - title: "荣誉奖励"
+    url: "/zh/#honors-awards"
+
+  - title: "教育与工作经历"
+    url: "/zh/#educations-work-experience"
+
+  - title: "学术报告"
+    url: "/zh/#invited-talks"
+
+  - title: "科研项目"
+    url: "/zh/#projects"
+
+  - title: "学生指导"
+    url: "/zh/#students"

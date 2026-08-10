@@ -905,9 +905,9 @@ ul.page-section-body--students > li:hover {
 .page-section-body--invited-talks.paper-box,
 .page-section-body--projects.paper-box {
   display: grid;
-  grid-template-columns: minmax(320px, 38%) minmax(0, 1fr);
+  grid-template-columns: minmax(290px, 35%) minmax(0, 1fr);
   align-items: start;
-  gap: 1.65rem;
+  gap: 1.5rem;
   width: 100%;
   margin: 0;
   padding: 1.25rem 0 1.65rem;
@@ -916,6 +916,11 @@ ul.page-section-body--students > li:hover {
   background: transparent;
   box-shadow: none;
   transform: none;
+}
+
+.page-section-body--projects.paper-box {
+  grid-template-columns: minmax(320px, 38%) minmax(0, 1fr);
+  gap: 1.65rem;
 }
 
 .page-section-body--invited-talks.paper-box:hover,
@@ -953,6 +958,29 @@ ul.page-section-body--students > li:hover {
   box-shadow: 0 8px 20px rgba(38, 50, 120, 0.12);
 }
 
+.page-section-body--invited-talks .paper-box-image > .talk-poster--wide {
+  display: block;
+  aspect-ratio: auto;
+  background: #edf7f3;
+}
+
+.page-section-body--invited-talks .talk-poster--wide img {
+  height: auto !important;
+  aspect-ratio: 16 / 9;
+}
+
+.talk-poster__forum {
+  display: block;
+  padding: 0.5rem 0.72rem 0.56rem;
+  border-top: 1px solid #c9e1da;
+  background: linear-gradient(135deg, #edf8f5, #e7f1fb);
+  color: #1b625d;
+  font-size: clamp(0.68rem, 0.82vw, 0.8rem);
+  font-weight: 800;
+  letter-spacing: 0.01em;
+  line-height: 1.35;
+}
+
 .page-section-body--invited-talks .paper-box-image img,
 .page-section-body--projects .paper-box-image img {
   display: block;
@@ -970,6 +998,86 @@ ul.page-section-body--students > li:hover {
   height: 100% !important;
   border-radius: 0;
   box-shadow: none;
+}
+
+.page-section-body--invited-talks .paper-box-image > .talk-cover {
+  position: relative;
+  display: grid;
+  grid-template-columns: 44% minmax(0, 1fr);
+  place-items: stretch;
+  border: 1px solid #cfdbef;
+  background: #eef4ff;
+  box-shadow: 0 10px 24px rgba(38, 50, 120, 0.14);
+  isolation: isolate;
+}
+
+.talk-cover::after {
+  position: absolute;
+  right: -12%;
+  bottom: -32%;
+  z-index: -1;
+  width: 72%;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: rgba(118, 139, 229, 0.12);
+  content: "";
+}
+
+.talk-cover__photo {
+  min-width: 0;
+  overflow: hidden;
+  background: #fff;
+}
+
+.page-section-body--invited-talks .talk-cover__photo img {
+  width: 100% !important;
+  height: 100% !important;
+  border-radius: 0;
+  object-fit: cover !important;
+  object-position: center center;
+}
+
+.talk-cover__copy {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1.15rem 1rem 1rem;
+  color: #17233c;
+}
+
+.talk-cover__eyebrow {
+  margin-bottom: 0.72rem;
+  color: #5570c5;
+  font-size: clamp(0.55rem, 0.7vw, 0.68rem);
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  line-height: 1.35;
+  text-transform: uppercase;
+}
+
+.talk-cover__title {
+  color: #15203a;
+  font-size: clamp(0.84rem, 1.15vw, 1.08rem);
+  font-weight: 850;
+  letter-spacing: -0.025em;
+  line-height: 1.42;
+}
+
+.talk-cover__speaker {
+  margin-top: 0.8rem;
+  color: #4f5f7d;
+  font-size: clamp(0.58rem, 0.75vw, 0.7rem);
+  font-weight: 650;
+  line-height: 1.45;
+}
+
+.talk-cover__meta {
+  margin-top: 0.35rem;
+  color: #697897;
+  font-size: clamp(0.55rem, 0.68vw, 0.66rem);
+  font-weight: 700;
+  line-height: 1.4;
 }
 
 .page-section-body--invited-talks .paper-box-image .badge,
@@ -1017,6 +1125,11 @@ ul.page-section-body--students > li:hover {
 .page-section-body--projects .paper-box-text li {
   text-align: justify;
   text-justify: inter-word;
+}
+
+.page-section-body--invited-talks .paper-box-text p:last-child {
+  text-align: left;
+  text-justify: auto;
 }
 
 .page-section-body--projects .paper-box-text ul {
@@ -1095,6 +1208,20 @@ ul.page-section-body--students > li:hover {
   border-radius: 0;
   background: transparent;
   object-fit: contain;
+}
+
+.experience-timeline .experience-monogram {
+  display: grid;
+  width: 4.1rem;
+  height: 4.1rem;
+  place-items: center;
+  border: 1px solid #cbd8ef;
+  border-radius: 50%;
+  background: linear-gradient(145deg, #eef4ff, #f7f4ff);
+  color: #425fb5;
+  font-size: 0.92rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
 }
 
 .experience-timeline .school-box-text {
@@ -1742,6 +1869,12 @@ a.alumni-card__portrait:focus-visible {
     height: 3.15rem;
   }
 
+  .experience-timeline .experience-monogram {
+    width: 3.15rem;
+    height: 3.15rem;
+    font-size: 0.78rem;
+  }
+
   .experience-timeline .school-box-text {
     padding: 0.45rem 0.35rem 0.55rem 1rem;
   }
@@ -1777,5 +1910,523 @@ a.alumni-card__portrait:focus-visible {
     grid-row: 3;
     font-size: var(--homepage-type-subheading);
     white-space: normal;
+  }
+}
+
+/* Language and theme controls shared by both homepage routes. */
+:root {
+  color-scheme: light;
+}
+
+html[lang="zh-CN"] body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+    "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+}
+
+.masthead__menu {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-width: 0;
+}
+
+.masthead__menu .greedy-nav {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.site-controls {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 0.38rem;
+  margin-left: auto;
+}
+
+.site-control {
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.15rem;
+  margin: 0;
+  padding: 0.36rem 0.62rem;
+  border: 1px solid #dce3f7;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.88);
+  color: #43516d;
+  font: inherit;
+  font-size: 0.75rem;
+  font-weight: 800;
+  line-height: 1;
+  text-decoration: none;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: border-color 0.18s ease, background-color 0.18s ease, color 0.18s ease,
+    transform 0.18s ease;
+}
+
+.site-control:hover,
+.site-control:focus-visible {
+  border-color: #aebdf4;
+  background: #f3f5ff;
+  color: var(--homepage-violet);
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+.site-control:focus-visible {
+  outline: 3px solid rgba(76, 101, 238, 0.22);
+  outline-offset: 2px;
+}
+
+.site-language {
+  min-width: 2.65rem;
+  letter-spacing: 0.015em;
+}
+
+.theme-toggle {
+  gap: 0.32rem;
+}
+
+.theme-toggle__icon {
+  width: 1rem;
+  font-size: 0.95rem;
+  line-height: 1;
+}
+
+@media (max-width: 940px) {
+  .theme-toggle {
+    width: 2.15rem;
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .theme-toggle__label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+}
+
+@media (max-width: 520px) {
+  .masthead__inner-wrap {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+  }
+
+  .masthead__menu {
+    gap: 0.28rem;
+  }
+
+  .site-controls {
+    gap: 0.24rem;
+  }
+
+  .site-language {
+    min-width: 2.35rem;
+    padding-right: 0.45rem;
+    padding-left: 0.45rem;
+  }
+}
+
+/* Dark theme: every content surface and semantic color is rebalanced rather
+   than simply placing the light palette on a black canvas. */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --homepage-blue: #79a7ff;
+  --homepage-blue-deep: #9bbcff;
+  --homepage-blue-soft: #131d34;
+  --homepage-violet: #b9a8ff;
+  --homepage-violet-soft: #211d3a;
+  --homepage-lilac: #7873af;
+  --homepage-ink: #edf2ff;
+  --homepage-muted: #aeb9cf;
+}
+
+html[data-theme="dark"],
+html[data-theme="dark"] body {
+  background: #0b1020;
+  color: #cbd4e7;
+}
+
+html[data-theme="dark"] body,
+html[data-theme="dark"] .page,
+html[data-theme="dark"] .page__inner-wrap,
+html[data-theme="dark"] .page__content,
+html[data-theme="dark"] .sidebar,
+html[data-theme="dark"] .profile_box {
+  background-color: transparent;
+}
+
+html[data-theme="dark"] a {
+  color: #8fb6ff;
+}
+
+html[data-theme="dark"] a:hover,
+html[data-theme="dark"] a:focus {
+  color: #c3b7ff;
+}
+
+html[data-theme="dark"] hr,
+html[data-theme="dark"] .page__content h1,
+html[data-theme="dark"] .paper-box,
+html[data-theme="dark"] .school-box {
+  border-color: #28334c;
+}
+
+html[data-theme="dark"] .masthead {
+  border-bottom-color: rgba(47, 61, 91, 0.92);
+  background: rgba(12, 18, 34, 0.93);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.24);
+}
+
+html[data-theme="dark"] .greedy-nav a {
+  color: #aeb9cf;
+}
+
+html[data-theme="dark"] .greedy-nav a:hover,
+html[data-theme="dark"] .greedy-nav a:focus,
+html[data-theme="dark"] .greedy-nav .masthead__menu-home-item a {
+  color: #eef3ff;
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links {
+  border-color: #35415d;
+  background: rgba(17, 24, 43, 0.98);
+  box-shadow: 0 18px 34px rgba(0, 0, 0, 0.38);
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links a:hover,
+html[data-theme="dark"] .greedy-nav .hidden-links a:focus {
+  background: #211d3a;
+  color: #c3b7ff;
+}
+
+html[data-theme="dark"] .site-control {
+  border-color: #35415d;
+  background: rgba(20, 28, 49, 0.92);
+  color: #c9d2e5;
+}
+
+html[data-theme="dark"] .site-control:hover,
+html[data-theme="dark"] .site-control:focus-visible {
+  border-color: #6f78ad;
+  background: #211d3a;
+  color: #d4cbff;
+}
+
+html[data-theme="dark"] .author__name,
+html[data-theme="dark"] .author__bio,
+html[data-theme="dark"] .author__urls,
+html[data-theme="dark"] .author__urls a,
+html[data-theme="dark"] .page__content,
+html[data-theme="dark"] .page__content p,
+html[data-theme="dark"] .page__content li {
+  color: #cbd4e7;
+}
+
+html[data-theme="dark"] .author__avatar img {
+  border-color: #35415d;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.35);
+}
+
+html[data-theme="dark"] .author__urls_sm a {
+  border-color: #35415d;
+  background: #141c31;
+  color: #cbd4e7;
+}
+
+html[data-theme="dark"] .page__content h1,
+html[data-theme="dark"] .page__content h2,
+html[data-theme="dark"] .page__content h3,
+html[data-theme="dark"] .page-section-subheading {
+  color: #edf2ff;
+}
+
+html[data-theme="dark"] .about-copy {
+  background:
+    linear-gradient(135deg, #121a2e 0%, #111827 58%, #18162b 100%) padding-box,
+    linear-gradient(120deg, #5f8fe8, #8d7ae8) border-box;
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.26);
+  color: #cbd4e7;
+}
+
+html[data-theme="dark"] .about-copy > p:nth-of-type(2),
+html[data-theme="dark"] .about-copy > ul > li,
+html[data-theme="dark"] .about-copy strong,
+html[data-theme="dark"] .research-interest-detail {
+  color: #d8e0f0;
+}
+
+html[data-theme="dark"] .page__content font[color="red"] {
+  color: #c4b5ff !important;
+}
+
+html[data-theme="dark"] .opportunity-card p,
+html[data-theme="dark"] .opportunity-item p {
+  color: #aeb9cf;
+}
+
+html[data-theme="dark"] .opportunity-item strong {
+  color: #8fb6ff;
+}
+
+html[data-theme="dark"] .opportunity-item + .opportunity-item {
+  border-top-color: #2b3650;
+}
+
+html[data-theme="dark"] .news-scroll {
+  border-left-color: #9a89ef;
+  background: linear-gradient(180deg, #121a2e 0%, #18162b 100%);
+  box-shadow: inset 0 0 0 1px #26324a;
+  scrollbar-color: #8d7ae8 #182238;
+}
+
+html[data-theme="dark"] .news-scroll li {
+  color: #cbd4e7;
+}
+
+html[data-theme="dark"] .news-scroll li em:first-child {
+  color: #aeb8ff;
+}
+
+html[data-theme="dark"] .news-scroll::-webkit-scrollbar-track {
+  background: #182238;
+}
+
+html[data-theme="dark"] .news-scroll::-webkit-scrollbar-thumb {
+  border-color: #182238;
+}
+
+html[data-theme="dark"] .highlight-paper-list .paper-box,
+html[data-theme="dark"] .page-section-body--invited-talks.paper-box,
+html[data-theme="dark"] .page-section-body--projects.paper-box,
+html[data-theme="dark"] .alumni-card {
+  border-color: #2c3853;
+  background: #121a2e;
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.24);
+}
+
+html[data-theme="dark"] .highlight-paper-list .paper-box:hover,
+html[data-theme="dark"] .alumni-card:hover {
+  border-color: #52618b;
+  box-shadow: 0 18px 42px rgba(0, 0, 0, 0.34);
+}
+
+html[data-theme="dark"] .page-section-body--invited-talks.paper-box,
+html[data-theme="dark"] .page-section-body--projects.paper-box,
+html[data-theme="dark"] .page-section-body--invited-talks.paper-box:hover,
+html[data-theme="dark"] .page-section-body--projects.paper-box:hover {
+  border-color: transparent;
+  background: transparent;
+  box-shadow: none;
+}
+
+html[data-theme="dark"] .highlight-paper-list .paper-box-image > div,
+html[data-theme="dark"] .highlight-paper-list .paper-box-image img {
+  background: #eef2fa;
+}
+
+html[data-theme="dark"] .highlight-paper-list .paper-box-text,
+html[data-theme="dark"] .publication-catalog > ul > li,
+html[data-theme="dark"] .page-section-body,
+html[data-theme="dark"] ul.page-section-body--services > li,
+html[data-theme="dark"] ul.page-section-body--honors > li,
+html[data-theme="dark"] ul.page-section-body--invited-talks > li,
+html[data-theme="dark"] ul.page-section-body--projects > li,
+html[data-theme="dark"] ul.page-section-body--students > li {
+  color: #cbd4e7;
+}
+
+html[data-theme="dark"] .highlight-paper-list .paper-box-text p:first-child a,
+html[data-theme="dark"] .publication-catalog .publication-title,
+html[data-theme="dark"] .publication-catalog li > a:first-child,
+html[data-theme="dark"] .publication-catalog li > p:first-child > a:first-child {
+  color: #9bbcff;
+}
+
+html[data-theme="dark"] .highlight-paper-list .paper-box-text strong:first-of-type,
+html[data-theme="dark"] .publication-catalog li strong:first-of-type {
+  background: #1b2a4a;
+  color: #b9ccff;
+}
+
+html[data-theme="dark"] .publication-catalog__intro,
+html[data-theme="dark"] .publication-catalog > ul > li,
+html[data-theme="dark"] .publication-catalog > h2 {
+  border-color: #2a3550;
+}
+
+html[data-theme="dark"] .publication-catalog > h2::before {
+  box-shadow: 0 0 0 5px #172038;
+}
+
+html[data-theme="dark"] .publication-catalog > ul > li:hover {
+  border-left-color: #9a89ef;
+  background: linear-gradient(90deg, #171d35 0%, rgba(18, 26, 46, 0) 88%);
+}
+
+html[data-theme="dark"] .publication-filter {
+  border-color: #35415d;
+  background: #141c31;
+  color: #b7c1d7;
+}
+
+html[data-theme="dark"] .publication-filter:hover,
+html[data-theme="dark"] .publication-filter:focus-visible {
+  border-color: #65729d;
+  color: #c6d5ff;
+}
+
+html[data-theme="dark"] .publication-filter.is-active {
+  border-color: transparent;
+  background: linear-gradient(135deg, #416fc4, #7e6cd2);
+  color: #ffffff;
+}
+
+html[data-theme="dark"] .publication-filter-label,
+html[data-theme="dark"] .student-supervision-note,
+html[data-theme="dark"] .alumni-card__identity p,
+html[data-theme="dark"] .alumni-card__destination span {
+  color: #8f9bb3;
+}
+
+html[data-theme="dark"] .publication-topic,
+html[data-theme="dark"] .page__content .resource-link,
+html[data-theme="dark"] .alumni-card__honors a,
+html[data-theme="dark"] .alumni-card__honors span {
+  border-color: #3b4968 !important;
+  background: #182238;
+  color: #b7c7ef !important;
+}
+
+html[data-theme="dark"] .publication-topic[data-topic="robust-imbalanced"] {
+  border-color: #6f5a35 !important;
+  background: #2d2418;
+  color: #efc989 !important;
+}
+
+html[data-theme="dark"] .publication-topic[data-topic="multimodal-learning"] {
+  border-color: #35655f !important;
+  background: #142b2a;
+  color: #8dd8cc !important;
+}
+
+html[data-theme="dark"] .publication-topic[data-topic="trustworthy-genai"] {
+  border-color: #624b7b !important;
+  background: #271c34;
+  color: #d0a9f0 !important;
+}
+
+html[data-theme="dark"] .page__content .resource-link--video {
+  border-color: #704650 !important;
+  background: #2d1b23;
+  color: #efa9b5 !important;
+}
+
+html[data-theme="dark"] .page__content .resource-link--poster,
+html[data-theme="dark"] .page__content .resource-link--slides {
+  border-color: #584b78 !important;
+  background: #241d35;
+  color: #c6b2ef !important;
+}
+
+html[data-theme="dark"] .page__content .resource-link--project,
+html[data-theme="dark"] .page__content .resource-link--website {
+  border-color: #35645c !important;
+  background: #142925;
+  color: #8bd0c2 !important;
+}
+
+html[data-theme="dark"] .page-section-body--honors > li > em:first-child,
+html[data-theme="dark"] .page-section-body--honors font[color="red"],
+html[data-theme="dark"] .page-section-body--projects font[color="red"] {
+  background: #25203d;
+  color: #c4b5ff !important;
+}
+
+html[data-theme="dark"] .page-section-body--services > li > em:first-child,
+html[data-theme="dark"] .page-section-body--projects > li > em:first-child,
+html[data-theme="dark"] .page-section-body--invited-talks > li > em:first-child,
+html[data-theme="dark"] .section-date,
+html[data-theme="dark"] .experience-period {
+  color: #aebcff;
+}
+
+html[data-theme="dark"] .experience-timeline .school-box-text {
+  background: transparent;
+}
+
+html[data-theme="dark"] .experience-timeline .experience-monogram {
+  border-color: #3b4969;
+  background: linear-gradient(145deg, #1c2944, #27213f);
+  color: #b8c6ff;
+}
+
+html[data-theme="dark"] .experience-timeline .school-box:hover .school-box-text {
+  background: linear-gradient(90deg, rgba(29, 42, 70, 0.85), rgba(11, 16, 32, 0) 78%);
+}
+
+html[data-theme="dark"] .experience-role,
+html[data-theme="dark"] .collaborator-card strong,
+html[data-theme="dark"] .alumni-card__identity h3,
+html[data-theme="dark"] .alumni-card__destination,
+html[data-theme="dark"] .alumni-card__destination strong {
+  color: #e1e8f7;
+}
+
+html[data-theme="dark"] .experience-kind,
+html[data-theme="dark"] .experience-timeline .school-box-text p:not(:first-child) {
+  color: #9ca8c0;
+}
+
+html[data-theme="dark"] .experience-timeline .school-box-text p:last-child {
+  color: #c7d0e2;
+}
+
+html[data-theme="dark"] .collaborator-grid {
+  border-top-color: #2b3650;
+}
+
+html[data-theme="dark"] .collaborator-avatar {
+  border-color: #435273;
+  background: linear-gradient(145deg, #1b2945 0%, #27213f 100%);
+  color: #c2d1f7;
+}
+
+html[data-theme="dark"] .collaborator-card span,
+html[data-theme="dark"] .collaborator-card small,
+html[data-theme="dark"] .alumni-card__identity h3 span {
+  color: #9ca8c0;
+}
+
+html[data-theme="dark"] .collaborator-card small {
+  border-color: #3b4968;
+  background: linear-gradient(135deg, #18253e 0%, #251f3a 100%);
+  color: #c4b5ff;
+}
+
+html[data-theme="dark"] .alumni-card__portrait {
+  border-color: #29354d;
+  background: #182238;
+  box-shadow: 0 0 0 1px #3a4765, 0 10px 24px rgba(0, 0, 0, 0.28);
+}
+
+html[data-theme="dark"] .alumni-card__portrait--placeholder {
+  background: linear-gradient(135deg, #18253e 0%, #25203c 100%);
+  color: #b7c7ef;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .site-control,
+  .highlight-paper-list .paper-box,
+  .collaborator-card,
+  .alumni-card {
+    transition: none;
   }
 }

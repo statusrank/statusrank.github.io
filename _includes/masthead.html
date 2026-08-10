@@ -4,13 +4,36 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          {% if page.lang == 'zh-CN' %}
+            {% assign nav_links = site.data.navigation.main_zh %}
+            {% assign home_label = '主页' %}
+            {% assign home_url = '/zh/#about-me' %}
+          {% else %}
+            {% assign nav_links = site.data.navigation.main_en %}
+            {% assign home_label = 'Homepage' %}
+            {% assign home_url = '/#about-me' %}
+          {% endif %}
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="{{ home_url | relative_url }}" target="_self">{{ home_label }}</a></li>
+          {% for link in nav_links %}
+            <li class="masthead__menu-item"><a href="{{ link.url | relative_url }}" target="_self">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
+      <div class="site-controls" role="group" aria-label="{% if page.lang == 'zh-CN' %}页面设置{% else %}Page settings{% endif %}">
+        {% if page.lang == 'zh-CN' %}
+          <a class="site-control site-language" href="{{ '/' | relative_url }}" hreflang="en" lang="en" target="_self" aria-label="Switch to English">EN</a>
+        {% else %}
+          <a class="site-control site-language" href="{{ '/zh/' | relative_url }}" hreflang="zh-CN" lang="zh-CN" target="_self" aria-label="切换到中文">中文</a>
+        {% endif %}
+        <button class="site-control theme-toggle" type="button"
+          data-label-dark="{% if page.lang == 'zh-CN' %}深色{% else %}Dark{% endif %}"
+          data-label-light="{% if page.lang == 'zh-CN' %}浅色{% else %}Light{% endif %}"
+          aria-label="{% if page.lang == 'zh-CN' %}切换深浅色主题{% else %}Toggle light and dark theme{% endif %}">
+          <span class="theme-toggle__icon" aria-hidden="true">☾</span>
+          <span class="theme-toggle__label">{% if page.lang == 'zh-CN' %}深色{% else %}Dark{% endif %}</span>
+        </button>
+      </div>
     </div>
   </div>
 </div>
