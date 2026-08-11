@@ -11,10 +11,10 @@
   (function () {
     try {
       var savedTheme = localStorage.getItem('site-theme');
-      var preferredTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-      document.documentElement.setAttribute('data-theme', savedTheme || preferredTheme);
+      var initialTheme = savedTheme === 'light' || savedTheme === 'dark' ? savedTheme : 'dark';
+      document.documentElement.setAttribute('data-theme', initialTheme);
     } catch (error) {
-      document.documentElement.setAttribute('data-theme', 'light');
+      document.documentElement.setAttribute('data-theme', 'dark');
     }
   })();
 </script>

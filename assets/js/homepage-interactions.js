@@ -278,12 +278,12 @@
     var timeline = document.querySelector(".experience-timeline");
     if (!timeline) return;
 
-    Array.prototype.forEach.call(timeline.querySelectorAll(".school-box"), function (item, index) {
+    Array.prototype.forEach.call(timeline.querySelectorAll(".school-box"), function (item) {
       var summary = item.querySelector(".school-box-text p:first-child");
       if (!summary || summary.querySelector(".experience-period")) return;
 
       var text = summary.textContent.replace(/\s+/g, " ").trim();
-      var separator = text.indexOf(",");
+      var separator = text.search(/[,，]/);
       if (separator === -1) return;
 
       var period = document.createElement("span");
@@ -296,7 +296,8 @@
 
       var kind = document.createElement("span");
       kind.className = "experience-kind";
-      kind.textContent = index === 0
+      var isWorkExperience = /助理研究员|Assistant Research Fellow/i.test(role.textContent);
+      kind.textContent = isWorkExperience
         ? (isChinese ? "工作经历" : "Work Experience")
         : (isChinese ? "教育经历" : "Education");
 

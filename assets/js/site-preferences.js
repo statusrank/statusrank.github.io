@@ -5,7 +5,6 @@
   var root = document.documentElement;
   var toggle = document.querySelector(".theme-toggle");
   var themeColor = document.querySelector("#theme-color-meta");
-  var systemTheme = window.matchMedia("(prefers-color-scheme: dark)");
 
   function currentTheme() {
     return root.getAttribute("data-theme") === "dark" ? "dark" : "light";
@@ -42,17 +41,6 @@
   if (toggle) {
     toggle.addEventListener("click", function () {
       applyTheme(currentTheme() === "dark" ? "light" : "dark", true);
-    });
-  }
-
-  if (systemTheme.addEventListener) {
-    systemTheme.addEventListener("change", function (event) {
-      try {
-        if (localStorage.getItem(STORAGE_KEY)) return;
-      } catch (error) {
-        return;
-      }
-      applyTheme(event.matches ? "dark" : "light", false);
     });
   }
 

@@ -305,10 +305,10 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 # 💬 学术报告
 
 <!-- User-provided official conference visual; event details are verified against the official forum page linked below. -->
-<div class='paper-box'><div class='paper-box-image'><div class="talk-poster talk-poster--wide"><img src='/images/csig-youth-2026-conference-visual.webp' alt="中国图象图形学学会青年科学家会议 2026 官方会议主视觉" width="100%"><span class="talk-poster__forum">分论坛：学术新星论坛</span></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="talk-poster talk-poster--wide"><div class="badge">CSIG 青年科学家会议 2026</div><img src='/images/csig-youth-2026-conference-visual.webp' alt="中国图象图形学学会青年科学家会议 2026 官方会议主视觉" width="100%"><span class="talk-poster__forum">分论坛：学术新星论坛</span></div></div>
 <div class='paper-box-text' markdown="1">
 
-*2026.08.05*: &nbsp; [浅谈多模态模型中的表征调和学习](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html)，2026 年中国图象图形学学会青年科学家会议“学术新星论坛”邀请报告。[\[会议网站\]](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html)
+*2026.08.05*: &nbsp; [浅谈多模态模型中的表征调和学习](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html)。[\[会议网站\]](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html)
 
 **摘要**：大规模预训练赋予视觉、语言、音频等模态编码器较强的通用表征能力，使预训练表征成为多模态融合、视觉表征增强与条件生成等任务的重要基础。然而，预训练目标、表征粒度与任务需求之间的差异，使其在迁移、组合与复用时仍面临若干适配挑战。本报告围绕“多模态表征调和学习”展开，结合我们近期在多模态学习、视觉表征增强与条件图像生成方面的研究，探讨如何从优化机制层面识别并缓解表征信号间的不一致冲突。报告重点分析多模态融合中的模态竞争、预训练视觉表征中的目标冲突，以及文本编码器偏差对生成公平性的影响，旨在说明预训练表征的有效复用不仅依赖模型与数据规模，也依赖面向下游任务的表征调和与适配。
 </div></div>
@@ -351,7 +351,8 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 *2020.02—至今*: &nbsp; 作为核心成员参与 [XCurve：面向决策不变指标的机器学习](https://github.com/statusrank/XCurve)。
 
-XCurve 研究决策条件变化下的模型学习问题，通过在训练阶段优化不同性能曲线下面积，使模型能够适应不同决策条件，为高风险决策任务提供相应的学习方法。
+<!-- Description translated and condensed from the official XCurve project website and repository README: https://xcurveopt.github.io/ and https://github.com/statusrank/XCurve -->
+XCurve 是面向 X 曲线指标优化的端到端 PyTorch 工具库，旨在学习能够适应部署阶段不同决策条件的模型。在二分类等高风险决策场景中，分类阈值等决策参数可能动态变化；XCurve 将随决策参数变化的两个性能函数构成性能曲线，并以曲线下面积衡量所有决策条件下的综合表现，从而将训练目标表述为决策不变指标的优化。项目目前支持四类指标。AUROC 用于长尾识别，AUPRC 用于不平衡检索。AUTKC 用于歧义分类，OpenAUC 用于开放集识别。
 </div></div>
 
 <span class='anchor' id='students'></span>

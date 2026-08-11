@@ -283,6 +283,15 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 <div class="experience-timeline">
 
 <div class='school-box'>
+<div><span class="experience-monogram">ICT</span></div>
+<div class='school-box-text' markdown="1">
+2026.07 - Present, Assistant Research Fellow.
+
+Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), Beijing.
+</div>
+</div>
+
+<div class='school-box'>
 <div><img src='images/ucas.jpg' alt="University of Chinese Academy of Sciences logo" width="80"></div>
 <div class='school-box-text' markdown="1">
 2024.07 - 2026.06, Postdoctoral Fellow.
@@ -320,10 +329,10 @@ Qingdao University (QDU), Qingdao.
 # 💬 Invited Talks
 
 <!-- User-provided official conference visual; event details are verified against the official forum page linked below. -->
-<div class='paper-box'><div class='paper-box-image'><div class="talk-poster talk-poster--wide"><img src='/images/csig-youth-2026-conference-visual.webp' alt="Official visual for the CSIG Young Scientists Conference 2026" width="100%"><span class="talk-poster__forum">Forum: Academic Rising Stars Forum</span></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="talk-poster talk-poster--wide"><div class="badge">CSIG Young Scientists Conference 2026</div><img src='/images/csig-youth-2026-conference-visual.webp' alt="Official visual for the CSIG Young Scientists Conference 2026" width="100%"><span class="talk-poster__forum">Forum: Academic Rising Stars Forum</span></div></div>
 <div class='paper-box-text' markdown="1">
 
-*2026.08.05*: &nbsp; [A Brief Discussion on Representation Reconcilement Learning in Multimodal Models](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html), invited talk at the Academic Rising Stars Forum, CSIG Young Scientists Conference 2026. [\[Website\]](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html)
+*2026.08.05*: &nbsp; [A Brief Discussion on Representation Reconcilement Learning in Multimodal Models](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html). [\[Website\]](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html)
 
 **Abstract**: Large-scale pretraining endows visual, language, audio, and other modality encoders with strong general-purpose representation capabilities, making pretrained representations an important foundation for multimodal fusion, visual representation enhancement, conditional generation, and related tasks. However, differences among pretraining objectives, representation granularity, and task requirements still create adaptation challenges when such representations are transferred, combined, and reused. Centered on multimodal representation reconcilement learning, this talk draws on our recent research in multimodal learning, visual representation enhancement, and conditional image generation to examine how inconsistencies and conflicts among representation signals can be identified and mitigated at the optimization level. It focuses on modality competition in multimodal fusion, objective conflicts in pretrained visual representations, and the impact of text-encoder bias on generative fairness. The talk argues that effectively reusing pretrained representations depends not only on model and data scale, but also on representation reconcilement and adaptation for downstream tasks.
 </div></div>

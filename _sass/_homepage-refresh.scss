@@ -28,8 +28,25 @@
 }
 
 .masthead__inner-wrap {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 112rem !important;
+  padding-right: clamp(0.75rem, 1.6vw, 1.5rem);
+  padding-left: clamp(0.75rem, 1.6vw, 1.5rem);
   padding-top: 0.42rem;
   padding-bottom: 0.42rem;
+}
+
+@media (min-width: 1024px) {
+  html[lang="en"] .greedy-nav a {
+    margin-right: clamp(0.32rem, 0.45vw, 0.58rem);
+    margin-left: clamp(0.32rem, 0.45vw, 0.58rem);
+    font-size: clamp(0.8rem, 0.82vw, 0.94rem);
+  }
+
+  html[lang="en"] .masthead__menu-item--lg {
+    padding-right: 0.25rem;
+  }
 }
 
 .greedy-nav {
@@ -1259,8 +1276,8 @@ ul.page-section-body--students > li:hover {
 
 .experience-timeline .school-box-text p:first-child {
   display: grid;
-  grid-template-columns: 10.5rem max-content minmax(0, 1fr);
-  align-items: center;
+  grid-template-columns: max-content minmax(0, 1fr) max-content;
+  align-items: baseline;
   gap: 0.78rem;
   margin: 0 0 0.42rem;
   line-height: 1.4;
@@ -1273,11 +1290,12 @@ ul.page-section-body--students > li:hover {
 }
 
 .experience-role {
+  min-width: 0;
   color: #173f9e;
   font-size: var(--homepage-type-subheading);
   font-weight: 850;
   letter-spacing: -0.012em;
-  white-space: nowrap;
+  white-space: normal;
 }
 
 .experience-kind {
@@ -1854,29 +1872,30 @@ a.alumni-card__portrait:focus-visible {
   }
 
   .experience-timeline .school-box {
-    grid-template-columns: 3.8rem minmax(0, 1fr);
-    gap: 0.9rem;
-    padding: 0.7rem 0;
+    grid-template-columns: 3.25rem minmax(0, 1fr);
+    align-items: start;
+    gap: 0.72rem;
+    padding: 0.72rem 0;
   }
 
   .experience-timeline .school-box > div:first-child {
-    width: 3.8rem;
-    height: 3.8rem;
+    width: 3.25rem;
+    height: 3.25rem;
   }
 
   .experience-timeline .school-box img {
-    width: 3.15rem;
-    height: 3.15rem;
+    width: 2.85rem;
+    height: 2.85rem;
   }
 
   .experience-timeline .experience-monogram {
-    width: 3.15rem;
-    height: 3.15rem;
+    width: 2.85rem;
+    height: 2.85rem;
     font-size: 0.78rem;
   }
 
   .experience-timeline .school-box-text {
-    padding: 0.45rem 0.35rem 0.55rem 1rem;
+    padding: 0.28rem 0 0.48rem 0.85rem;
   }
 
   .experience-timeline .school-box-text::before {
@@ -1890,26 +1909,31 @@ a.alumni-card__portrait:focus-visible {
   }
 
   .experience-timeline .school-box-text p:first-child {
-    grid-template-columns: minmax(0, 1fr);
-    gap: 0.12rem;
+    grid-template-columns: minmax(0, 1fr) max-content;
+    gap: 0.2rem 0.65rem;
+    margin-bottom: 0.32rem;
   }
 
   .experience-period {
     grid-column: 1;
-    grid-row: 2;
+    grid-row: 1;
   }
 
   .experience-kind {
-    grid-column: 1;
+    grid-column: 2;
     grid-row: 1;
-    justify-self: start;
+    justify-self: end;
   }
 
   .experience-role {
-    grid-column: 1;
-    grid-row: 3;
+    grid-column: 1 / -1;
+    grid-row: 2;
     font-size: var(--homepage-type-subheading);
     white-space: normal;
+  }
+
+  .experience-timeline .school-box-text p:not(:first-child) {
+    line-height: 1.55;
   }
 }
 
