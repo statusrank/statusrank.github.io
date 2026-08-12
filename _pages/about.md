@@ -283,7 +283,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 <div class="experience-timeline">
 
 <div class='school-box'>
-<div><span class="experience-monogram">ICT</span></div>
+<div><img src='/images/ict-logo.png' alt="Institute of Computing Technology, Chinese Academy of Sciences logo" width="80"></div>
 <div class='school-box-text' markdown="1">
 2026.07 - Present, Assistant Research Fellow.
 

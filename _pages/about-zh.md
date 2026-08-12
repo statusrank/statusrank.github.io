@@ -261,7 +261,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 <div class="experience-timeline">
 
 <div class='school-box'>
-<div><span class="experience-monogram">ICT</span></div>
+<div><img src='/images/ict-logo.png' alt="中国科学院计算技术研究所标志" width="80"></div>
 <div class='school-box-text' markdown="1">
 2026.07—至今，助理研究员。
 
