@@ -101,3 +101,15 @@ Use the smallest relevant check for the change:
 
 If the local Ruby environment is missing or dependencies need installation,
 report that clearly instead of guessing.
+
+## GitHub Publishing Network
+
+- This Windows machine routes GitHub HTTPS Git traffic through the user-level,
+  GitHub-scoped proxy `http://127.0.0.1:7890` with HTTP/1.1. The canonical
+  settings live in the global Git configuration; do not duplicate them in this
+  repository's local Git config.
+- Before pushing, ensure the local proxy application is running. A normal
+  `git push origin main` should then work without one-off proxy arguments.
+- If GitHub access fails, first verify the effective URL-matched proxy and run a
+  read-only `git ls-remote --heads origin main`. Do not disable SSL verification
+  or change the remote URL as a workaround.
