@@ -406,10 +406,10 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
   <div class="collaborator-card"><div class="collaborator-avatar">YH</div><strong>李玉海</strong><span>Ph.D. Student</span></div>
   <div class="collaborator-card"><div class="collaborator-avatar">YJ</div><strong>钟玉洁</strong><span>Master Student</span></div>
   <div class="collaborator-card"><div class="collaborator-avatar">LP</div><strong>李鹏</strong><span>Master Student</span></div>
-  <div class="collaborator-card"><div class="collaborator-avatar">CD</div><strong>陈铎友</strong><span>Incoming Ph.D. Student</span></div>
-  <div class="collaborator-card"><div class="collaborator-avatar">CB</div><strong>崔斌</strong><span>Incoming Ph.D. Student</span></div>
-  <div class="collaborator-card"><div class="collaborator-avatar">CJ</div><strong>陈嘉</strong><span>Incoming Master Student</span></div>
-  <div class="collaborator-card"><div class="collaborator-avatar">BJ</div><strong>鲍俊</strong><span>Incoming Master Student</span></div>
+  <div class="collaborator-card"><div class="collaborator-avatar">CD</div><strong>陈铎友</strong><span>Ph.D. Student</span></div>
+  <div class="collaborator-card"><div class="collaborator-avatar">CB</div><strong>崔斌</strong><span>Ph.D. Student</span></div>
+  <div class="collaborator-card"><div class="collaborator-avatar">CJ</div><strong>陈嘉</strong><span>Master Student</span></div>
+  <div class="collaborator-card"><div class="collaborator-avatar">BJ</div><strong>鲍俊</strong><span>Master Student</span></div>
 </div>
 <!-- current-students-grid:end -->
 
@@ -463,6 +463,7 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
       <p class="alumni-card__destination"><span>Now at</span> <strong>ByteDance</strong></p>
       <div class="alumni-card__honors" aria-label="Selected honors">
         <span>ICT–E Fund FinTech M.S. Award</span>
+        <span>BSIG Outstanding Master's Thesis</span>
       </div>
     </div>
   </article>

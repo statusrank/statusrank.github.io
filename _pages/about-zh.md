@@ -328,7 +328,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 *2025.08*: &nbsp; [高效可泛化的鲁棒协同排序学习](https://github.com/statusrank/statusrank.github.io/blob/main/docs/ChinaMM25.pdf)。[\[会议网站\]](https://ccf.org.cn/ChinaMM2025/news_d_3177)
 
-**摘要**：报告面向规模庞大、有效信息稀疏且分布多样的网络数据，分析协同排序在表征能力、计算开销和抗扰动能力方面的局限，以及这些局限对模型泛化的影响。针对既有工作偏重结构设计和损失优化、缺少系统泛化分析的问题，报告给出协同排序的泛化理论框架，并说明如何用该框架指导排序算法的设计与优化，以获得兼顾效率、鲁棒性和泛化性能的方法。
+**摘要**：协同排序学习（Collaborative Ranking）作为支撑表征学习、内容检索及多媒体推荐等任务的核心技术之一，在应对规模庞大、价值密度低且高度多样化的网络空间数据时，常面临表征能力不足、计算效率低下及鲁棒性能欠佳等挑战，严重制约了模型的泛化能力。现有研究多聚焦于模型架构设计与损失优化加速两方面，而针对泛化性能的系统性理论分析仍相对空白，相应的理论与算法体系亟待完善。为此，本报告将介绍协同排序学习的泛化理论分析框架，并基于该理论驱动排序学习算法的设计与优化，力图实现高效可泛化的鲁棒协同排序学习方法。
 </div></div>
 
 *2023.02*: &nbsp; AI TIME“青年博士说”NeurIPS 2022 专场报告。[\[视频\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b)
@@ -343,7 +343,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - *2025.07*: &nbsp; 中国博士后科学基金面上资助（项目编号：2025M771492），<font color='red'>主持</font>
 - *2025.06*: &nbsp; 中国科学院特别研究助理资助项目，<font color='red'>主持</font>
 - *2025.07*: &nbsp; 北京青年科技沙龙项目，<font color='red'>主持</font>
-- *2025.01*: &nbsp; 国家自然科学基金专项项目（项目编号：62441232），<font color='red'>核心成员</font>
+- *2025.01*: &nbsp; 国家自然科学基金重点项目（项目号：62441232），<font color='red'>技术骨干</font>
 - *2024.07*: &nbsp; 中国博士后科学基金国家资助博士后研究人员计划（B 档，项目编号：GZB20240729），<font color='red'>主持</font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">XCurve</div><img src='/images/xcurve_4.png' alt="XCurve" width="120%"></div></div>
@@ -351,8 +351,8 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 *2020.02—至今*: &nbsp; 作为核心成员参与 [XCurve：面向决策不变指标的机器学习](https://github.com/statusrank/XCurve)。
 
-<!-- Description translated and condensed from the official XCurve project website and repository README: https://xcurveopt.github.io/ and https://github.com/statusrank/XCurve -->
-XCurve 是面向 X 曲线指标优化的端到端 PyTorch 工具库，旨在学习能够适应部署阶段不同决策条件的模型。在二分类等高风险决策场景中，分类阈值等决策参数可能动态变化；XCurve 将随决策参数变化的两个性能函数构成性能曲线，并以曲线下面积衡量所有决策条件下的综合表现，从而将训练目标表述为决策不变指标的优化。项目目前支持四类指标。AUROC 用于长尾识别，AUPRC 用于不平衡检索。AUTKC 用于歧义分类，OpenAUC 用于开放集识别。
+<!-- Description condensed from user-provided Chinese project text. -->
+风险监测对模型漏检较为敏感，且监管标准与决策需求会因应用领域和时间变化而动态调整，导致固定阈值模型难以适应不同决策条件。受心理物理学中的决策偏差理论启发，XCurve 提出决策不变泛化推理优化框架：将性能指标随决策条件的变化表示为 X 曲线，以曲线下夹面积构造决策不变量，并通过显式优化该不变量，使模型由单一决策条件下的指标优化转向复合决策条件优化，从而提高模型在不同决策条件下的推理泛化能力。
 </div></div>
 
 <span class='anchor' id='students'></span>
@@ -372,10 +372,10 @@ XCurve 是面向 X 曲线指标优化的端到端 PyTorch 工具库，旨在学�
   <div class="collaborator-card"><div class="collaborator-avatar">YH</div><strong>李玉海</strong><span>博士研究生</span></div>
   <div class="collaborator-card"><div class="collaborator-avatar">YJ</div><strong>钟玉洁</strong><span>硕士研究生</span></div>
   <div class="collaborator-card"><div class="collaborator-avatar">LP</div><strong>李鹏</strong><span>硕士研究生</span></div>
-  <div class="collaborator-card"><div class="collaborator-avatar">CD</div><strong>陈铎友</strong><span>拟入学博士研究生</span></div>
-  <div class="collaborator-card"><div class="collaborator-avatar">CB</div><strong>崔斌</strong><span>拟入学博士研究生</span></div>
-  <div class="collaborator-card"><div class="collaborator-avatar">CJ</div><strong>陈嘉</strong><span>拟入学硕士研究生</span></div>
-  <div class="collaborator-card"><div class="collaborator-avatar">BJ</div><strong>鲍俊</strong><span>拟入学硕士研究生</span></div>
+  <div class="collaborator-card"><div class="collaborator-avatar">CD</div><strong>陈铎友</strong><span>博士研究生</span></div>
+  <div class="collaborator-card"><div class="collaborator-avatar">CB</div><strong>崔斌</strong><span>博士研究生</span></div>
+  <div class="collaborator-card"><div class="collaborator-avatar">CJ</div><strong>陈嘉</strong><span>硕士研究生</span></div>
+  <div class="collaborator-card"><div class="collaborator-avatar">BJ</div><strong>鲍俊</strong><span>硕士研究生</span></div>
 </div>
 
 ## 已毕业学生
@@ -402,7 +402,7 @@ XCurve 是面向 X 曲线指标优化的端到端 PyTorch 工具库，旨在学�
     <div class="alumni-card__content">
       <div class="alumni-card__identity"><h3>芦志广 <span>Zhiguang Lu</span></h3><p>硕士 · 中国科学院计算技术研究所</p></div>
       <p class="alumni-card__destination"><span>现就职于</span> <strong>字节跳动</strong></p>
-      <div class="alumni-card__honors" aria-label="代表性荣誉"><span>ICT–E Fund 金融科技硕士生奖</span></div>
+      <div class="alumni-card__honors" aria-label="代表性荣誉"><span>ICT–E Fund 金融科技硕士生奖</span><span>BSIG 优秀硕士学位论文</span></div>
     </div>
   </article>
 </div>
