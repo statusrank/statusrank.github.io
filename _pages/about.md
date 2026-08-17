@@ -329,7 +329,7 @@ Qingdao University (QDU), Qingdao.
 # 💬 Invited Talks
 
 <!-- User-provided official conference visual; event details are verified against the official forum page linked below. -->
-<div class='paper-box'><div class='paper-box-image'><div class="talk-poster talk-poster--wide"><div class="badge">CSIG Young Scientists Conference 2026</div><img src='/images/csig-youth-2026-conference-visual.webp' alt="Official visual for the CSIG Young Scientists Conference 2026" width="100%"><span class="talk-poster__forum">Forum: Academic Rising Stars Forum</span></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/CSIG2026学术新星.png' alt="Official visual for the Academic Rising Stars Forum at the CSIG Young Scientists Conference 2026" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *2026.08.05*: &nbsp; [A Brief Discussion on Representation Reconcilement Learning in Multimodal Models](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html). [\[Website\]](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html)

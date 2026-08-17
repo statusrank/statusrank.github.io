@@ -305,7 +305,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 # 💬 学术报告
 
 <!-- User-provided official conference visual; event details are verified against the official forum page linked below. -->
-<div class='paper-box'><div class='paper-box-image'><div class="talk-poster talk-poster--wide"><div class="badge">CSIG 青年科学家会议 2026</div><img src='/images/csig-youth-2026-conference-visual.webp' alt="中国图象图形学学会青年科学家会议 2026 官方会议主视觉" width="100%"><span class="talk-poster__forum">分论坛：学术新星论坛</span></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/CSIG2026学术新星.png' alt="中国图象图形学学会青年科学家会议 2026 学术新星论坛官方视觉" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *2026.08.05*: &nbsp; [浅谈多模态模型中的表征调和学习](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html)。[\[会议网站\]](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html)
