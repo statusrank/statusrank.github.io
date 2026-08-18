@@ -406,7 +406,7 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
   <div class="collaborator-card"><div class="collaborator-avatar">YH</div><strong>李玉海</strong><span>Ph.D. Student</span></div>
   <div class="collaborator-card"><div class="collaborator-avatar">YJ</div><strong>钟玉洁</strong><span>Master Student</span></div>
   <div class="collaborator-card"><div class="collaborator-avatar">LP</div><strong>李鹏</strong><span>Master Student</span></div>
-  <div class="collaborator-card"><div class="collaborator-avatar">CD</div><strong>陈铎友</strong><span>Ph.D. Student</span></div>
+  <div class="collaborator-card"><div class="collaborator-avatar collaborator-avatar--photo"><img class="student-photo" src="/images/students/duoyou-chen.png" alt="Duoyou Chen"></div><strong>陈铎友</strong><span>Ph.D. Student</span></div>
   <div class="collaborator-card"><div class="collaborator-avatar">CB</div><strong>崔斌</strong><span>Ph.D. Student</span></div>
   <div class="collaborator-card"><div class="collaborator-avatar">CJ</div><strong>陈嘉</strong><span>Master Student</span></div>
   <div class="collaborator-card"><div class="collaborator-avatar">BJ</div><strong>鲍俊</strong><span>Master Student</span></div>
