@@ -89,7 +89,7 @@ profile_location: "中国·北京"
 
 - *GroundLM 2026（EMNLP 2026 Workshop）*：领域主席（Area Chair）
 - *ICML*：程序委员会委员（2022–2026）
-- *ICLR*：程序委员会委员（2024–2026）
+- *ICLR*：审稿人（2024–2027）
 - *NeurIPS*：程序委员会委员（2023–2026）
 - *CVPR*：程序委员会委员（2024–2026）
 - *ICCV*：程序委员会委员（2025）
@@ -136,6 +136,8 @@ profile_location: "中国·北京"
 
 <div class="news-scroll" markdown="1">
 
+- *2026.09.01*: &nbsp;🎉🎉 担任 ICLR 2027 审稿人。
+- *2026.08.25*: &nbsp;🎉🎉 入选[2026年度中国图学学会青年人才托举激励计划](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml)（全国共4人）。
 - *2026.08.05*: &nbsp;🎉🎉 担任 2026 年中国图象图形学学会青年科学家会议[“大模型的高效训练与推理”分论坛](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x8.html)主席，并在“学术新星论坛”作题为[“浅谈多模态模型中的表征调和学习”](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html)的邀请报告。
 - *2026.08.05*: &nbsp;🎉🎉 担任 EMNLP 2026 Workshop [GroundLM 2026](https://groundlm.github.io/grouplm_emnlp2026/) 领域主席（Area Chair）。
 - *2026.07.16*: &nbsp;🎉🎉 加入中国科学院计算技术研究所，任助理研究员。
@@ -235,6 +237,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 # 🎖 荣誉与奖励
 
+- *2026* 入选[2026年度中国图学学会青年人才托举激励计划](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml)（全国共4人）
 - *2026* CVPR 2026 Vision-based Assistants in the Real World Workshop AI Coach Challenge（Cooking Track）**<font color='red'>第一名</font>**
 - *2026* CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding（Mistake Detection Track）**<font color='red'>第一名</font>**，在该赛道连续两年（2025、2026）获第一名
 - *2026* ICML 2026 Gold Reviewer
