@@ -237,7 +237,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 # 🎖 荣誉与奖励
 
-- *2026* 入选[2026年度中国图学学会青年人才托举激励计划](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml)（全国共4人）
+- *2026* [2026年度中国图学学会青年人才托举激励计划](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml)（全国共4人）
 - *2026* CVPR 2026 Vision-based Assistants in the Real World Workshop AI Coach Challenge（Cooking Track）**<font color='red'>第一名</font>**
 - *2026* CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding（Mistake Detection Track）**<font color='red'>第一名</font>**，在该赛道连续两年（2025、2026）获第一名
 - *2026* ICML 2026 Gold Reviewer
