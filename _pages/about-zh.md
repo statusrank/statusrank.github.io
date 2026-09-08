@@ -136,6 +136,7 @@ profile_location: "中国·北京"
 
 <div class="news-scroll" markdown="1">
 
+- *2026.09.08*: &nbsp;🎉🎉 团队（MR-CAS）在 ECCV 2026 [第十届 AI City Challenge Track 3](https://www.aicitychallenge.org/2026-track3/) 的 FishEye Traffic Violation（FETV）赛道中获 **<font color='red'>第一名</font>**。
 - *2026.09.01*: &nbsp;🎉🎉 担任 ICLR 2027 审稿人。
 - *2026.08.25*: &nbsp;🎉🎉 入选[2026年度中国图学学会青年人才托举激励计划](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml)（全国共4人）。
 - *2026.08.05*: &nbsp;🎉🎉 担任 2026 年中国图象图形学学会青年科学家会议[“大模型的高效训练与推理”分论坛](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x8.html)主席，并在“学术新星论坛”作题为[“浅谈多模态模型中的表征调和学习”](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html)的邀请报告。
@@ -237,6 +238,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 # 🎖 荣誉与奖励
 
+- *2026* ECCV 2026 [第十届 AI City Challenge Track 3](https://www.aicitychallenge.org/2026-track3/) FishEye Traffic Violation（FETV）赛道 **<font color='red'>第一名</font>**
 - *2026* [2026年度中国图学学会青年人才托举激励计划](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml)（全国共4人）
 - *2026* CVPR 2026 Vision-based Assistants in the Real World Workshop AI Coach Challenge（Cooking Track）**<font color='red'>第一名</font>**
 - *2026* CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding（Mistake Detection Track）**<font color='red'>第一名</font>**，在该赛道连续两年（2025、2026）获第一名

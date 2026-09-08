@@ -54,6 +54,7 @@ My research primarily focuses on machine learning and AI safety, with particular
 # 🔥 News
 <div class="news-scroll" markdown="1">
 
+- *2026.09.08*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'>1st Place Award</font>** on the FishEye Traffic Violation (FETV) leaderboard of Track 3 at the [10th AI City Challenge](https://www.aicitychallenge.org/2026-track3/), held with ECCV 2026.
 - *2026.09.01*: &nbsp;🎉🎉 I am serving as a reviewer for ICLR 2027.
 - *2026.08.25*: &nbsp;🎉🎉 I am honored to have been selected for the [2026 Young Talent Support and Incentive Program of the China Graphics Society (CGS)](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml) as one of four recipients nationwide.
 - *2026.08.05*: &nbsp;🎉🎉 I chaired the [Forum on Efficient Training and Inference of Large Models](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x8.html) and gave an invited talk, ["A Brief Discussion on Representation Reconcilement Learning in Multimodal Models"](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html), at the CSIG Young Scientists Conference 2026.
@@ -259,6 +260,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - *2025.08* &nbsp;  **Co-chair** of Efficient Training and Inference of Large Models at the [CSIG Young Scientists Conference 2025](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA)
 
 # 🎖 Honors and Awards
+- *2026* **<font color='red'>1st Place Award</font>** on the FishEye Traffic Violation (FETV) leaderboard of Track 3 at the [10th AI City Challenge](https://www.aicitychallenge.org/2026-track3/) (ECCV 2026)
 - *2026* [Young Talent Support and Incentive Program of the China Graphics Society (CGS)](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml) (4 recipients nationwide)
 - *2026* **<font color='red'> 1st Place Award </font>** in CVPR 2026 Vision-based Assistants in the Real World Workshop (AI Coach Challenge, Cooking Track)
 - *2026* **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, successfully defending our 2025 title)
