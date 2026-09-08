@@ -260,17 +260,17 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - *2025.08* &nbsp;  **Co-chair** of Efficient Training and Inference of Large Models at the [CSIG Young Scientists Conference 2025](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA)
 
 # 🎖 Honors and Awards
-- *2026* **<font color='red'>1st Place Award</font>** on the FishEye Traffic Violation (FETV) leaderboard of Track 3 at the [10th AI City Challenge](https://www.aicitychallenge.org/2026-track3/) (ECCV 2026)
+- *2026* **<font color='red'>1st Place Award</font>** on the FishEye Traffic Violation (FETV) leaderboard of Track 3 at the [10th AI City Challenge](https://www.aicitychallenge.org/2026-track3/) (ECCV)
 - *2026* [Young Talent Support and Incentive Program of the China Graphics Society (CGS)](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml) (4 recipients nationwide)
-- *2026* **<font color='red'> 1st Place Award </font>** in CVPR 2026 Vision-based Assistants in the Real World Workshop (AI Coach Challenge, Cooking Track)
+- *2026* **<font color='red'> 1st Place Award </font>** in CVPR Vision-based Assistants in the Real World Workshop (AI Coach Challenge, Cooking Track)
 - *2026* **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, successfully defending our 2025 title)
-- *2026* ICML Gold Reviewer (ICML 2026)
+- *2026* ICML Gold Reviewer
 - *2025* ACM China Excellent Doctoral Dissertation Award Nomination (ACM中国优博奖提名, <font color='red'>5 papers in China</font>)
 - *2025* ACM China SIGMM Excellent Doctoral Dissertation Award (ACM中国SigMM优博, <font color='red'>3 papers in total</font>)
 - *2025* Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院优秀博士学位论文，中科院<font color='red'>全学科100篇</font>)
-- *2025* **<font color='red'> 1st Place Award </font>** in ICCV 2025 Competition for High-Quality Face Dataset Generation (DataCV Challenge)
-- *2025* **<font color='red'> 1st Place Award </font>** at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track Challenge, 2025)
-- *2025* **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, 2025)
+- *2025* **<font color='red'> 1st Place Award </font>** in ICCV Competition for High-Quality Face Dataset Generation (DataCV Challenge)
+- *2025* **<font color='red'> 1st Place Award </font>** at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track Challenge)
+- *2025* **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track)
 - *2025* ICLR Notable Reviewer (480/all) 
 - *2025* Young Elite Scientists Sponsorship Program of the Beijing High Innovation Plan (北京"高创计划"-青年人才托举工程)
 - *2024* Outstanding Doctoral Dissertation Award of Beijing Society of Image and Graphics (BSIG). (北京图象图形学学会优秀博士学位论文奖 (<font color='red'> 京津冀5篇 </font>))
