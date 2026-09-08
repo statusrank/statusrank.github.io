@@ -296,7 +296,7 @@
 
       var kind = document.createElement("span");
       kind.className = "experience-kind";
-      var isWorkExperience = /助理研究员|Assistant Research Fellow/i.test(role.textContent);
+      var isWorkExperience = /助理研究员|博士后|Assistant Research Fellow|Postdoctoral Fellow/i.test(role.textContent);
       kind.textContent = isWorkExperience
         ? (isChinese ? "工作经历" : "Work Experience")
         : (isChinese ? "教育经历" : "Education");

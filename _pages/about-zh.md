@@ -107,11 +107,11 @@ profile_location: "中国·北京"
 
 ### 论坛组织与其他服务
 
-- *2026.08.05* &nbsp; 2026 年中国图象图形学学会青年科学家会议[“大模型的高效训练与推理”分论坛](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x8.html)主席
-- *2026.07* &nbsp; [ChinaMM 2026](https://mp.weixin.qq.com/s/m9KCKvG8bjKVqGPvjnoz3g)“可信多媒体人工智能的理论基础”论坛共同主席
-- *2026.05* &nbsp; [CCIG 2026](https://ccig.csig.org.cn/2026/11491/202605/7599.html)“可信多媒体分析与隐私计算”论坛共同主席
+- *2026.08.05* &nbsp; 中国图象图形学学会青年科学家会议[“大模型的高效训练与推理”分论坛](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x8.html)主席
+- *2026.07* &nbsp; [ChinaMM](https://mp.weixin.qq.com/s/m9KCKvG8bjKVqGPvjnoz3g)“可信多媒体人工智能的理论基础”论坛共同主席
+- *2026.05* &nbsp; [CCIG](https://ccig.csig.org.cn/2026/11491/202605/7599.html)“可信多媒体分析与隐私计算”论坛共同主席
 - *2025.11* &nbsp; [北京青年科技沙龙](https://mp.weixin.qq.com/s/pbxasNprMey2aul4Tx_TOg)“多模态智能感知与跨模态计算”项目主席
-- *2025.08* &nbsp; [CSIG 青年科学家会议 2025](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA)“大模型的高效训练与推理”论坛共同主席
+- *2025.08* &nbsp; [CSIG 青年科学家会议](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA)“大模型的高效训练与推理”论坛共同主席
 
 {% endcapture %}
 
@@ -136,28 +136,28 @@ profile_location: "中国·北京"
 
 <div class="news-scroll" markdown="1">
 
-- *2026.09.08*: &nbsp;🎉🎉 团队（MR-CAS）在 ECCV 2026 [第十届 AI City Challenge Track 3](https://www.aicitychallenge.org/2026-track3/) 的 FishEye Traffic Violation（FETV）赛道中获 **<font color='red'>冠军</font>**。
+- *2026.09.08*: &nbsp;🎉🎉 团队（MR-CAS）在 ECCV [第十届 AI City Challenge Track 3](https://www.aicitychallenge.org/2026-track3/) 的 FishEye Traffic Violation（FETV）赛道中获 **<font color='red'>冠军</font>**。
 - *2026.09.01*: &nbsp;🎉🎉 担任 ICLR 2027 审稿人。
-- *2026.08.25*: &nbsp;🎉🎉 入选[2026年度中国图学学会青年人才托举激励计划](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml)（全国共4人）。
-- *2026.08.05*: &nbsp;🎉🎉 担任 2026 年中国图象图形学学会青年科学家会议[“大模型的高效训练与推理”分论坛](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x8.html)主席，并在“学术新星论坛”作题为[“浅谈多模态模型中的表征调和学习”](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html)的邀请报告。
-- *2026.08.05*: &nbsp;🎉🎉 担任 EMNLP 2026 Workshop [GroundLM 2026](https://groundlm.github.io/grouplm_emnlp2026/) 领域主席（Area Chair）。
+- *2026.08.25*: &nbsp;🎉🎉 入选[中国图学学会青年人才托举激励计划](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml)（全国共4人）。
+- *2026.08.05*: &nbsp;🎉🎉 担任中国图象图形学学会青年科学家会议[“大模型的高效训练与推理”分论坛](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x8.html)主席，并在“学术新星论坛”作题为[“浅谈多模态模型中的表征调和学习”](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html)的邀请报告。
+- *2026.08.05*: &nbsp;🎉🎉 担任 EMNLP Workshop [GroundLM](https://groundlm.github.io/grouplm_emnlp2026/) 领域主席（Area Chair）。
 - *2026.07.16*: &nbsp;🎉🎉 加入中国科学院计算技术研究所，任助理研究员。
-- *2026.06.03*: &nbsp;🎉🎉 团队在 CVPR 2026 Vision-based Assistants in the Real World Workshop AI Coach Challenge（Cooking Track）中获 **<font color='red'>冠军</font>**。
+- *2026.06.03*: &nbsp;🎉🎉 团队在 CVPR Vision-based Assistants in the Real World Workshop AI Coach Challenge（Cooking Track）中获 **<font color='red'>冠军</font>**。
 - *2026.06.03*: &nbsp;🎉🎉 团队在 CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding（Mistake Detection Track）中获 **<font color='red'>冠军</font>**，并在该赛道连续两年（2025、2026）获冠军。
-- *2026.05.14*: &nbsp;🎉🎉 获评 ICML 2026 Gold Reviewer。
-- *2026.04.28*: &nbsp;🎉🎉 一篇论文入选 ICML 2026 **<font color='red'>Oral（0.69%）</font>**，祝贺秦世熙！
-- *2026.02.21*: &nbsp;🎉🎉 两篇论文获 CVPR 2026 录用，祝贺韩博宇和李斐然！
+- *2026.05.14*: &nbsp;🎉🎉 获评 ICML Gold Reviewer。
+- *2026.04.28*: &nbsp;🎉🎉 一篇论文入选 ICML **<font color='red'>Oral（0.69%）</font>**，祝贺秦世熙！
+- *2026.02.21*: &nbsp;🎉🎉 两篇论文获 CVPR 录用，祝贺韩博宇和李斐然！
 - *2025.11.15*: 一篇论文获 T-PAMI 录用。
 - *2025.10.12*: &nbsp;🎉🎉 博士学位论文《面向高效与可泛化的协同度量学习算法研究》获 ACM 中国优秀博士学位论文奖提名（全国共 5 篇）。
-- *2025.09.20*: &nbsp;🎉🎉 一篇论文获 NeurIPS 2025 录用。
+- *2025.09.20*: &nbsp;🎉🎉 一篇论文获 NeurIPS 录用。
 - *2025.09.15*: &nbsp;🎉🎉 一篇论文获 T-PAMI 录用。
-- *2025.09.13*: &nbsp;🎉🎉 担任 [CSIG 青年科学家会议 2025](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA)“大模型的高效训练与推理”论坛共同主席。
-- *2025.08.01*: &nbsp;🎉🎉 团队在 ICCV 2025 Competition for High-Quality Face Dataset Generation（DataCV Challenge）中获 **<font color='red'>冠军</font>**；一篇论文获 ICCV 2025 Workshop 录用。
+- *2025.09.13*: &nbsp;🎉🎉 担任 [CSIG 青年科学家会议](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA)“大模型的高效训练与推理”论坛共同主席。
+- *2025.08.01*: &nbsp;🎉🎉 团队在 ICCV Competition for High-Quality Face Dataset Generation（DataCV Challenge）中获 **<font color='red'>冠军</font>**；一篇论文获 ICCV Workshop 录用。
 - *2025.06.30*: &nbsp;🎉🎉 博士学位论文获评中国科学院优秀博士学位论文（全学科 100 篇）。
-- *2025.06.18*: &nbsp;🎉🎉 团队（MR-CAS）在 CVPR 2025 Workshop on Compositional 3D Vision（C3DV 3DCoMPaT-200，Coarse-Grained GCR Track）中获 **<font color='red'>冠军</font>**。
-- *2025.06.12*: &nbsp;🎉🎉 团队（MR-CAS）在 CVPR 2025 EgoVis HoloAssist Challenges（Mistake Detection Track）中获 **<font color='red'>冠军</font>**。
-- *2025.05.20*: &nbsp;🎉🎉 获评 ICLR 2025 Notable Reviewer。
-- *2025.05.02*: &nbsp;🎉🎉 三篇论文获 ICML 2025 录用。
+- *2025.06.18*: &nbsp;🎉🎉 团队（MR-CAS）在 CVPR Workshop on Compositional 3D Vision（C3DV 3DCoMPaT-200，Coarse-Grained GCR Track）中获 **<font color='red'>冠军</font>**。
+- *2025.06.12*: &nbsp;🎉🎉 团队（MR-CAS）在 CVPR EgoVis HoloAssist Challenges（Mistake Detection Track）中获 **<font color='red'>冠军</font>**。
+- *2025.05.20*: &nbsp;🎉🎉 获评 ICLR Notable Reviewer。
+- *2025.05.02*: &nbsp;🎉🎉 三篇论文获 ICML 录用。
 - *2025.02.20*: &nbsp;🎉🎉 一篇论文获 T-PAMI 录用。
 
 </div>

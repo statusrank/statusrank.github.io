@@ -54,29 +54,29 @@ My research primarily focuses on machine learning and AI safety, with particular
 # 🔥 News
 <div class="news-scroll" markdown="1">
 
-- *2026.09.08*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'>1st Place Award</font>** on the FishEye Traffic Violation (FETV) leaderboard of Track 3 at the [10th AI City Challenge](https://www.aicitychallenge.org/2026-track3/), held with ECCV 2026.
+- *2026.09.08*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'>1st Place Award</font>** on the FishEye Traffic Violation (FETV) leaderboard of Track 3 at the [10th AI City Challenge](https://www.aicitychallenge.org/2026-track3/), held with ECCV.
 - *2026.09.01*: &nbsp;🎉🎉 I am serving as a reviewer for ICLR 2027.
-- *2026.08.25*: &nbsp;🎉🎉 I am honored to have been selected for the [2026 Young Talent Support and Incentive Program of the China Graphics Society (CGS)](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml) as one of four recipients nationwide.
-- *2026.08.05*: &nbsp;🎉🎉 I chaired the [Forum on Efficient Training and Inference of Large Models](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x8.html) and gave an invited talk, ["A Brief Discussion on Representation Reconcilement Learning in Multimodal Models"](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html), at the CSIG Young Scientists Conference 2026.
-- *2026.08.05*: &nbsp;🎉🎉 I am honored to serve as an **Area Chair** for [GroundLM 2026](https://groundlm.github.io/grouplm_emnlp2026/), an EMNLP 2026 Workshop.
+- *2026.08.25*: &nbsp;🎉🎉 I am honored to have been selected for the [Young Talent Support and Incentive Program of the China Graphics Society (CGS)](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml) as one of four recipients nationwide.
+- *2026.08.05*: &nbsp;🎉🎉 I chaired the [Forum on Efficient Training and Inference of Large Models](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x8.html) and gave an invited talk, ["A Brief Discussion on Representation Reconcilement Learning in Multimodal Models"](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html), at the CSIG Young Scientists Conference.
+- *2026.08.05*: &nbsp;🎉🎉 I am honored to serve as an **Area Chair** for [GroundLM](https://groundlm.github.io/grouplm_emnlp2026/), an EMNLP Workshop.
 - *2026.07.16*: &nbsp;🎉🎉 I joined the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) as an Assistant Research Fellow.
-- *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in the CVPR 2026 Vision-based Assistants in the Real World Workshop, AI Coach Challenge (Cooking Track).
-- *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, 2026), successfully defending our 2025 title in the same track.
-- *2026.05.14*: &nbsp;🎉🎉 I have been recognized as an ICML 2026 Gold Reviewer.
-- *2026.04.28*: &nbsp;🎉🎉 One paper has been accepted by ICML 2026 with **<font color='red'>Oral presentation (0.69%)</font>**. Congratulations to Shixi!
-- *2026.02.21*: &nbsp;🎉🎉 Two papers have been accepted by CVPR 2026. Congratulations to Boyu and Feiran!
-- *2025.11.15*: One paper has been accepted by T-PAMI 2025!
+- *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in the CVPR Vision-based Assistants in the Real World Workshop, AI Coach Challenge (Cooking Track).
+- *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track), successfully defending our 2025 title in the same track.
+- *2026.05.14*: &nbsp;🎉🎉 I have been recognized as an ICML Gold Reviewer.
+- *2026.04.28*: &nbsp;🎉🎉 One paper has been accepted by ICML with **<font color='red'>Oral presentation (0.69%)</font>**. Congratulations to Shixi!
+- *2026.02.21*: &nbsp;🎉🎉 Two papers have been accepted by CVPR. Congratulations to Boyu and Feiran!
+- *2025.11.15*: One paper has been accepted by T-PAMI!
 - *2025.10.12*: &nbsp;🎉🎉 My PhD Thesis "Toward Efficient and Generalizable Collaborative Metric Learning Algorithms" (in Chinese) has been selected as the ACM China Excellent Doctoral Dissertation Award Nomination (totally 5 papers in China) (ACM China 优博奖提名)
-- *2025.09.20*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2025!
+- *2025.09.20*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS!
 - *2025.09.15*: &nbsp;🎉🎉 One paper has been accepted by T-PAMI!
-- *2025.09.13*: &nbsp;🎉🎉 We are organizing the forum "Efficient Training and Inference of Large Models" at the [CSIG Young Scientists Conference 2025](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA). Welcome to join us! 
-- *2025.08.01*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in ICCV 2025 Competition for High-Quality Face Dataset Generation (DataCV Challenge), with one paper accepted by ICCV 2025 workshop!
+- *2025.09.13*: &nbsp;🎉🎉 We are organizing the forum "Efficient Training and Inference of Large Models" at the [CSIG Young Scientists Conference](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA). Welcome to join us!
+- *2025.08.01*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in the ICCV Competition for High-Quality Face Dataset Generation (DataCV Challenge), with one paper accepted by the ICCV workshop!
 - *2025.06.30*: &nbsp;🎉🎉 My PhD Thesis "Toward Efficient and Generalizable Collaborative Metric Learning Algorithms" (in Chinese) has been selected as the Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院百篇优博论文)
-- *2025.06.18*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'> 1st Place Award </font>** in CVPR 2025 Workshop on Compositional 3D Vision (C3DV 3DCoMPaT-200, Coarse-Grained GCR Track)
-- *2025.06.12*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'> 1st Place Award </font>** in CVPR 2025 Competition for Fine-grained Video Understanding (EgoVis HoloAssist Challenges: Mistake Detection Track).
-- *2025.05.20*: &nbsp;🎉🎉 I have been nominated as ICLR Notable Reviewer 2025.
-- *2025.05.02*: &nbsp;🎉🎉 Three papers have been accepted by ICML 2025.
-- *2025.02.20*: &nbsp;🎉🎉 One paper has been accepted by T-PAMI 2025.
+- *2025.06.18*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'> 1st Place Award </font>** in the CVPR Workshop on Compositional 3D Vision (C3DV 3DCoMPaT-200, Coarse-Grained GCR Track)
+- *2025.06.12*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'> 1st Place Award </font>** in the CVPR Competition for Fine-grained Video Understanding (EgoVis HoloAssist Challenges: Mistake Detection Track).
+- *2025.05.20*: &nbsp;🎉🎉 I have been nominated as an ICLR Notable Reviewer.
+- *2025.05.02*: &nbsp;🎉🎉 Three papers have been accepted by ICML.
+- *2025.02.20*: &nbsp;🎉🎉 One paper has been accepted by T-PAMI.
 
 </div>
 
@@ -253,11 +253,11 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - Multimedia Systems: Reviewer
 
 ### Others
-- *2026.08.05* &nbsp; **Chair** of the [Forum on Efficient Training and Inference of Large Models](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x8.html) at the CSIG Young Scientists Conference 2026
-- *2026.07* &nbsp; **Forum Co-chair** of the Theoretical Foundations of Trustworthy Artificial Intelligence for Multimedia Forum at [ChinaMM 2026](https://mp.weixin.qq.com/s/m9KCKvG8bjKVqGPvjnoz3g)
-- *2026.05* &nbsp; **Co-chair** of Forum on Trustworthy Multimedia Analysis and Privacy-Preserving Computing at the [CCIG 2026](https://ccig.csig.org.cn/2026/11491/202605/7599.html)
+- *2026.08.05* &nbsp; **Chair** of the [Forum on Efficient Training and Inference of Large Models](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x8.html) at the CSIG Young Scientists Conference
+- *2026.07* &nbsp; **Forum Co-chair** of the Theoretical Foundations of Trustworthy Artificial Intelligence for Multimedia Forum at [ChinaMM](https://mp.weixin.qq.com/s/m9KCKvG8bjKVqGPvjnoz3g)
+- *2026.05* &nbsp; **Co-chair** of Forum on Trustworthy Multimedia Analysis and Privacy-Preserving Computing at [CCIG](https://ccig.csig.org.cn/2026/11491/202605/7599.html)
 - *2025.11* &nbsp; **Program Chair** of Beijing Youth Science and Technology Salon: Multimodal Intelligent Perception and Cross-modal Computing [(北京青年科技沙龙)](https://mp.weixin.qq.com/s/pbxasNprMey2aul4Tx_TOg)
-- *2025.08* &nbsp;  **Co-chair** of Efficient Training and Inference of Large Models at the [CSIG Young Scientists Conference 2025](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA)
+- *2025.08* &nbsp;  **Co-chair** of Efficient Training and Inference of Large Models at the [CSIG Young Scientists Conference](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA)
 
 # 🎖 Honors and Awards
 - *2026* **<font color='red'>1st Place Award</font>** on the FishEye Traffic Violation (FETV) leaderboard of Track 3 at the [10th AI City Challenge](https://www.aicitychallenge.org/2026-track3/) (ECCV)
@@ -277,8 +277,8 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - *2023* Zhuliyuehua Scholarship for Excellent Doctoral Student, CAS. (中国科学院朱李月华奖学金，中科院共300人)
 - *2022* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
 - *2021* Director Special Scholarship Award, IIE, CAS. (中科院信息工程研究所所长特别奖)
-- *2017* The ACM-ICPC Asia Regional Contest Qingdao Site 2017 <font color='red'> Silver Medal </font> (ACM-ICPC 亚洲区域赛 (青岛站))
-- *2017* The ACM-ICPC Asia Regional Contest Xian Site 2017 <font color='red'> Bronze Medal </font> (ACM-ICPC 亚洲区域赛 (西安站))
+- *2017* The ACM-ICPC Asia Regional Contest Qingdao Site <font color='red'> Silver Medal </font> (ACM-ICPC 亚洲区域赛 (青岛站))
+- *2017* The ACM-ICPC Asia Regional Contest Xian Site <font color='red'> Bronze Medal </font> (ACM-ICPC 亚洲区域赛 (西安站))
 - *2017* 3rd China Collegiate Programming Contest Harbin Site <font color='red'> Bronze Medal </font> (第三届中国大学生程序设计竞赛 CCPC (哈尔滨站))
 
 <span class='anchor' id='educations-work-experience'></span>
