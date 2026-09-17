@@ -54,8 +54,8 @@ My research primarily focuses on machine learning and AI safety, with particular
 # 🔥 News
 <div class="news-scroll" markdown="1">
 
+- *2026.09.17*: &nbsp;🎉🎉 I have been invited to serve as an **Area Chair** for ICLR 2027.
 - *2026.09.08*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'>1st Place Award</font>** on the FishEye Traffic Violation (FETV) leaderboard of Track 3 at the [10th AI City Challenge](https://www.aicitychallenge.org/2026-track3/), held with ECCV.
-- *2026.09.01*: &nbsp;🎉🎉 I am serving as a reviewer for ICLR 2027.
 - *2026.08.25*: &nbsp;🎉🎉 I am honored to have been selected for the [Young Talent Support and Incentive Program of the China Graphics Society (CGS)](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml) as one of four recipients nationwide.
 - *2026.08.05*: &nbsp;🎉🎉 I chaired the [Forum on Efficient Training and Inference of Large Models](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x8.html) and gave an invited talk, ["A Brief Discussion on Representation Reconcilement Learning in Multimodal Models"](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html), at the CSIG Young Scientists Conference.
 - *2026.08.05*: &nbsp;🎉🎉 I am honored to serve as an **Area Chair** for [GroundLM](https://groundlm.github.io/grouplm_emnlp2026/), an EMNLP Workshop.
@@ -237,7 +237,8 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 ### Conferences
  - *GroundLM 2026 (EMNLP 2026 Workshop)*: Area Chair
  - *ICML*: PC Member (2022-2026)
- - *ICLR*: Reviewer (2024-2027)
+ - *ICLR 2027*: Area Chair
+ - *ICLR*: Reviewer (2024-2026)
  - *NeurIPS*: PC Member (2023-2026)
  - *CVPR*: PC Member (2024-2026)
  - *ICCV*: PC Member (2025)
