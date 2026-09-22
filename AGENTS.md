@@ -36,6 +36,21 @@ like a generic marketing landing page.
 - This site includes Chinese and English text. Preserve file encoding and verify
   rendered output after editing multilingual content.
 
+## Publication Citation Style
+
+- Format conference papers in compact conference style: official venue acronym,
+  page range when available, and year; for example,
+  `**NeurIPS**, pp. 2451–2464, 2022.`
+- Do not display the full proceedings-series title, proceedings volume or issue,
+  or publisher-series metadata for conference papers (for example,
+  `Advances in Neural Information Processing Systems 35`, `PMLR 267`, or
+  `AAAI 39(18)`) unless the user explicitly requests full bibliographic metadata.
+- When official page numbers are unavailable, use the venue acronym and year
+  without inventing pages. Preserve verified Oral, Spotlight, or Long Talk
+  distinctions separately from the citation.
+- Journal papers retain conventional journal metadata, including journal name,
+  volume, issue, pages, and publication date when available.
+
 ## Talks And Academic Service
 
 - In the Invited Talks / 学术报告 section, every new or future talk entry must include a
