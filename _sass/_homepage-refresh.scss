@@ -571,7 +571,7 @@
 
   li > a:first-child:hover,
   li > p:first-child > a:first-child:hover,
-  .publication-title:hover {
+  a.publication-title:hover {
     color: var(--homepage-violet);
     text-decoration: underline;
     text-underline-offset: 0.18em;

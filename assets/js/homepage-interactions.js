@@ -11,6 +11,10 @@
   };
 
   var PUBLICATION_METADATA = {
+    "Pairwise AUC Optimization Needs Corrective Power: A Unified View": {
+      kind: "conference",
+      topics: ["auc-ranking"]
+    },
     "Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation": {
       kind: "conference",
       topics: ["robust-imbalanced", "multimodal-learning"]
@@ -141,10 +145,10 @@
     var selected = { kind: "all", topic: "all" };
 
     items.forEach(function (item) {
-      var titleLink = item.querySelector("a");
-      if (!titleLink) return;
+      var titleElement = item.querySelector(".publication-title") || item.querySelector("a");
+      if (!titleElement) return;
 
-      titleLink.classList.add("publication-title");
+      titleElement.classList.add("publication-title");
       var textWalker = document.createTreeWalker(item, NodeFilter.SHOW_TEXT);
       var textNode;
       while ((textNode = textWalker.nextNode())) {
@@ -153,10 +157,10 @@
           " "
         );
       }
-      if (titleLink.nextSibling && titleLink.nextSibling.nodeType === Node.TEXT_NODE) {
-        titleLink.nextSibling.nodeValue = titleLink.nextSibling.nodeValue.replace(/^\s*/, " ");
+      if (titleElement.nextSibling && titleElement.nextSibling.nodeType === Node.TEXT_NODE) {
+        titleElement.nextSibling.nodeValue = titleElement.nextSibling.nodeValue.replace(/^\s*/, " ");
       }
-      var title = normalizeTitle(titleLink.textContent);
+      var title = normalizeTitle(titleElement.textContent);
       var metadata = PUBLICATION_METADATA[title];
 
       if (!metadata) {
