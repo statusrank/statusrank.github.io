@@ -51,6 +51,20 @@ like a generic marketing landing page.
 - Journal papers retain conventional journal metadata, including journal name,
   volume, issue, pages, and publication date when available.
 
+## Honors And Awards Ordering
+
+- In Honors and Awards / 荣誉与奖励, separate personal honors from competition
+  results. Place personal honors first and competition results second.
+- Within each group, sort entries in reverse chronological order, newest first.
+  Keep all competition results together, including championships and other
+  medals; do not interleave them with personal honors.
+- Preserve the exact official award name when evidence provides one. On the
+  Chinese page, a user-confirmed championship may be labeled `冠军`, with the
+  official English award name retained in parentheses when useful. The English
+  page should use the official award title.
+- Keep News / 最新动态 as an independent reverse-chronological timeline; adding
+  or regrouping an award must not remove its corresponding news item.
+
 ## Talks And Academic Service
 
 - In the Invited Talks / 学术报告 section, every new or future talk entry must include a

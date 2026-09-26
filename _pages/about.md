@@ -54,12 +54,14 @@ My research primarily focuses on machine learning and AI safety, with particular
 # 🔥 News
 <div class="news-scroll" markdown="1">
 
+- *2026.09.26*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS. Congratulations to Jia!
 - *2026.09.17*: &nbsp;🎉🎉 I have been invited to serve as an **Area Chair** for ICLR 2027.
 - *2026.09.08*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'>1st Place Award</font>** on the FishEye Traffic Violation (FETV) leaderboard of Track 3 at the [10th AI City Challenge](https://www.aicitychallenge.org/2026-track3/), held with ECCV.
 - *2026.08.25*: &nbsp;🎉🎉 I am honored to have been selected for the [Young Talent Support and Incentive Program of the China Graphics Society (CGS)](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml) as one of four recipients nationwide.
 - *2026.08.05*: &nbsp;🎉🎉 I chaired the [Forum on Efficient Training and Inference of Large Models](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x8.html) and gave an invited talk, ["A Brief Discussion on Representation Reconcilement Learning in Multimodal Models"](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html), at the CSIG Young Scientists Conference.
 - *2026.08.05*: &nbsp;🎉🎉 I am honored to serve as an **Area Chair** for [GroundLM](https://groundlm.github.io/grouplm_emnlp2026/), an EMNLP Workshop.
 - *2026.07.16*: &nbsp;🎉🎉 I joined the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) as an Assistant Research Fellow.
+- *2026.06.03*: &nbsp;🎉🎉 Our team received the **<font color='red'>Meritorious Winner Award</font>** in the Embedding Aggregation Optimization Track (Vision-only Track) of the [CVPR Workshop Challenge on Foundation Models for General CT Image Diagnosis](https://www.codabench.org/competitions/12650/) for "Disease-Adaptive Multi-Representation Fusion for General CT Diagnosis."
 - *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in the CVPR Vision-based Assistants in the Real World Workshop, AI Coach Challenge (Cooking Track).
 - *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track), successfully defending our 2025 title in the same track.
 - *2026.05.14*: &nbsp;🎉🎉 I have been recognized as an ICML Gold Reviewer.
@@ -188,6 +190,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 </div>
 
 ## 2026
+- Pairwise AUC Optimization Needs Corrective Power: A Unified View.  Jia Chen, Zhiyong Yang, **Shilong Bao**, Qianqian Xu, and Qingming Huang. **NeurIPS**, 2026.
 - [Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Guiding_Diffusion-based_Reconstruction_with_Contrastive_Signals_for_Balanced_Visual_Representation_CVPR_2026_paper.html)  Boyu Han, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Ruochen Cui, Xilin Zhao, and Qingming Huang.  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2369–2380, 2026. \|[\[Code\]](https://github.com/boyuh/DCR)\|
 - [BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation](https://openaccess.thecvf.com/content/CVPR2026/html/Li_BlackMirror_Black-Box_Backdoor_Detection_for_Text-to-Image_Models_via_Instruction-Response_Deviation_CVPR_2026_paper.html)  Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Xilin Zhao, Xiaochun Cao, and Qingming Huang.  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 30098–30109, 2026. \|[\[Code\]](https://github.com/Ferry-Li/BlackMirror)\|
 
@@ -261,23 +264,30 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - *2025.08* &nbsp;  **Co-chair** of Efficient Training and Inference of Large Models at the [CSIG Young Scientists Conference](https://mp.weixin.qq.com/s/NYc2zJeq2iWjHNANvg8qiA)
 
 # 🎖 Honors and Awards
-- *2026* **<font color='red'>1st Place Award</font>** on the FishEye Traffic Violation (FETV) leaderboard of Track 3 at the [10th AI City Challenge](https://www.aicitychallenge.org/2026-track3/) (ECCV)
+
+### Personal Honors
+
 - *2026* [Young Talent Support and Incentive Program of the China Graphics Society (CGS)](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml) (4 recipients nationwide)
-- *2026* **<font color='red'> 1st Place Award </font>** in CVPR Vision-based Assistants in the Real World Workshop (AI Coach Challenge, Cooking Track)
-- *2026* **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, successfully defending our 2025 title)
 - *2026* ICML Gold Reviewer
 - *2025* ACM China Excellent Doctoral Dissertation Award Nomination (ACM中国优博奖提名, <font color='red'>5 papers in China</font>)
 - *2025* ACM China SIGMM Excellent Doctoral Dissertation Award (ACM中国SigMM优博, <font color='red'>3 papers in total</font>)
 - *2025* Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院优秀博士学位论文，中科院<font color='red'>全学科100篇</font>)
-- *2025* **<font color='red'> 1st Place Award </font>** in ICCV Competition for High-Quality Face Dataset Generation (DataCV Challenge)
-- *2025* **<font color='red'> 1st Place Award </font>** at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track Challenge)
-- *2025* **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track)
 - *2025* ICLR Notable Reviewer (480/all) 
 - *2025* Young Elite Scientists Sponsorship Program of the Beijing High Innovation Plan (北京"高创计划"-青年人才托举工程)
 - *2024* Outstanding Doctoral Dissertation Award of Beijing Society of Image and Graphics (BSIG). (北京图象图形学学会优秀博士学位论文奖 (<font color='red'> 京津冀5篇 </font>))
 - *2023* Zhuliyuehua Scholarship for Excellent Doctoral Student, CAS. (中国科学院朱李月华奖学金，中科院共300人)
 - *2022* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
 - *2021* Director Special Scholarship Award, IIE, CAS. (中科院信息工程研究所所长特别奖)
+
+### Competition Awards
+
+- *2026* **<font color='red'>1st Place Award</font>** on the FishEye Traffic Violation (FETV) leaderboard of Track 3 at the [10th AI City Challenge](https://www.aicitychallenge.org/2026-track3/) (ECCV)
+- *2026* **<font color='red'>Meritorious Winner Award</font>** in the Embedding Aggregation Optimization Track (Vision-only Track) of the [CVPR Workshop Challenge on Foundation Models for General CT Image Diagnosis](https://www.codabench.org/competitions/12650/)
+- *2026* **<font color='red'> 1st Place Award </font>** in CVPR Vision-based Assistants in the Real World Workshop (AI Coach Challenge, Cooking Track)
+- *2026* **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, successfully defending our 2025 title)
+- *2025* **<font color='red'> 1st Place Award </font>** in ICCV Competition for High-Quality Face Dataset Generation (DataCV Challenge)
+- *2025* **<font color='red'> 1st Place Award </font>** at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track Challenge)
+- *2025* **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track)
 - *2017* The ACM-ICPC Asia Regional Contest Qingdao Site <font color='red'> Silver Medal </font> (ACM-ICPC 亚洲区域赛 (青岛站))
 - *2017* The ACM-ICPC Asia Regional Contest Xian Site <font color='red'> Bronze Medal </font> (ACM-ICPC 亚洲区域赛 (西安站))
 - *2017* 3rd China Collegiate Programming Contest Harbin Site <font color='red'> Bronze Medal </font> (第三届中国大学生程序设计竞赛 CCPC (哈尔滨站))
@@ -414,7 +424,7 @@ XCurve focuses on **the design criteria of the objective function for ML tasks**
   <div class="collaborator-card"><div class="collaborator-avatar">LP</div><strong>李鹏</strong><span>Master Student</span></div>
   <div class="collaborator-card"><div class="collaborator-avatar collaborator-avatar--photo"><img class="student-photo" src="/images/students/duoyou-chen.png" alt="Duoyou Chen"></div><strong>陈铎友</strong><span>Ph.D. Student</span></div>
   <div class="collaborator-card"><div class="collaborator-avatar">CB</div><strong>崔斌</strong><span>Ph.D. Student</span></div>
-  <div class="collaborator-card"><div class="collaborator-avatar">CJ</div><strong>陈嘉</strong><span>Master Student</span></div>
+  <div class="collaborator-card"><div class="collaborator-avatar">CJ</div><strong>陈嘉</strong><span>Master Student</span><small>NeurIPS×1</small></div>
   <div class="collaborator-card"><div class="collaborator-avatar">BJ</div><strong>鲍俊</strong><span>Master Student</span></div>
 </div>
 <!-- current-students-grid:end -->

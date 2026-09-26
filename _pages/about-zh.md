@@ -51,6 +51,7 @@ profile_location: "中国·北京"
 
 ## 2026
 
+- Pairwise AUC Optimization Needs Corrective Power: A Unified View.  Jia Chen, Zhiyong Yang, **Shilong Bao**, Qianqian Xu, and Qingming Huang. **NeurIPS**, 2026.
 - [Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Guiding_Diffusion-based_Reconstruction_with_Contrastive_Signals_for_Balanced_Visual_Representation_CVPR_2026_paper.html)  Boyu Han, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Ruochen Cui, Xilin Zhao, and Qingming Huang. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2369–2380, 2026. \|[\[Code\]](https://github.com/boyuh/DCR)\|
 - [BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation](https://openaccess.thecvf.com/content/CVPR2026/html/Li_BlackMirror_Black-Box_Backdoor_Detection_for_Text-to-Image_Models_via_Instruction-Response_Deviation_CVPR_2026_paper.html)  Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Xilin Zhao, Xiaochun Cao, and Qingming Huang. IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 30098–30109, 2026. \|[\[Code\]](https://github.com/Ferry-Li/BlackMirror)\|
 - [Closing the Approximation Gap of Partial AUC Optimization: A Tale of Two Formulations](https://doi.org/10.1109/TPAMI.2025.3637063)  Yangbangyan Jiang, Qianqian Xu, Huiyang Shao, Zhiyong Yang, **Shilong Bao**, Xiaochun Cao, and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 48(3): 3482–3498, Mar. 2026.
@@ -137,12 +138,14 @@ profile_location: "中国·北京"
 
 <div class="news-scroll" markdown="1">
 
+- *2026.09.26*: &nbsp;🎉🎉 一篇论文获 NeurIPS 录用，祝贺陈嘉！
 - *2026.09.17*: &nbsp;🎉🎉 受邀担任 ICLR 2027 领域主席（Area Chair）。
 - *2026.09.08*: &nbsp;🎉🎉 团队（MR-CAS）在 ECCV [第十届 AI City Challenge Track 3](https://www.aicitychallenge.org/2026-track3/) 的 FishEye Traffic Violation（FETV）赛道中获 **<font color='red'>冠军</font>**。
 - *2026.08.25*: &nbsp;🎉🎉 入选[中国图学学会青年人才托举激励计划](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml)（全国共4人）。
 - *2026.08.05*: &nbsp;🎉🎉 担任中国图象图形学学会青年科学家会议[“大模型的高效训练与推理”分论坛](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x8.html)主席，并在“学术新星论坛”作题为[“浅谈多模态模型中的表征调和学习”](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html)的邀请报告。
 - *2026.08.05*: &nbsp;🎉🎉 担任 EMNLP Workshop [GroundLM](https://groundlm.github.io/grouplm_emnlp2026/) 领域主席（Area Chair）。
 - *2026.07.16*: &nbsp;🎉🎉 加入中国科学院计算技术研究所，任助理研究员。
+- *2026.06.03*: &nbsp;🎉🎉 团队凭“Disease-Adaptive Multi-Representation Fusion for General CT Diagnosis”在 [CVPR Foundation Models for General CT Image Diagnosis 竞赛](https://www.codabench.org/competitions/12650/)的 Embedding Aggregation Optimization Track（Vision-only Track）中获 **<font color='red'>冠军（Meritorious Winner Award）</font>**。
 - *2026.06.03*: &nbsp;🎉🎉 团队在 CVPR Vision-based Assistants in the Real World Workshop AI Coach Challenge（Cooking Track）中获 **<font color='red'>冠军</font>**。
 - *2026.06.03*: &nbsp;🎉🎉 团队在 CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding（Mistake Detection Track）中获 **<font color='red'>冠军</font>**，并在该赛道连续两年（2025、2026）获冠军。
 - *2026.05.14*: &nbsp;🎉🎉 获评 ICML Gold Reviewer。
@@ -239,23 +242,29 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 # 🎖 荣誉与奖励
 
-- *2026* ECCV [第十届 AI City Challenge Track 3](https://www.aicitychallenge.org/2026-track3/) FishEye Traffic Violation（FETV）赛道 **<font color='red'>冠军</font>**
+### 个人荣誉
+
 - *2026* [中国图学学会青年人才托举激励计划](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml)（全国共4人）
-- *2026* CVPR Vision-based Assistants in the Real World Workshop AI Coach Challenge（Cooking Track）**<font color='red'>冠军</font>**
-- *2026* CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding（Mistake Detection Track）**<font color='red'>冠军</font>**，在该赛道连续两年（2025、2026）获冠军
 - *2026* ICML Gold Reviewer
 - *2025* ACM 中国优秀博士学位论文奖提名（全国 <font color='red'>5 篇</font>）
 - *2025* ACM China SIGMM 优秀博士学位论文奖（共 <font color='red'>3 篇</font>）
 - *2025* 中国科学院优秀博士学位论文（全学科 <font color='red'>100 篇</font>）
-- *2025* ICCV Competition for High-Quality Face Dataset Generation（DataCV Challenge）**<font color='red'>冠军</font>**
-- *2025* 第三届 CVPR Workshop on Compositional 3D Vision（Coarse-Grained GCR Track）**<font color='red'>冠军</font>**
-- *2025* CVPR EgoVis HoloAssist Challenges（Mistake Detection Track）**<font color='red'>冠军</font>**
 - *2025* ICLR Notable Reviewer
 - *2025* 入选北京市“高创计划”青年人才托举工程
 - *2024* 北京图象图形学学会优秀博士学位论文奖（京津冀 <font color='red'>5 篇</font>）
 - *2023* 中国科学院朱李月华优秀博士生奖学金（中科院共 300 人）
 - *2022* 国家奖学金
 - *2021* 中国科学院信息工程研究所所长特别奖
+
+### 竞赛获奖
+
+- *2026* ECCV [第十届 AI City Challenge Track 3](https://www.aicitychallenge.org/2026-track3/) FishEye Traffic Violation（FETV）赛道 **<font color='red'>冠军</font>**
+- *2026* [CVPR Foundation Models for General CT Image Diagnosis 竞赛](https://www.codabench.org/competitions/12650/) Embedding Aggregation Optimization Track（Vision-only Track）**<font color='red'>冠军（Meritorious Winner Award）</font>**
+- *2026* CVPR Vision-based Assistants in the Real World Workshop AI Coach Challenge（Cooking Track）**<font color='red'>冠军</font>**
+- *2026* CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding（Mistake Detection Track）**<font color='red'>冠军</font>**，在该赛道连续两年（2025、2026）获冠军
+- *2025* ICCV Competition for High-Quality Face Dataset Generation（DataCV Challenge）**<font color='red'>冠军</font>**
+- *2025* 第三届 CVPR Workshop on Compositional 3D Vision（Coarse-Grained GCR Track）**<font color='red'>冠军</font>**
+- *2025* CVPR EgoVis HoloAssist Challenges（Mistake Detection Track）**<font color='red'>冠军</font>**
 - *2017* ACM-ICPC 亚洲区域赛（青岛站）<font color='red'>银牌</font>
 - *2017* ACM-ICPC 亚洲区域赛（西安站）<font color='red'>铜牌</font>
 - *2017* 第三届中国大学生程序设计竞赛 CCPC（哈尔滨站）<font color='red'>铜牌</font>
@@ -380,7 +389,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
   <div class="collaborator-card"><div class="collaborator-avatar">LP</div><strong>李鹏</strong><span>硕士研究生</span></div>
   <div class="collaborator-card"><div class="collaborator-avatar collaborator-avatar--photo"><img class="student-photo" src="/images/students/duoyou-chen.png" alt="陈铎友"></div><strong>陈铎友</strong><span>博士研究生</span></div>
   <div class="collaborator-card"><div class="collaborator-avatar">CB</div><strong>崔斌</strong><span>博士研究生</span></div>
-  <div class="collaborator-card"><div class="collaborator-avatar">CJ</div><strong>陈嘉</strong><span>硕士研究生</span></div>
+  <div class="collaborator-card"><div class="collaborator-avatar">CJ</div><strong>陈嘉</strong><span>硕士研究生</span><small>NeurIPS×1</small></div>
   <div class="collaborator-card"><div class="collaborator-avatar">BJ</div><strong>鲍俊</strong><span>硕士研究生</span></div>
 </div>
 
