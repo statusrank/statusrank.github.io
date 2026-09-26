@@ -55,13 +55,13 @@ My research primarily focuses on machine learning and AI safety, with particular
 <div class="news-scroll" markdown="1">
 
 - *2026.09.26*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS. Congratulations to Jia Chen!
+- *2026.09.26*: &nbsp;🎉🎉 Our team received the **<font color='red'>Meritorious Winner Award</font>** in the Embedding Aggregation Optimization Track (Vision-only Track) of the [CVPR Workshop Challenge on Foundation Models for General CT Image Diagnosis](https://www.codabench.org/competitions/12650/) for "Disease-Adaptive Multi-Representation Fusion for General CT Diagnosis."
 - *2026.09.17*: &nbsp;🎉🎉 I have been invited to serve as an **Area Chair** for ICLR 2027.
 - *2026.09.08*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'>1st Place Award</font>** on the FishEye Traffic Violation (FETV) leaderboard of Track 3 at the [10th AI City Challenge](https://www.aicitychallenge.org/2026-track3/), held with ECCV.
 - *2026.08.25*: &nbsp;🎉🎉 I am honored to have been selected for the [Young Talent Support and Incentive Program of the China Graphics Society (CGS)](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml) as one of four recipients nationwide.
 - *2026.08.05*: &nbsp;🎉🎉 I chaired the [Forum on Efficient Training and Inference of Large Models](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x8.html) and gave an invited talk, ["A Brief Discussion on Representation Reconcilement Learning in Multimodal Models"](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x11.html), at the CSIG Young Scientists Conference.
 - *2026.08.05*: &nbsp;🎉🎉 I am honored to serve as an **Area Chair** for [GroundLM](https://groundlm.github.io/grouplm_emnlp2026/), an EMNLP Workshop.
 - *2026.07.16*: &nbsp;🎉🎉 I joined the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) as an Assistant Research Fellow.
-- *2026.06.03*: &nbsp;🎉🎉 Our team received the **<font color='red'>Meritorious Winner Award</font>** in the Embedding Aggregation Optimization Track (Vision-only Track) of the [CVPR Workshop Challenge on Foundation Models for General CT Image Diagnosis](https://www.codabench.org/competitions/12650/) for "Disease-Adaptive Multi-Representation Fusion for General CT Diagnosis."
 - *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in the CVPR Vision-based Assistants in the Real World Workshop, AI Coach Challenge (Cooking Track).
 - *2026.06.03*: &nbsp;🎉🎉 Our team won the **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track), successfully defending our 2025 title in the same track.
 - *2026.05.14*: &nbsp;🎉🎉 I have been recognized as an ICML Gold Reviewer.
