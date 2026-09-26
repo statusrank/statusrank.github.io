@@ -54,7 +54,10 @@ like a generic marketing landing page.
 ## Honors And Awards Ordering
 
 - In Honors and Awards / 荣誉与奖励, separate personal honors from competition
-  results. Place personal honors first and competition results second.
+  results in source order. Place personal honors first and competition results
+  second, but render them as one continuous list without visible subgroup
+  headings such as `Personal Honors`, `Competition Awards`, `个人荣誉`, or
+  `竞赛获奖`.
 - Within each group, sort entries in reverse chronological order, newest first.
   Keep all competition results together, including championships and other
   medals; do not interleave them with personal honors.

@@ -265,32 +265,27 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 # 🎖 Honors and Awards
 
-### Personal Honors
-
 - *2026* [Young Talent Support and Incentive Program of the China Graphics Society (CGS)](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml) (4 recipients nationwide)
-- *2026* ICML Gold Reviewer
-- *2025* ACM China Excellent Doctoral Dissertation Award Nomination (ACM中国优博奖提名, <font color='red'>5 papers in China</font>)
-- *2025* ACM China SIGMM Excellent Doctoral Dissertation Award (ACM中国SigMM优博, <font color='red'>3 papers in total</font>)
-- *2025* Distinguished Dissertation Award of Chinese Academy of Sciences (totally 100 papers) (中国科学院优秀博士学位论文，中科院<font color='red'>全学科100篇</font>)
-- *2025* ICLR Notable Reviewer (480/all) 
-- *2025* Young Elite Scientists Sponsorship Program of the Beijing High Innovation Plan (北京"高创计划"-青年人才托举工程)
-- *2024* Outstanding Doctoral Dissertation Award of Beijing Society of Image and Graphics (BSIG). (北京图象图形学学会优秀博士学位论文奖 (<font color='red'> 京津冀5篇 </font>))
-- *2023* Zhuliyuehua Scholarship for Excellent Doctoral Student, CAS. (中国科学院朱李月华奖学金，中科院共300人)
-- *2022* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
-- *2021* Director Special Scholarship Award, IIE, CAS. (中科院信息工程研究所所长特别奖)
-
-### Competition Awards
-
+- *2026* [ICML Gold Reviewer](https://icml.cc/Conferences/2026/ProgramCommittee)
+- *2025* [ACM China Excellent Doctoral Dissertation Award Nomination](https://iip.ict.ac.cn/rcdw/ry/zlyjy/202609/t20260918_857461.html) (ACM中国优博奖提名, <font color='red'>5 papers in China</font>)
+- *2025* [ACM China SIGMM Excellent Doctoral Dissertation Award](https://tc.ccf.org.cn/tcmt/xsdt/zwhdt/2025-11-05/851652.shtml) (ACM中国SigMM优博, <font color='red'>3 papers in total</font>)
+- *2025* [Distinguished Dissertation Award of Chinese Academy of Sciences](https://iie.cas.cn/xwdt/zhxw/202601/t20260130_8120818.html) (totally 100 papers) (中国科学院优秀博士学位论文，中科院<font color='red'>全学科100篇</font>)
+- *2025* [ICLR Notable Reviewer](https://iclr.cc/Conferences/2025/Reviewers) (480/all)
+- *2025* [Young Elite Scientists Sponsorship Program of the Beijing High Innovation Plan](https://iip.ict.ac.cn/rcdw/ry/zlyjy/202609/t20260918_857461.html) (北京"高创计划"-青年人才托举工程)
+- *2024* [Outstanding Doctoral Dissertation Award of Beijing Society of Image and Graphics (BSIG)](https://iip.ict.ac.cn/rcdw/ry/zlyjy/202609/t20260918_857461.html). (北京图象图形学学会优秀博士学位论文奖 (<font color='red'> 京津冀5篇 </font>))
+- *2023* [Zhuliyuehua Scholarship for Excellent Doctoral Student, CAS](https://iip.ict.ac.cn/rcdw/ry/zlyjy/202609/t20260918_857461.html). (中国科学院朱李月华奖学金，中科院共300人)
+- *2022* [National Scholarship, Ministry of Education of the People’s Republic of China](https://iip.ict.ac.cn/rcdw/ry/zlyjy/202609/t20260918_857461.html). (国家奖学金)
+- *2021* [Director Special Scholarship Award, IIE, CAS](https://iip.ict.ac.cn/rcdw/ry/zlyjy/202609/t20260918_857461.html). (中科院信息工程研究所所长特别奖)
 - *2026* **<font color='red'>1st Place Award</font>** on the FishEye Traffic Violation (FETV) leaderboard of Track 3 at the [10th AI City Challenge](https://www.aicitychallenge.org/2026-track3/) (ECCV)
 - *2026* **<font color='red'>Meritorious Winner Award</font>** in the Embedding Aggregation Optimization Track (Vision-only Track) of the [CVPR Workshop Challenge on Foundation Models for General CT Image Diagnosis](https://www.codabench.org/competitions/12650/)
-- *2026* **<font color='red'> 1st Place Award </font>** in CVPR Vision-based Assistants in the Real World Workshop (AI Coach Challenge, Cooking Track)
-- *2026* **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track, successfully defending our 2025 title)
-- *2025* **<font color='red'> 1st Place Award </font>** in ICCV Competition for High-Quality Face Dataset Generation (DataCV Challenge)
-- *2025* **<font color='red'> 1st Place Award </font>** at the 3rd CVPR Workshop on Compositional 3D Vision (Coarse-Grained GCR Track Challenge)
-- *2025* **<font color='red'> 1st Place Award </font>** in CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding (Mistake Detection Track)
-- *2017* The ACM-ICPC Asia Regional Contest Qingdao Site <font color='red'> Silver Medal </font> (ACM-ICPC 亚洲区域赛 (青岛站))
-- *2017* The ACM-ICPC Asia Regional Contest Xian Site <font color='red'> Bronze Medal </font> (ACM-ICPC 亚洲区域赛 (西安站))
-- *2017* 3rd China Collegiate Programming Contest Harbin Site <font color='red'> Bronze Medal </font> (第三届中国大学生程序设计竞赛 CCPC (哈尔滨站))
+- *2026* **<font color='red'> 1st Place Award </font>** in the [CVPR Vision-based Assistants in the Real World Workshop AI Coach Challenge](https://varworkshop.github.io/challenges/) (Cooking Track)
+- *2026* **<font color='red'> 1st Place Award </font>** in the [CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding](https://egovis.github.io/cvpr26/) (Mistake Detection Track, successfully defending our 2025 title)
+- *2025* **<font color='red'> 1st Place Award </font>** in the [ICCV Competition for High-Quality Face Dataset Generation (DataCV Challenge)](https://openaccess.thecvf.com/content/ICCV2025W/DataCV/papers/Li_Hybrid_Generative_Fusion_for_Efficient_and_Privacy-Preserving_Face_Recognition_Dataset_ICCVW_2025_paper.pdf)
+- *2025* **<font color='red'> 1st Place Award </font>** at the [3rd CVPR Workshop on Compositional 3D Vision](https://3dcompat-dataset.org/workshop/) (Coarse-Grained GCR Track Challenge)
+- *2025* **<font color='red'> 1st Place Award </font>** in the [CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding](https://egovis.github.io/cvpr25/) (Mistake Detection Track)
+- *2017* The [ACM-ICPC Asia Regional Contest Qingdao Site](https://acm.sdut.edu.cn/acmss/icpc/2017/qingdao/index.html) <font color='red'> Silver Medal </font> (ACM-ICPC 亚洲区域赛 (青岛站))
+- *2017* The [ACM-ICPC Asia Regional Contest Xian Site](https://acm.sdut.edu.cn/acmss/icpc/2017/xian/index.html) <font color='red'> Bronze Medal </font> (ACM-ICPC 亚洲区域赛 (西安站))
+- *2017* [3rd China Collegiate Programming Contest Harbin Site](https://acm.sdut.edu.cn/acmss/ccpc/2017/haerbin/index.html) <font color='red'> Bronze Medal </font> (第三届中国大学生程序设计竞赛 CCPC (哈尔滨站))
 
 <span class='anchor' id='educations-work-experience'></span>
 

@@ -242,32 +242,27 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 # 🎖 荣誉与奖励
 
-### 个人荣誉
-
 - *2026* [中国图学学会青年人才托举激励计划](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml)（全国共4人）
-- *2026* ICML Gold Reviewer
-- *2025* ACM 中国优秀博士学位论文奖提名（全国 <font color='red'>5 篇</font>）
-- *2025* ACM China SIGMM 优秀博士学位论文奖（共 <font color='red'>3 篇</font>）
-- *2025* 中国科学院优秀博士学位论文（全学科 <font color='red'>100 篇</font>）
-- *2025* ICLR Notable Reviewer
-- *2025* 入选北京市“高创计划”青年人才托举工程
-- *2024* 北京图象图形学学会优秀博士学位论文奖（京津冀 <font color='red'>5 篇</font>）
-- *2023* 中国科学院朱李月华优秀博士生奖学金（中科院共 300 人）
-- *2022* 国家奖学金
-- *2021* 中国科学院信息工程研究所所长特别奖
-
-### 竞赛获奖
-
+- *2026* [ICML Gold Reviewer](https://icml.cc/Conferences/2026/ProgramCommittee)
+- *2025* [ACM 中国优秀博士学位论文奖提名](https://iip.ict.ac.cn/rcdw/ry/zlyjy/202609/t20260918_857461.html)（全国 <font color='red'>5 篇</font>）
+- *2025* [ACM China SIGMM 优秀博士学位论文奖](https://tc.ccf.org.cn/tcmt/xsdt/zwhdt/2025-11-05/851652.shtml)（共 <font color='red'>3 篇</font>）
+- *2025* [中国科学院优秀博士学位论文](https://iie.cas.cn/xwdt/zhxw/202601/t20260130_8120818.html)（全学科 <font color='red'>100 篇</font>）
+- *2025* [ICLR Notable Reviewer](https://iclr.cc/Conferences/2025/Reviewers)
+- *2025* [北京市“高创计划”青年人才托举工程](https://iip.ict.ac.cn/rcdw/ry/zlyjy/202609/t20260918_857461.html)
+- *2024* [北京图象图形学学会优秀博士学位论文奖](https://iip.ict.ac.cn/rcdw/ry/zlyjy/202609/t20260918_857461.html)（京津冀 <font color='red'>5 篇</font>）
+- *2023* [中国科学院朱李月华优秀博士生奖学金](https://iip.ict.ac.cn/rcdw/ry/zlyjy/202609/t20260918_857461.html)（中科院共 300 人）
+- *2022* [国家奖学金](https://iip.ict.ac.cn/rcdw/ry/zlyjy/202609/t20260918_857461.html)
+- *2021* [中国科学院信息工程研究所所长特别奖](https://iip.ict.ac.cn/rcdw/ry/zlyjy/202609/t20260918_857461.html)
 - *2026* ECCV [第十届 AI City Challenge Track 3](https://www.aicitychallenge.org/2026-track3/) FishEye Traffic Violation（FETV）赛道 **<font color='red'>冠军</font>**
 - *2026* [CVPR Foundation Models for General CT Image Diagnosis 竞赛](https://www.codabench.org/competitions/12650/) Embedding Aggregation Optimization Track（Vision-only Track）**<font color='red'>冠军（Meritorious Winner Award）</font>**
-- *2026* CVPR Vision-based Assistants in the Real World Workshop AI Coach Challenge（Cooking Track）**<font color='red'>冠军</font>**
-- *2026* CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding（Mistake Detection Track）**<font color='red'>冠军</font>**，在该赛道连续两年（2025、2026）获冠军
-- *2025* ICCV Competition for High-Quality Face Dataset Generation（DataCV Challenge）**<font color='red'>冠军</font>**
-- *2025* 第三届 CVPR Workshop on Compositional 3D Vision（Coarse-Grained GCR Track）**<font color='red'>冠军</font>**
-- *2025* CVPR EgoVis HoloAssist Challenges（Mistake Detection Track）**<font color='red'>冠军</font>**
-- *2017* ACM-ICPC 亚洲区域赛（青岛站）<font color='red'>银牌</font>
-- *2017* ACM-ICPC 亚洲区域赛（西安站）<font color='red'>铜牌</font>
-- *2017* 第三届中国大学生程序设计竞赛 CCPC（哈尔滨站）<font color='red'>铜牌</font>
+- *2026* [CVPR Vision-based Assistants in the Real World Workshop AI Coach Challenge](https://varworkshop.github.io/challenges/)（Cooking Track）**<font color='red'>冠军</font>**
+- *2026* [CVPR EgoVis HoloAssist Challenges for Fine-grained Video Understanding](https://egovis.github.io/cvpr26/)（Mistake Detection Track）**<font color='red'>冠军</font>**，在该赛道连续两年（2025、2026）获冠军
+- *2025* [ICCV Competition for High-Quality Face Dataset Generation（DataCV Challenge）](https://openaccess.thecvf.com/content/ICCV2025W/DataCV/papers/Li_Hybrid_Generative_Fusion_for_Efficient_and_Privacy-Preserving_Face_Recognition_Dataset_ICCVW_2025_paper.pdf)**<font color='red'>冠军</font>**
+- *2025* [第三届 CVPR Workshop on Compositional 3D Vision](https://3dcompat-dataset.org/workshop/)（Coarse-Grained GCR Track）**<font color='red'>冠军</font>**
+- *2025* [CVPR EgoVis HoloAssist Challenges](https://egovis.github.io/cvpr25/)（Mistake Detection Track）**<font color='red'>冠军</font>**
+- *2017* [ACM-ICPC 亚洲区域赛（青岛站）](https://acm.sdut.edu.cn/acmss/icpc/2017/qingdao/index.html)<font color='red'>银牌</font>
+- *2017* [ACM-ICPC 亚洲区域赛（西安站）](https://acm.sdut.edu.cn/acmss/icpc/2017/xian/index.html)<font color='red'>铜牌</font>
+- *2017* [第三届中国大学生程序设计竞赛 CCPC（哈尔滨站）](https://acm.sdut.edu.cn/acmss/ccpc/2017/haerbin/index.html)<font color='red'>铜牌</font>
 
 <span class='anchor' id='educations-work-experience'></span>
 
