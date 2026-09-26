@@ -54,7 +54,7 @@ My research primarily focuses on machine learning and AI safety, with particular
 # 🔥 News
 <div class="news-scroll" markdown="1">
 
-- *2026.09.26*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS. Congratulations to Jia!
+- *2026.09.26*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS. Congratulations to Jia Chen!
 - *2026.09.17*: &nbsp;🎉🎉 I have been invited to serve as an **Area Chair** for ICLR 2027.
 - *2026.09.08*: &nbsp;🎉🎉 Our team (MR-CAS) won the **<font color='red'>1st Place Award</font>** on the FishEye Traffic Violation (FETV) leaderboard of Track 3 at the [10th AI City Challenge](https://www.aicitychallenge.org/2026-track3/), held with ECCV.
 - *2026.08.25*: &nbsp;🎉🎉 I am honored to have been selected for the [Young Talent Support and Incentive Program of the China Graphics Society (CGS)](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml) as one of four recipients nationwide.
