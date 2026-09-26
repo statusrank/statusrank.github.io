@@ -48,6 +48,12 @@ like a generic marketing landing page.
 - When official page numbers are unavailable, use the venue acronym and year
   without inventing pages. Preserve verified Oral, Spotlight, or Long Talk
   distinctions separately from the citation.
+- A newly accepted paper without a public landing page must still use the same
+  title hierarchy and catalog styling as linked publications. Render its title
+  as a non-link title element, keep its publication metadata available to any
+  catalog filters, and add the real link only after it becomes public. Never add
+  a placeholder, unrelated, or fabricated link merely to obtain linked-title
+  styling.
 - Journal papers retain conventional journal metadata, including journal name,
   volume, issue, pages, and publication date when available.
 
