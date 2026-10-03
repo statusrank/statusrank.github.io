@@ -76,6 +76,12 @@ like a generic marketing landing page.
 
 ## Talks And Academic Service
 
+- In News / 最新动态, announce the user's academic-service appointments as
+  invitations. Use natural first-person English such as `I was invited to
+  serve as...` or `I was invited to chair...`, and concise Chinese such as
+  `受邀担任...`. Name the exact role and venue. Do not make acceptance itself
+  the lead or repeat `已接受邀请` after `受邀`. Reviewer distinctions such as
+  Gold Reviewer and Notable Reviewer are honors and retain award language.
 - In the Invited Talks / 学术报告 section, every new or future talk entry must include a
   relevant, trustworthy image and accurate alt text. Use a user-provided asset
   or verifiable official organizer material such as an agenda, poster, talk
