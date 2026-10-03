@@ -99,8 +99,9 @@ profile_location: "中国·北京"
 - *AAAI*：程序委员会委员（2023–2026）
 - *AISTATS*：程序委员会委员（2025–2026）
 
-### 期刊审稿
+### 期刊服务
 
+- Transactions on Machine Learning Research（TMLR）：Action Editor（2026 年起）
 - IEEE Transactions on Pattern Analysis and Machine Intelligence（T-PAMI）：审稿人
 - IEEE Transactions on Multimedia（T-MM）：审稿人
 - IEEE Transactions on Circuits and Systems for Video Technology（T-CSVT）：审稿人
@@ -138,6 +139,7 @@ profile_location: "中国·北京"
 
 <div class="news-scroll" markdown="1">
 
+- *2026.10.01*: &nbsp;🎉 受邀担任 Transactions on Machine Learning Research（TMLR）Action Editor，并已接受邀请。
 - *2026.09.26*: &nbsp;🎉🎉 一篇论文获 NeurIPS 录用，祝贺陈嘉！
 - *2026.09.26*: &nbsp;🎉🎉 团队凭“Disease-Adaptive Multi-Representation Fusion for General CT Diagnosis”在 [CVPR Foundation Models for General CT Image Diagnosis 竞赛](https://www.codabench.org/competitions/12650/)的 Embedding Aggregation Optimization Track（Vision-only Track）中获 **<font color='red'>冠军（Meritorious Winner Award）</font>**。
 - *2026.09.17*: &nbsp;🎉🎉 受邀担任 ICLR 2027 领域主席（Area Chair）。
