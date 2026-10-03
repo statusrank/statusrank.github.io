@@ -101,7 +101,7 @@ profile_location: "中国·北京"
 
 ### 期刊服务
 
-- Transactions on Machine Learning Research（TMLR）：Action Editor（2026 年起）
+- Transactions on Machine Learning Research（TMLR）：Action Editor（2026-）
 - IEEE Transactions on Pattern Analysis and Machine Intelligence（T-PAMI）：审稿人
 - IEEE Transactions on Multimedia（T-MM）：审稿人
 - IEEE Transactions on Circuits and Systems for Video Technology（T-CSVT）：审稿人
