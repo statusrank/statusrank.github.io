@@ -54,6 +54,7 @@ My research primarily focuses on machine learning and AI safety, with particular
 # 🔥 News
 <div class="news-scroll" markdown="1">
 
+- *2026.10.01*: &nbsp;🎉 I accepted an invitation to serve as an Action Editor for Transactions on Machine Learning Research (TMLR).
 - *2026.09.26*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS. Congratulations to Jia Chen!
 - *2026.09.26*: &nbsp;🎉🎉 Our team received the **<font color='red'>Meritorious Winner Award</font>** in the Embedding Aggregation Optimization Track (Vision-only Track) of the [CVPR Workshop Challenge on Foundation Models for General CT Image Diagnosis](https://www.codabench.org/competitions/12650/) for "Disease-Adaptive Multi-Representation Fusion for General CT Diagnosis."
 - *2026.09.17*: &nbsp;🎉🎉 I have been invited to serve as an **Area Chair** for ICLR 2027.
@@ -250,6 +251,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
  - *AISTATS*: PC Member (2025-2026)
 
 ### Journals
+- Transactions on Machine Learning Research (TMLR): Action Editor (since 2026)
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI): Reviewer
 - IEEE Transactions on Multimedia (T-MM): Reviewer
 - IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT): Reviewer
