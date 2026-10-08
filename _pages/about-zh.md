@@ -352,11 +352,11 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 # 💻 科研项目与开源项目
 
 - *2025.08*: &nbsp; 国家自然科学基金青年科学基金项目（C 类，项目编号：62502496），<font color='red'>主持</font>
-- *2025.07*: &nbsp; 中国博士后科学基金面上资助（项目编号：2025M771492），<font color='red'>主持</font>
+- *2025.07*: &nbsp; 中国博士后科学基金面上资助（项目编号：2025M771492），<font color='red'>主持</font>（已结题）
 - *2025.06*: &nbsp; 中国科学院特别研究助理资助项目，<font color='red'>主持</font>
-- *2025.07*: &nbsp; 北京青年科技沙龙项目，<font color='red'>主持</font>
+- *2025.07*: &nbsp; 北京青年科技沙龙项目，<font color='red'>主持</font>（已结题）
 - *2025.01*: &nbsp; 国家自然科学基金重点项目（项目号：62441232），<font color='red'>技术骨干</font>
-- *2024.07*: &nbsp; 中国博士后科学基金国家资助博士后研究人员计划（B 档，项目编号：GZB20240729），<font color='red'>主持</font>
+- *2024.07*: &nbsp; 中国博士后科学基金国家资助博士后研究人员计划（B 档，项目编号：GZB20240729），<font color='red'>主持</font>（已结题）
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">XCurve</div><img src='/images/xcurve_4.png' alt="XCurve" width="120%"></div></div>
 <div class='paper-box-text' markdown="1">
