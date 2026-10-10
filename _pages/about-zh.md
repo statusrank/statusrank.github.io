@@ -15,7 +15,7 @@ profile_location: "中国·北京"
 
 <div class="about-copy" markdown="1">
 
-我是包世龙，现任**中国科学院计算技术研究所助理研究员**，联系邮箱为 baoshilong@ict.ac.cn。我于中国科学院信息工程研究所获博士学位，导师为[黄庆明教授](https://qmhuang-ucas.github.io/)（IEEE Fellow）。目前与[许倩倩研究员](https://qianqianxu010.github.io/)（中国科学院计算技术研究所）、[操晓春教授](https://scst.sysu.edu.cn/members/caoxiaochun.htm)（中山大学网络空间安全学院院长）及[杨智勇助理教授](https://joshuaas.github.io/)（中国科学院大学）合作开展研究。
+我是包世龙，现任**中国科学院计算技术研究所助理研究员**，联系邮箱为 baoshilong@ict.ac.cn。我于中国科学院信息工程研究所获博士学位，导师为[黄庆明教授](https://qmhuang-ucas.github.io/)（IEEE Fellow）。目前与[许倩倩研究员](https://qianqianxu010.github.io/)（中国科学院计算技术研究所）、[操晓春教授](https://scst.sysu.edu.cn/teacher/CaoXiaochun)（中山大学网络空间安全学院院长）及[杨智勇助理教授](https://joshuaas.github.io/)（中国科学院大学）合作开展研究。
 
 研究工作主要围绕机器学习与人工智能安全展开，重点关注：
 
