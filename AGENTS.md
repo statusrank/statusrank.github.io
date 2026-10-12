@@ -82,6 +82,11 @@ like a generic marketing landing page.
   `受邀担任...`. Name the exact role and venue. Do not make acceptance itself
   the lead or repeat `已接受邀请` after `受邀`. Reviewer distinctions such as
   Gold Reviewer and Notable Reviewer are honors and retain award language.
+- When adding or changing an academic-service role, update both News / 最新动态
+  and the corresponding Services / 学术服务 entry on the English and Chinese
+  pages in the same change. Match the exact role and venue across all four
+  places. An invitation alone should be labeled `invited` / `受邀` in Services;
+  do not imply an active appointment or open-ended term until confirmed.
 - In the Invited Talks / 学术报告 section, every new or future talk entry must include a
   relevant, trustworthy image and accurate alt text. Use a user-provided asset
   or verifiable official organizer material such as an agenda, poster, talk
