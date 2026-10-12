@@ -54,6 +54,7 @@ My research primarily focuses on machine learning and AI safety, with particular
 # 🔥 News
 <div class="news-scroll" markdown="1">
 
+- *2026.10.12*: &nbsp;🎉 I was invited to join the Editorial Board of [Pattern Recognition](https://shop.elsevier.com/journals/pattern-recognition/0031-3203).
 - *2026.10.01*: &nbsp;🎉 I was invited to serve as an Action Editor for the journal Transactions on Machine Learning Research (TMLR).
 - *2026.09.26*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS. Congratulations to Jia Chen!
 - *2026.09.26*: &nbsp;🎉🎉 Our team received the **<font color='red'>Meritorious Winner Award</font>** in the Embedding Aggregation Optimization Track (Vision-only Track) of the [CVPR Workshop Challenge on Foundation Models for General CT Image Diagnosis](https://www.codabench.org/competitions/12650/) for "Disease-Adaptive Multi-Representation Fusion for General CT Diagnosis."
