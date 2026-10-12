@@ -240,9 +240,9 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 # 📖 Services
 
 ### Conferences
+ - *ICLR 2027*: Area Chair
  - *GroundLM 2026 (EMNLP 2026 Workshop)*: Area Chair
  - *ICML*: PC Member (2022-2026)
- - *ICLR 2027*: Area Chair
  - *ICLR*: Reviewer (2024-2026)
  - *NeurIPS*: PC Member (2023-2026)
  - *CVPR*: PC Member (2024-2026)
@@ -252,7 +252,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
  - *AISTATS*: PC Member (2025-2026)
 
 ### Journals
-- [Pattern Recognition](https://shop.elsevier.com/journals/pattern-recognition/0031-3203): Associate Editor (invited, 2026)
+- Pattern Recognition: Associate Editor (invited, 2026)
 - Transactions on Machine Learning Research (TMLR): Action Editor (2026-)
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI): Reviewer
 - IEEE Transactions on Multimedia (T-MM): Reviewer
@@ -269,7 +269,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 # 🎖 Honors and Awards
 
-- *2026* [Young Talent Support and Incentive Program of the China Graphics Society (CGS)](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml) (4 recipients nationwide)
+- *2026* [Young Talent Support and Incentive Program of the China Graphics Society (CGS)](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml) (<font color='red'>4 recipients nationwide</font>)
 - *2026* [ICML Gold Reviewer](https://icml.cc/Conferences/2026/ProgramCommittee)
 - *2025* [ACM China Excellent Doctoral Dissertation Award Nomination](https://iip.ict.ac.cn/rcdw/ry/zlyjy/202609/t20260918_857461.html) (ACM中国优博奖提名, <font color='red'>5 papers in China</font>)
 - *2025* [ACM China SIGMM Excellent Doctoral Dissertation Award](https://tc.ccf.org.cn/tcmt/xsdt/zwhdt/2025-11-05/851652.shtml) (ACM中国SigMM优博, <font color='red'>3 papers in total</font>)

@@ -88,9 +88,9 @@ profile_location: "中国·北京"
 
 ### 会议服务
 
+- *ICLR 2027*：领域主席（Area Chair）
 - *GroundLM 2026（EMNLP 2026 Workshop）*：领域主席（Area Chair）
 - *ICML*：程序委员会委员（2022–2026）
-- *ICLR 2027*：领域主席（Area Chair）
 - *ICLR*：审稿人（2024–2026）
 - *NeurIPS*：程序委员会委员（2023–2026）
 - *CVPR*：程序委员会委员（2024–2026）
@@ -101,7 +101,7 @@ profile_location: "中国·北京"
 
 ### 期刊服务
 
-- [Pattern Recognition](https://shop.elsevier.com/journals/pattern-recognition/0031-3203)：Associate Editor（受邀，2026）
+- Pattern Recognition：Associate Editor（受邀，2026）
 - Transactions on Machine Learning Research（TMLR）：Action Editor（2026-）
 - IEEE Transactions on Pattern Analysis and Machine Intelligence（T-PAMI）：审稿人
 - IEEE Transactions on Multimedia（T-MM）：审稿人
@@ -246,7 +246,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 # 🎖 荣誉与奖励
 
-- *2026* [中国图学学会青年人才托举激励计划](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml)（全国共4人）
+- *2026* [中国图学学会青年人才托举激励计划](https://www.cgn.net.cn/cms/news/100000/0000000390/07c84df2fe9a41a886ebdbba464b5e0e.shtml)（<font color='red'>全国共4人</font>）
 - *2026* [ICML Gold Reviewer](https://icml.cc/Conferences/2026/ProgramCommittee)
 - *2025* [ACM 中国优秀博士学位论文奖提名](https://iip.ict.ac.cn/rcdw/ry/zlyjy/202609/t20260918_857461.html)（全国 <font color='red'>5 篇</font>）
 - *2025* [ACM China SIGMM 优秀博士学位论文奖](https://tc.ccf.org.cn/tcmt/xsdt/zwhdt/2025-11-05/851652.shtml)（共 <font color='red'>3 篇</font>）
