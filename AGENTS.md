@@ -36,6 +36,20 @@ like a generic marketing landing page.
 - This site includes Chinese and English text. Preserve file encoding and verify
   rendered output after editing multilingual content.
 
+## Independent Chinese And English Profiles
+
+- Write the Chinese and English homepage profiles independently for their own
+  readers. Do not produce the Chinese profile by directly translating or
+  mechanically mirroring the English profile, or vice versa.
+- Keep names, roles, dates, awards, publications, and other shared facts
+  consistent, but allow different structure, emphasis, length, and wording.
+  For assistant-drafted copy, prefer natural academic Chinese without
+  duplicating detailed lists already shown elsewhere on the page. When the user
+  supplies final Chinese copy, preserve its wording, scope, and detail even if
+  it is longer. Fix broken Markdown links without changing their destinations.
+- When the user requests a change to only one language, change only that page
+  unless they explicitly request cross-language updates.
+
 ## Publication Citation Style
 
 - Format conference papers in compact conference style: official venue acronym,
