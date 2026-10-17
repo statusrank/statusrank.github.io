@@ -15,15 +15,9 @@ profile_location: "中国·北京"
 
 <div class="about-copy about-copy--zh" markdown="1">
 
-包世龙，**中国科学院计算技术研究所助理研究员（联系邮箱：baoshilong@ict.ac.cn）**，中国网络空间安全学会（CCSS）人工智能安全治理专委会委员、中国人工智能学会（CAAI）因果与不确定性人工智能专委会委员，北京图象图形学学会（BSIG）青年工作委员会委员，博士毕业于中国科学院信息工程研究所，导师为[黄庆明教授](https://qmhuang-ucas.github.io/)（IEEE Fellow）、[许倩倩研究员](https://qianqianxu010.github.io/)，此外还长期与[操晓春教授](https://scst.sysu.edu.cn/teacher/CaoXiaochun)及[杨智勇助理教授](https://joshuaas.github.io/)合作开展研究。
+包世龙，**中国科学院计算技术研究所助理研究员（联系邮箱：baoshilong@ict.ac.cn）**，中国网络空间安全学会（CCSS）人工智能安全治理专委会委员、中国人工智能学会（CAAI）因果与不确定性人工智能专委会委员，北京图象图形学学会（BSIG）青年工作委员会委员，博士毕业于中国科学院信息工程研究所，导师为[黄庆明教授](https://qmhuang-ucas.github.io/)（IEEE Fellow）、[许倩倩研究员](https://qianqianxu010.github.io/)，此外还长期与[操晓春教授](https://scst.sysu.edu.cn/teacher/CaoXiaochun)及[杨智勇助理教授](https://joshuaas.github.io/)合作开展研究。长期聚焦机器学习与人工智能安全研究，包括排序学习、多模态表征学习、生成模型安全、大模型攻防等。已在IEEE TPAMI、NeurIPS、ICML等CCF-A类期刊和会议发表论文20余篇，其中IEEE TPAMI 9篇（影响因子：20.4）。
 
-长期聚焦机器学习与人工智能安全研究，包括排序学习、多模态表征学习、生成模型安全、大模型攻防等。已在IEEE TPAMI、NeurIPS、ICML等CCF-A类期刊和会议发表论文20余篇，其中IEEE TPAMI 9篇（影响因子：20.4）。
-
-先后入选/获得2026年度中国图学学会青年人才托举激励计划（全国共4人）、2025年度ACM China优秀博士学位论文奖提名（全国共5人）、北京市科协2025年度“高创计划”青年人才托举工程、2025年度ACM China SIGMM优秀博士学位论文奖（共3篇）、2025年度中国科学院优秀博士学位论文（中科院全学科100篇）、2024年度北京图象图形学学会优秀博士学位论文奖（京津冀5篇），获ICCV/CVPR/ECCV等CCF-A类国际会议竞赛冠军7项。
-
-先后主持国家自然科学基金青年基金C类、中国博士后科学基金面上项目、中国科学院特别研究助理资助项目、中国博士后科学基金会国家资助博士后研究人员计划项目；担任模式识别领域国际知名学术期刊《Pattern Recognition》（PR）副主编（Associate Editor，AE）、机器学习领域国际学术期刊《Transactions on Machine Learning Research》（TMLR）责任编辑（Action Editor），以及ICLR等CCF-A类国际顶级学术会议的领域主席（Area Chair）。
-
-
+先后入选/获得2026年度中国图学学会青年人才托举激励计划（全国共4人）、2025年度ACM China优秀博士学位论文奖提名（全国共5人）、北京市科协2025年度“高创计划”青年人才托举工程、2025年度ACM China SIGMM优秀博士学位论文奖（共3篇）、2025年度中国科学院优秀博士学位论文（中科院全学科100篇）、2024年度北京图象图形学学会优秀博士学位论文奖（京津冀5篇），获ICCV/CVPR/ECCV等CCF-A类国际会议竞赛冠军7项。先后主持国家自然科学基金青年基金C类、中国博士后科学基金面上项目、中国科学院特别研究助理资助项目、中国博士后科学基金会国家资助博士后研究人员计划项目；担任模式识别领域国际知名学术期刊《Pattern Recognition》（PR）副主编（Associate Editor，AE）、机器学习领域国际学术期刊《Transactions on Machine Learning Research》（TMLR）责任编辑（Action Editor），以及ICLR等CCF-A类国际顶级学术会议的领域主席（Area Chair）。
 
 </div>
 
