@@ -149,6 +149,21 @@
   font-weight: 650;
 }
 
+.about-copy--zh > p {
+  text-align: left;
+  text-justify: auto;
+  overflow-wrap: anywhere;
+}
+
+.about-copy--zh > p:nth-of-type(2) {
+  color: inherit;
+  font-weight: 400;
+}
+
+.about-copy--zh > p:last-child {
+  margin-bottom: 0;
+}
+
 .about-copy a {
   font-weight: 650;
   text-decoration-thickness: 1px;
@@ -2185,6 +2200,10 @@ html[data-theme="dark"] .about-copy > ul > li,
 html[data-theme="dark"] .about-copy strong,
 html[data-theme="dark"] .research-interest-detail {
   color: #d8e0f0;
+}
+
+html[data-theme="dark"] .about-copy--zh > p:nth-of-type(2) {
+  color: inherit;
 }
 
 html[data-theme="dark"] .page__content font[color="red"] {
