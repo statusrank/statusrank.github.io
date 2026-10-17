@@ -15,7 +15,7 @@ profile_location: "中国·北京"
 
 <div class="about-copy" markdown="1">
 
-我是包世龙，现任**中国科学院计算技术研究所助理研究员**，联系邮箱为 baoshilong@ict.ac.cn。我于中国科学院信息工程研究所获博士学位，导师为[黄庆明教授](https://qmhuang-ucas.github.io/)（IEEE Fellow）。目前与[许倩倩研究员](https://qianqianxu010.github.io/)（中国科学院计算技术研究所）、[操晓春教授](https://scst.sysu.edu.cn/teacher/CaoXiaochun)（中山大学网络空间安全学院院长）及[杨智勇助理教授](https://joshuaas.github.io/)（中国科学院大学）合作开展研究。
+我是包世龙，现任**中国科学院计算技术研究所助理研究员**，联系邮箱为 baoshilong@ict.ac.cn。我于中国科学院信息工程研究所获博士学位，导师为[黄庆明教授](https://qmhuang-ucas.github.io/)（IEEE Fellow）。目前与[许倩倩研究员](https://qianqianxu010.github.io/)（中国科学院计算技术研究所）、[操晓春教授](https://scst.sysu.edu.cn/teacher/CaoXiaochun)（中山大学网络空间安全学院院长）及[杨智勇助理教授](https://joshuaas.github.io/)（中国科学院大学）合作开展研究。现任中国网络空间安全学会人工智能安全治理专委会委员、北京图象图形学学会青年工作委员会委员。
 
 研究工作主要围绕机器学习与人工智能安全展开，重点关注：
 
@@ -109,6 +109,11 @@ profile_location: "中国·北京"
 - ACM Transactions on Multimedia Computing, Communications and Applications（TOMM）：审稿人
 - Multimedia Systems：审稿人
 
+### 学会服务
+
+- 中国网络空间安全学会人工智能安全治理专委会：委员
+- 北京图象图形学学会青年工作委员会：委员
+
 ### 论坛组织与其他服务
 
 - *2026.08.05* &nbsp; 中国图象图形学学会青年科学家会议[“大模型的高效训练与推理”分论坛](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x8.html)主席
@@ -140,6 +145,7 @@ profile_location: "中国·北京"
 
 <div class="news-scroll" markdown="1">
 
+- *2026.10.17*: &nbsp;🎉 现任中国网络空间安全学会**<font color='red'>人工智能安全治理专委会委员</font>**、北京图象图形学学会**<font color='red'>青年工作委员会委员</font>**。
 - *2026.10.12*: &nbsp;🎉 受邀担任 [Pattern Recognition](https://shop.elsevier.com/journals/pattern-recognition/0031-3203) 的 **<font color='red'>Associate Editor</font>**。
 - *2026.10.01*: &nbsp;🎉 受邀担任 Transactions on Machine Learning Research（TMLR）**<font color='red'>Action Editor</font>**。
 - *2026.09.26*: &nbsp;🎉🎉 一篇论文获 NeurIPS 录用，祝贺陈嘉！

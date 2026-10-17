@@ -22,7 +22,7 @@ redirect_from:
 
 <div class="about-copy" markdown="1">
 
-Hi! I'm Shilong Bao (包世龙, E-mail: baoshilong@ict.ac.cn). I am currently an Assistant Research Fellow at the **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**. I received my Ph.D. degree from the **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also fortunate to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS), [Xiaochun Cao (操晓春)](https://scst.sysu.edu.cn/teacher/CaoXiaochun) (Dean of the School of Cyber Science and Technology, Sun Yat-sen University), and [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Tenure-track Assistant Professor at UCAS).
+Hi! I'm Shilong Bao (包世龙, E-mail: baoshilong@ict.ac.cn). I am currently an Assistant Research Fellow at the **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**. I received my Ph.D. degree from the **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also fortunate to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS), [Xiaochun Cao (操晓春)](https://scst.sysu.edu.cn/teacher/CaoXiaochun) (Dean of the School of Cyber Science and Technology, Sun Yat-sen University), and [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Tenure-track Assistant Professor at UCAS). I serve on the AI Security Governance Committee of the China Cyber Security Society (CCSS) and the Young Professional Committee of the Beijing Society of Image and Graphics (BSIG).
 
 My research primarily focuses on machine learning and AI safety, with particular interests in:
 - **Trustworthy Machine Learning** <span class="research-interest-detail">(Robust Learning, Imbalanced Learning, and Ranking &amp; AUC Optimization)</span>
@@ -54,6 +54,7 @@ My research primarily focuses on machine learning and AI safety, with particular
 # 🔥 News
 <div class="news-scroll" markdown="1">
 
+- *2026.10.17*: &nbsp;🎉 I currently serve on the **<font color='red'>AI Security Governance Committee</font>** of the China Cyber Security Society (CCSS) and the **<font color='red'>Young Professional Committee</font>** of the Beijing Society of Image and Graphics (BSIG).
 - *2026.10.12*: &nbsp;🎉 I was invited to serve as an **<font color='red'>Associate Editor</font>** for [Pattern Recognition](https://shop.elsevier.com/journals/pattern-recognition/0031-3203).
 - *2026.10.01*: &nbsp;🎉 I was invited to serve as an **<font color='red'>Action Editor</font>** for the journal Transactions on Machine Learning Research (TMLR).
 - *2026.09.26*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS. Congratulations to Jia Chen!
@@ -259,6 +260,10 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT): Reviewer
 - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM): Reviewer
 - Multimedia Systems: Reviewer
+
+### Professional Societies
+- China Cyber Security Society (CCSS) AI Security Governance Committee: Member
+- Beijing Society of Image and Graphics (BSIG) Young Professional Committee: Member
 
 ### Others
 - *2026.08.05* &nbsp; **Chair** of the [Forum on Efficient Training and Inference of Large Models](http://youth.csig.org.cn/CSIG2026/views/meeting/8-5-x8.html) at the CSIG Young Scientists Conference
