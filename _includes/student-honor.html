@@ -1,4 +1,0 @@
-{% assign short_key = include.lang | prepend: "short_" %}
-<li class="student-honor" title="{{ include.honor[include.lang] | escape }} ({{ include.honor.year | escape }})" aria-label="{{ include.honor[include.lang] | escape }} ({{ include.honor.year | escape }})">
-  <span class="student-honor__title">{{ include.honor[short_key] | default: include.honor[include.lang] | escape }}</span><span class="student-honor__year">{{ include.honor.year | escape }}</span>
-</li>
