@@ -135,6 +135,33 @@ like a generic marketing landing page.
   two records: an illustrated entry under Invited Talks / 学术报告 and a
   text-only entry under Services / 学术服务.
 
+## Student Profiles
+
+- Maintain current students in `_data/students.yml`; render both languages with
+  `_includes/current-students.html`. Preserve the established roster order,
+  portraits, and profile links when updating honors.
+- Display only honors earned during graduate study. Exclude undergraduate
+  scholarships, undergraduate graduation honors, and awards whose study stage
+  cannot be established. Use exact user-confirmed years; do not infer dates.
+- Do not list academic-presentation awards such as excellent-report or
+  best-student-presentation awards in student cards or their expanded details.
+- Keep a dated source for each new honor in the data or maintenance record.
+  Use the established former-student design as the reference for additions:
+  two-column horizontal cards on wide screens, portrait on the left and all
+  text on the right, subtle light-theme background and capsule-shaped badges.
+  Adapt to one column when content space is tight; avoid redesigning these
+  into three-column small tiles. Preserve the dark-theme counterpart.
+  Honor badges may use clear short names with years; retain full award names in
+  tooltips, accessible labels, and a keyboard/touch-accessible native disclosure.
+  Put publication counts at the top right of each current-student card beside
+  the portrait/name header, one compact venue badge per line. Keep honor badges
+  visually quiet; publication badges may use a soft violet tint and stronger
+  type for emphasis without assigning a different color to every venue. Keep honors
+  in a wrapping row in the right-hand content area below the header. Use consistent badge
+  heights, type, and radii with the established restrained blue-lilac palette. Use the same
+  badge scale for current and former students; do not shrink important content
+  to fit. Keep placeholder avatars visually quieter than real portraits.
+
 ## Design Direction
 
 - Use the installed Taste Skill (`design-taste-frontend`) for substantial visual

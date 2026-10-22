@@ -1,0 +1,126 @@
+# Current students. Publication summaries retain the existing homepage scope.
+# Only honors earned during graduate study belong here.
+# CAST years and Shixi Qin's scholarship were confirmed by the user on 2026-10-22.
+- id: boyu-han
+  name: 韩博宇
+  name_en: Boyu Han
+  degree: phd
+  url: https://boyuh.github.io/
+  photo: /images/students/boyu-han.jpg
+  photo_class: student-photo--boyu
+  publications: NeurIPS×2, CVPR×1
+  honors:
+    - year: "2026"
+      zh: 中国科协青年科技人才培育工程博士生专项计划
+      en: CAST Young Scientific and Technological Talent Development Program (Doctoral Students)
+      short_zh: 中国科协博士生专项
+      short_en: CAST Doctoral Program
+      kind: talent
+      featured: true
+      source: user-confirmed, 2026-10-22
+    - year: "2026"
+      zh: 中国科学院计算技术研究所所长优秀奖
+      en: Director Excellence Award, Institute of Computing Technology, CAS
+      short_zh: 计算所所长优秀奖
+      short_en: ICT Director Award
+      kind: award
+      source: https://boyuh.github.io/
+    - year: "2026"
+      zh: 中国科学院大学三好学生
+      en: Merit Student, University of Chinese Academy of Sciences
+      short_zh: 国科大三好学生
+      short_en: UCAS Merit Student
+      kind: merit
+      source: https://boyuh.github.io/
+- id: feiran-li
+  name: 李斐然
+  name_en: Feiran Li
+  degree: phd
+  url: https://ferry-li.github.io/
+  photo: /images/students/feiran-li.jpg
+  photo_class: student-photo--feiran
+  publications: ICML×2, CVPR×1
+  honors:
+    - year: "2026"
+      zh: 中国科协青年科技人才培育工程博士生专项计划
+      en: CAST Young Scientific and Technological Talent Development Program (Doctoral Students)
+      short_zh: 中国科协博士生专项
+      short_en: CAST Doctoral Program
+      kind: talent
+      featured: true
+      source: user-confirmed, 2026-10-22
+- id: cong-hua
+  name: 华聪
+  name_en: Cong Hua
+  degree: phd
+  url: https://huacong.github.io/
+  photo: /images/students/cong-hua.jpg
+  photo_class: student-photo--cong
+  publications: ICML×2
+  honors:
+    - year: "2025"
+      zh: 中国科协青年科技人才培育工程博士生专项计划
+      en: CAST Young Scientific and Technological Talent Development Program (Doctoral Students)
+      short_zh: 中国科协博士生专项
+      short_en: CAST Doctoral Program
+      kind: talent
+      featured: true
+      source: https://huacong.github.io/
+      note: Official current Chinese program name and year confirmed by the user, 2026-10-22.
+- id: shixi-qin
+  name: 秦世熙
+  name_en: Shixi Qin
+  degree: phd
+  url: https://scholar.google.com/citations?user=CKEQ7ncAAAAJ
+  photo: /images/students/shixi-qin.jpg
+  photo_source: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=CKEQ7ncAAAAJ&citpid=1
+  publications: ICML×2
+  honors:
+    - year: "2026"
+      zh: 国家奖学金
+      en: National Scholarship
+      kind: scholarship
+      featured: true
+      source: user-confirmed, 2026-10-22
+- id: ruochen-cui
+  name: 崔若晨
+  name_en: Ruochen Cui
+  degree: phd
+  url: https://dblp.org/pid/381/5172
+  initials: CR
+- id: yuhai-li
+  name: 李玉海
+  name_en: Yuhai Li
+  degree: phd
+  initials: YH
+- id: yujie-zhong
+  name: 钟玉洁
+  name_en: Yujie Zhong
+  degree: masters
+  initials: YJ
+- id: peng-li
+  name: 李鹏
+  name_en: Peng Li
+  degree: masters
+  initials: LP
+- id: duoyou-chen
+  name: 陈铎友
+  name_en: Duoyou Chen
+  degree: phd
+  photo: /images/students/duoyou-chen.png
+- id: bin-cui
+  name: 崔斌
+  name_en: Bin Cui
+  degree: phd
+  initials: CB
+- id: jia-chen
+  name: 陈嘉
+  name_en: Jia Chen
+  degree: masters
+  initials: CJ
+  publications: NeurIPS×1
+- id: jun-bao
+  name: 鲍俊
+  name_en: Jun Bao
+  degree: masters
+  initials: BJ

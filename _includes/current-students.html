@@ -1,0 +1,43 @@
+{% assign student_lang = include.lang | default: "en" %}
+<div class="student-roster">
+  {% for student in site.data.students %}
+  <article class="student-card" aria-labelledby="student-{{ student.id }}">
+    <div class="student-card__portrait">
+      {% if student.url %}<a class="collaborator-avatar-link" href="{{ student.url | escape }}" target="_blank" rel="noopener noreferrer" aria-label="{% if student_lang == 'zh' %}{{ student.name }}的学术主页{% else %}{{ student.name_en }} academic profile{% endif %}">{% endif %}
+      <div class="collaborator-avatar{% if student.photo %} collaborator-avatar--photo{% endif %}">
+        {% if student.photo %}<img class="student-photo {{ student.photo_class }}" src="{{ student.photo | relative_url }}" alt="{% if student_lang == 'zh' %}{{ student.name }}{% else %}{{ student.name_en }}{% endif %}" width="88" height="88" loading="lazy">{% else %}<span aria-hidden="true">{{ student.initials }}</span>{% endif %}
+      </div>
+      {% if student.url %}</a>{% endif %}
+    </div>
+    <div class="student-card__content">
+    <div class="student-card__header">
+      <div class="student-card__identity">
+        <h3 class="student-card__name" id="student-{{ student.id }}">{% if student.url %}<a href="{{ student.url | escape }}" target="_blank" rel="noopener noreferrer">{{ student.name }}</a>{% else %}{{ student.name }}{% endif %}{% if student_lang == 'en' %}<span lang="en">{{ student.name_en }}</span>{% endif %}</h3>
+        <p class="student-card__role">{% if student.degree == 'phd' %}{% if student_lang == 'zh' %}博士研究生{% else %}Ph.D. Student{% endif %}{% else %}{% if student_lang == 'zh' %}硕士研究生{% else %}Master's Student{% endif %}{% endif %}</p>
+      </div>
+      {% if student.publications %}
+      {% assign publication_counts = student.publications | split: ',' %}
+      <ul class="student-card__papers" aria-label="{% if student_lang == 'zh' %}代表性论文：{% else %}Selected publications: {% endif %}{{ student.publications | escape }}">
+        {% for publication_count in publication_counts %}<li class="student-honor">{{ publication_count | strip | escape }}</li>{% endfor %}
+      </ul>
+      {% endif %}
+    </div>
+    {% if student.honors.size > 0 %}
+    <ul class="student-card__honors" aria-label="{% if student_lang == 'zh' %}研究生阶段荣誉{% else %}Graduate honors{% endif %}">
+      {% for honor in student.honors limit:3 %}{% include student-honor.html honor=honor lang=student_lang %}{% endfor %}
+    </ul>
+    {% endif %}
+    {% if student.honors.size > 0 %}
+    <details class="student-card__more">
+      <summary>{% if student_lang == 'zh' %}荣誉详情{% else %}Honor details{% endif %}{% if student.honors.size > 3 %} <span>(+{{ student.honors.size | minus:3 }})</span>{% endif %}</summary>
+      <ul class="student-card__honor-details">
+        {% for honor in student.honors %}
+        <li><span class="student-card__detail-year">{{ honor.year | escape }}</span> {{ honor[student_lang] | escape }}</li>
+        {% endfor %}
+      </ul>
+    </details>
+    {% endif %}
+    </div>
+  </article>
+  {% endfor %}
+</div>

@@ -377,25 +377,11 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 # 🎓 学生指导
 
-## 在读及拟入学学生
+## 在读学生
 
 <p class="student-supervision-note">我参与共同指导以下学生。</p>
 
-<div class="collaborator-grid">
-  <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://boyuh.github.io/" target="_blank" rel="noopener noreferrer" aria-label="韩博宇个人主页"><div class="collaborator-avatar collaborator-avatar--photo"><img class="student-photo student-photo--boyu" src="/images/students/boyu-han.jpg" alt="韩博宇"></div></a><strong>韩博宇</strong><span>博士研究生</span><small>NeurIPS×2, CVPR×1</small></div>
-  <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://ferry-li.github.io/" target="_blank" rel="noopener noreferrer" aria-label="李斐然个人主页"><div class="collaborator-avatar collaborator-avatar--photo"><img class="student-photo student-photo--feiran" src="/images/students/feiran-li.jpg" alt="李斐然"></div></a><strong>李斐然</strong><span>博士研究生</span><small>ICML×2, CVPR×1</small></div>
-  <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://huacong.github.io/" target="_blank" rel="noopener noreferrer" aria-label="华聪个人主页"><div class="collaborator-avatar collaborator-avatar--photo"><img class="student-photo student-photo--cong" src="/images/students/cong-hua.jpg" alt="华聪"></div></a><strong>华聪</strong><span>博士研究生</span><small>ICML×2</small></div>
-  <!-- 秦世熙照片来源：https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=CKEQ7ncAAAAJ&citpid=1 -->
-  <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://scholar.google.com/citations?user=CKEQ7ncAAAAJ&hl=zh-CN" target="_blank" rel="noopener noreferrer" aria-label="秦世熙 Google Scholar 主页"><div class="collaborator-avatar collaborator-avatar--photo"><img class="student-photo" src="/images/students/shixi-qin.jpg" alt="秦世熙"></div></a><strong>秦世熙</strong><span>博士研究生</span><small>ICML×2</small></div>
-  <div class="collaborator-card"><a class="collaborator-avatar-link" href="https://dblp.org/pid/381/5172" target="_blank" rel="noopener noreferrer" aria-label="崔若晨 DBLP 主页"><div class="collaborator-avatar">CR</div></a><strong>崔若晨</strong><span>博士研究生</span></div>
-  <div class="collaborator-card"><div class="collaborator-avatar">YH</div><strong>李玉海</strong><span>博士研究生</span></div>
-  <div class="collaborator-card"><div class="collaborator-avatar">YJ</div><strong>钟玉洁</strong><span>硕士研究生</span></div>
-  <div class="collaborator-card"><div class="collaborator-avatar">LP</div><strong>李鹏</strong><span>硕士研究生</span></div>
-  <div class="collaborator-card"><div class="collaborator-avatar collaborator-avatar--photo"><img class="student-photo" src="/images/students/duoyou-chen.png" alt="陈铎友"></div><strong>陈铎友</strong><span>博士研究生</span></div>
-  <div class="collaborator-card"><div class="collaborator-avatar">CB</div><strong>崔斌</strong><span>博士研究生</span></div>
-  <div class="collaborator-card"><div class="collaborator-avatar">CJ</div><strong>陈嘉</strong><span>硕士研究生</span><small>NeurIPS×1</small></div>
-  <div class="collaborator-card"><div class="collaborator-avatar">BJ</div><strong>鲍俊</strong><span>硕士研究生</span></div>
-</div>
+{% include current-students.html lang="zh" %}
 
 ## 已毕业学生
 
