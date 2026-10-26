@@ -71,6 +71,21 @@ like a generic marketing landing page.
 - Journal papers retain conventional journal metadata, including journal name,
   volume, issue, pages, and publication date when available.
 
+## Academic Keywords
+
+- Choose community-standard, searchable task or subfield names at a moderate
+  level of specificity. Avoid umbrella disciplines, narrow implementation
+  details, and redundant synonyms. Do not force a fixed number of keywords.
+- Prefer terms used by independent papers that readers could search on Google
+  Scholar. If Scholar cannot be accessed, verify usage in primary publications
+  and do not claim that Scholar indexing was directly checked.
+- Do not use a paper's newly coined method, metric, or acronym as a field keyword
+  unless the user requests it or it has independently become established.
+  Popular terms must still accurately describe the paper.
+- These are editorial homepage tags, not replacements for official author
+  keywords. Use standard English search terms where useful on either language
+  page, and maintain the shared facts in `_data/preprints.yml`.
+
 ## Honors And Awards Ordering
 
 - In Honors and Awards / 荣誉与奖励, separate personal honors from competition

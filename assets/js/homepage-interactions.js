@@ -7,10 +7,19 @@
     "auc-ranking": isChinese ? "AUC 优化与排序学习" : "AUC & Ranking",
     "robust-imbalanced": isChinese ? "鲁棒学习与不平衡学习" : "Robust & Imbalanced Learning",
     "multimodal-learning": isChinese ? "多模态学习" : "Multimodal Learning",
-    "trustworthy-genai": isChinese ? "可信生成式人工智能" : "Trustworthy GenAI"
+    "trustworthy-genai": isChinese ? "可信生成式人工智能" : "Trustworthy GenAI",
+    "llm-evaluation-reasoning": isChinese ? "大模型评测与推理" : "LLM Evaluation & Reasoning"
   };
 
   var PUBLICATION_METADATA = {
+    "UtilityBench: Measuring Language Model Utility When Errors Have Different Costs": {
+      kind: "preprint",
+      topics: ["llm-evaluation-reasoning", "auc-ranking"]
+    },
+    "Compare to Correct: Pairwise-Guided Logit Adjustment for LLM Test-Time Scaling": {
+      kind: "preprint",
+      topics: ["llm-evaluation-reasoning", "auc-ranking"]
+    },
     "Pairwise AUC Optimization Needs Corrective Power: A Unified View": {
       kind: "conference",
       topics: ["auc-ranking"]
@@ -96,7 +105,7 @@
     slides: { label: "Slides", icon: "▤" },
     project: { label: "Project", icon: "↗" },
     website: { label: "Website", icon: "⌂" },
-    pdf: { label: "PDF", icon: "PDF" }
+    pdf: { label: "PDF", icon: "▤" }
   };
 
   var RESOURCE_ALIASES = {
@@ -171,8 +180,17 @@
 
       item.dataset.kind = metadata.kind;
       item.dataset.topics = metadata.topics.join(" ");
-      item.appendChild(makeTopicTags(metadata));
+      if (metadata.kind !== "preprint") item.appendChild(makeTopicTags(metadata));
     });
+
+    var emptyState = document.createElement("p");
+    emptyState.className = "publication-empty-state";
+    emptyState.setAttribute("role", "status");
+    emptyState.textContent = isChinese
+      ? "暂无符合此组合的论文，请调整类型或研究主题。"
+      : "No publications match these filters. Try another type or topic.";
+    emptyState.hidden = true;
+    if (controls) controls.insertAdjacentElement("afterend", emptyState);
 
     function applyFilters() {
       items.forEach(function (item) {
@@ -192,7 +210,7 @@
         heading.hidden = !hasVisibleItems;
         list.hidden = !hasVisibleItems;
       });
-
+      emptyState.hidden = items.some(function (item) { return !item.hidden; });
     }
 
     if (controls) {

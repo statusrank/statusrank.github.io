@@ -1,0 +1,33 @@
+# Primary sources checked 2026-10-26: the arXiv abstract and HTML pages below.
+# Keywords are editorial index terms based on the abstracts, not author keywords.
+- title: "UtilityBench: Measuring Language Model Utility When Errors Have Different Costs"
+  arxiv: "2610.25924"
+  year: 2026
+  authors:
+    - Qifeng Lei
+    - Zhiyong Yang
+    - Zitai Wang
+    - Shilong Bao
+    - Linchao Zhang
+    - Qianqian Xu
+    - Qingming Huang
+  keywords_en: ["LLM Benchmarks", "LLM Abstention"]
+  keywords_zh: ["LLM Benchmarks", "LLM Abstention"]
+  code: "https://github.com/LQF39466/UtilityBench"
+  dataset: "https://huggingface.co/datasets/leiqf/UtilityBench"
+  source: "https://arxiv.org/html/2610.25924v1"
+
+- title: "Compare to Correct: Pairwise-Guided Logit Adjustment for LLM Test-Time Scaling"
+  arxiv: "2610.18583"
+  year: 2026
+  authors:
+    - Cong Hua
+    - Qianqian Xu
+    - Zitai Wang
+    - Zhiyong Yang
+    - Shilong Bao
+    - Linchao Zhang
+    - Qingming Huang
+  keywords_en: ["LLM Reasoning", "Test-time Scaling", "Self-Consistency"]
+  keywords_zh: ["LLM Reasoning", "Test-time Scaling", "Self-Consistency"]
+  source: "https://arxiv.org/html/2610.18583v1"
