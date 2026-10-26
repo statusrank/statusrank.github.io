@@ -70,6 +70,10 @@ like a generic marketing landing page.
   styling.
 - Journal papers retain conventional journal metadata, including journal name,
   volume, issue, pages, and publication date when available.
+- Preprints reuse the standard publication-list structure and styling, including
+  borders, background, spacing, title hierarchy, and inline year/resources.
+  Do not give them a separate rounded card or tinted container. Keyword pills
+  use the existing publication-tag style.
 
 ## Academic Keywords
 

@@ -700,86 +700,8 @@
   margin-top: 0.48rem;
 }
 
-.publication-keywords {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  gap: 0.35rem 0.45rem;
-  margin-top: 0.7rem;
-  text-align: left;
-}
-
 .publication-catalog > #preprints {
   scroll-margin-top: 5rem;
-}
-
-.publication-keywords__label {
-  margin-right: 0.1rem;
-  color: var(--homepage-muted);
-  font-size: 0.85rem;
-  font-weight: 650;
-}
-
-.publication-keyword {
-  padding: 0.16rem 0.5rem;
-  border: 1px solid #dce1f4;
-  border-radius: 999px;
-  background: #f3f4fc;
-  color: #4e588a;
-  font-size: 0.85rem;
-  font-weight: 650;
-  line-height: 1.45;
-}
-
-.publication-catalog > .preprint-list {
-  overflow: hidden;
-  border: 1px solid #dce3f4;
-  border-radius: 14px;
-  background: #f9fbff;
-}
-
-.publication-catalog > .preprint-list > .preprint-entry {
-  padding: 1.05rem 1.2rem 1.1rem;
-  border-left: 0;
-}
-
-.publication-catalog > .preprint-list > .preprint-entry:last-child {
-  border-bottom: 0;
-}
-
-.preprint-entry__heading {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  align-items: baseline;
-  gap: 0.6rem 1rem;
-}
-
-.preprint-entry__year {
-  color: var(--homepage-muted);
-  font-size: var(--homepage-type-meta);
-  font-variant-numeric: tabular-nums;
-  font-weight: 650;
-}
-
-.preprint-entry__authors {
-  margin-top: 0.22rem;
-  font-size: var(--homepage-type-meta);
-  line-height: var(--homepage-line-body);
-}
-
-.preprint-entry__resources {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 0.35rem 0.45rem;
-  margin-top: 0.55rem;
-}
-
-.preprint-entry__identifier {
-  margin-right: 0.35rem;
-  color: var(--homepage-muted);
-  font-size: var(--homepage-type-control);
-  font-variant-numeric: tabular-nums;
 }
 
 .publication-empty-state {
@@ -788,34 +710,6 @@
   font-size: var(--homepage-type-meta);
 }
 
-@media (max-width: 767px) {
-  .publication-catalog > .preprint-list > .preprint-entry {
-    padding: 0.9rem;
-  }
-
-  .preprint-entry__heading {
-    gap: 0.6rem;
-  }
-
-  .publication-keywords__label {
-    flex: 0 0 100%;
-  }
-}
-
-html[data-theme="dark"] .publication-catalog > .preprint-list {
-  border-color: #2a3550;
-  background: #10182a;
-}
-
-html[data-theme="dark"] .publication-keyword {
-  border-color: #423c61;
-  background: #26213b;
-  color: #d4c9f4;
-}
-
-html[data-theme="dark"] .preprint-entry__year,
-html[data-theme="dark"] .preprint-entry__identifier,
-html[data-theme="dark"] .publication-keywords__label,
 html[data-theme="dark"] .publication-empty-state {
   color: #a6b2ca;
 }

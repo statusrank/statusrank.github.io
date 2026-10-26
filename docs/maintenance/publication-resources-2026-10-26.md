@@ -42,10 +42,11 @@ metadata is retained.
 
 ## Presentation and checks
 
-- Preserve the existing blue title hierarchy, violet emphasis, fonts, and
-  resource-button treatment. Group only the two preprints in one quiet bordered
-  list, with years aligned at the right, author lines, resource rows, and compact
-  keyword pills. Do not duplicate the keywords with general topic badges.
+- Preserve the existing publication-list structure, fonts, and resource-button
+  treatment. Following the user's layout correction, preprints have no separate
+  rounded border or tinted background. Put years and resources inline with the
+  citation, as in the other publications. Keyword pills reuse the existing
+  publication-tag style without duplicate general topic badges.
 - Keep topic/type filtering and the existing anchor IDs. Show a short empty
   result message when a filter combination has no matches.
 - Maintain bilingual preprint facts in `_data/preprints.yml` and render them

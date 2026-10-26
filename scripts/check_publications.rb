@@ -38,6 +38,10 @@ expected_titles = {
     language = page.start_with?("zh/") ? "zh" : "en"
     verify(entry.css(".publication-keyword").map(&:text) == data["keywords_#{language}"], "Keyword mismatch: #{page}")
     verify(entry.at_css(".preprint-entry__year").text == data["year"].to_s, "Wrong preprint year: #{page}")
+    verify(entry.at_css("a.publication-title").parent == entry, "Preprint title must use the standard list structure: #{page}")
+    verify(entry.at_css(".preprint-entry__citation").text.include?("arXiv:#{data['arxiv']}, #{data['year']}."), "Missing inline citation: #{page}")
+    verify(entry.css(".publication-keyword").all? { |tag| tag["class"].split.include?("publication-topic") }, "Keywords must share the existing tag style: #{page}")
+    verify(entry.at_css(".preprint-entry__heading, .preprint-entry__resources").nil?, "Preprints must not have a separate card layout: #{page}")
     %w[code dataset].each do |resource|
       links = entry.css(".resource-link--#{resource}")
       verify(links.length == (data[resource] ? 1 : 0), "Unexpected #{resource} resource: #{page}")

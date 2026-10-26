@@ -4,22 +4,16 @@
 {% for paper in site.data.preprints %}
   <li class="preprint-entry">
     <!-- Metadata and resources: {{ paper.source }}; checked 2026-10-26. -->
-    <div class="preprint-entry__heading">
-      <a class="publication-title" href="https://arxiv.org/abs/{{ paper.arxiv }}">{{ paper.title | escape }}</a>
-      <span class="preprint-entry__year">{{ paper.year }}</span>
-    </div>
-    <div class="preprint-entry__authors">{% for author in paper.authors %}{% if forloop.last %}and {% endif %}{% if author == "Shilong Bao" %}<strong>{{ author }}</strong>{% else %}{{ author | escape }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}.</div>
-    <div class="preprint-entry__resources">
-      <span class="preprint-entry__identifier">arXiv:{{ paper.arxiv }}</span>
-      <a class="resource-link resource-link--pdf" data-icon="▤" href="https://arxiv.org/pdf/{{ paper.arxiv }}" aria-label="{{ paper.title | escape }} PDF">PDF</a>
-      {% if paper.code %}<a class="resource-link resource-link--code" data-icon="&lt;/&gt;" href="{{ paper.code }}" aria-label="{{ paper.title | escape }} {% if preprint_is_zh %}代码{% else %}code{% endif %}">{% if preprint_is_zh %}代码{% else %}Code{% endif %}</a>{% endif %}
-      {% if paper.dataset %}<a class="resource-link resource-link--dataset" data-icon="↗" href="{{ paper.dataset }}" aria-label="{{ paper.title | escape }} {% if preprint_is_zh %}数据集{% else %}dataset{% endif %}">{% if preprint_is_zh %}数据集{% else %}Dataset{% endif %}</a>{% endif %}
-    </div>
-    <div class="publication-keywords" aria-label="{% if preprint_is_zh %}关键词{% else %}Keywords{% endif %}">
-      <span class="publication-keywords__label">{% if preprint_is_zh %}关键词{% else %}Keywords{% endif %}</span>
+    <a class="publication-title" href="https://arxiv.org/abs/{{ paper.arxiv }}">{{ paper.title | escape }}</a>
+    <span class="preprint-entry__authors">{% for author in paper.authors %}{% if forloop.last %}and {% endif %}{% if author == "Shilong Bao" %}<strong>{{ author }}</strong>{% else %}{{ author | escape }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}.</span>
+    <span class="preprint-entry__citation"><b>arXiv preprint</b>, arXiv:{{ paper.arxiv }}, <span class="preprint-entry__year">{{ paper.year }}</span>.</span>
+    <a class="resource-link resource-link--pdf" data-icon="▤" href="https://arxiv.org/pdf/{{ paper.arxiv }}" aria-label="{{ paper.title | escape }} PDF">PDF</a>
+    {% if paper.code %}<a class="resource-link resource-link--code" data-icon="&lt;/&gt;" href="{{ paper.code }}" aria-label="{{ paper.title | escape }} {% if preprint_is_zh %}代码{% else %}code{% endif %}">{% if preprint_is_zh %}代码{% else %}Code{% endif %}</a>{% endif %}
+    {% if paper.dataset %}<a class="resource-link resource-link--dataset" data-icon="↗" href="{{ paper.dataset }}" aria-label="{{ paper.title | escape }} {% if preprint_is_zh %}数据集{% else %}dataset{% endif %}">{% if preprint_is_zh %}数据集{% else %}Dataset{% endif %}</a>{% endif %}
+    <span class="publication-meta publication-keywords" aria-label="{% if preprint_is_zh %}关键词{% else %}Keywords{% endif %}">
       {% if preprint_is_zh %}{% assign keywords = paper.keywords_zh %}{% else %}{% assign keywords = paper.keywords_en %}{% endif %}
-      {% for keyword in keywords %}<span class="publication-keyword">{{ keyword | escape }}</span>{% endfor %}
-    </div>
+      {% for keyword in keywords %}<span class="publication-topic publication-keyword">{{ keyword | escape }}</span>{% endfor %}
+    </span>
   </li>
 {% endfor %}
 </ul>
