@@ -88,7 +88,6 @@ My research primarily focuses on machine learning and AI safety, with particular
 
 <!-- - *2024.06.08*: &nbsp;🎉🎉 One paper has been accepted by T-PAMI 2024. Congrats to all! -->
 <!-- - *2024.05.02*: &nbsp;🎉🎉 Three papers have been accepted by ICML 2024 (One is Spotlight). Congrats to all! -->
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
 # ✨ Highlight Papers
@@ -357,7 +356,7 @@ Qingdao University (QDU), Qingdao.
 
 # 💬 Invited Talks
 
-<!-- User-provided official conference visual; event details are verified against the official forum page linked below. -->
+{% comment %}User-provided official conference visual; see the forum page linked below.{% endcomment %}
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/CSIG2026学术新星.png' alt="Official visual for the Academic Rising Stars Forum at the CSIG Young Scientists Conference 2026" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -366,7 +365,7 @@ Qingdao University (QDU), Qingdao.
 **Abstract**: Large-scale pretraining gives visual, language, and audio encoders strong general-purpose representation capabilities, supporting multimodal fusion, visual representation enhancement, and conditional generation. Yet differences among pretraining objectives, representation granularity, and downstream requirements create adaptation challenges when these representations are transferred, combined, or reused. Centered on multimodal representation reconcilement learning, this talk examines how conflicts among representation signals can be identified and mitigated through optimization. It discusses modality competition in multimodal fusion, objective conflicts in pretrained visual representations, and the effect of text-encoder bias on generative fairness, showing why effective reuse requires downstream-oriented representation reconcilement and adaptation.
 </div></div>
 
-<!-- Image source: existing project-owned talk asset; conference page: https://mlnlp.org/mlnlp2025/ -->
+{% comment %}Image source: existing project-owned talk asset; conference page: https://mlnlp.org/mlnlp2025/{% endcomment %}
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLNLP 2025 · Large Model Safety</div><img src='/images/Talk_at_MLNLP_2025.png' alt="MLNLP 2025 invited talk visual" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -377,7 +376,7 @@ Qingdao University (QDU), Qingdao.
 </div>
 </div>
 
-<!-- Image source: existing project-owned talk asset; conference page: https://ccf.org.cn/ChinaMM2025/news_d_3177 -->
+{% comment %}Image source: existing project-owned talk asset; conference page: https://ccf.org.cn/ChinaMM2025/news_d_3177{% endcomment %}
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ChinaMM 2025 Special Forum 22 · Trustworthy Multimedia Learning</div><img src='/images/ChinaMM2025.png' alt="ChinaMM 2025 invited talk visual" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

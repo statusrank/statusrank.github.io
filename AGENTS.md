@@ -49,6 +49,11 @@ like a generic marketing landing page.
   it is longer. Fix broken Markdown links without changing their destinations.
 - When the user requests a change to only one language, change only that page
   unless they explicitly request cross-language updates.
+- Public homepage copy presents the current facts directly. Do not add update
+  notes such as “含本次录用”, editorial narration, placeholders, or engineering
+  and source-verification notes to published content. Keep factual statuses
+  such as “已录用” on a publication or “已结题” on a project. Keep maintenance
+  notes in non-rendered source, and check both generated homepages for leakage.
 
 ## Publication Citation Style
 

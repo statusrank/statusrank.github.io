@@ -15,7 +15,7 @@ profile_location: "中国·北京"
 
 <div class="about-copy about-copy--zh" markdown="1">
 
-包世龙，**中国科学院计算技术研究所助理研究员（联系邮箱：baoshilong@ict.ac.cn）**，中国网络空间安全学会（CCSS）人工智能安全治理专委会委员、中国人工智能学会（CAAI）因果与不确定性人工智能专委会委员，北京图象图形学学会（BSIG）青年工作委员会委员，博士毕业于中国科学院信息工程研究所，导师为[黄庆明教授](https://qmhuang-ucas.github.io/)（IEEE Fellow）、[许倩倩研究员](https://qianqianxu010.github.io/)，此外还长期与[操晓春教授](https://scst.sysu.edu.cn/teacher/CaoXiaochun)及[杨智勇助理教授](https://joshuaas.github.io/)合作开展研究。长期聚焦机器学习与人工智能安全研究，包括排序学习、多模态表征学习、生成模型安全、大模型攻防等。已在 IEEE TPAMI、NeurIPS、ICML 等 CCF-A 类期刊和会议发表或获录用论文 20 余篇，其中 IEEE TPAMI 10 篇（含本次录用，影响因子：20.4）。
+包世龙，**中国科学院计算技术研究所助理研究员（联系邮箱：baoshilong@ict.ac.cn）**，中国网络空间安全学会（CCSS）人工智能安全治理专委会委员、中国人工智能学会（CAAI）因果与不确定性人工智能专委会委员，北京图象图形学学会（BSIG）青年工作委员会委员，博士毕业于中国科学院信息工程研究所，导师为[黄庆明教授](https://qmhuang-ucas.github.io/)（IEEE Fellow）、[许倩倩研究员](https://qianqianxu010.github.io/)，此外还长期与[操晓春教授](https://scst.sysu.edu.cn/teacher/CaoXiaochun)及[杨智勇助理教授](https://joshuaas.github.io/)合作开展研究。长期聚焦机器学习与人工智能安全研究，包括排序学习、多模态表征学习、生成模型安全、大模型攻防等。已在 IEEE TPAMI、NeurIPS、ICML 等 CCF-A 类期刊和会议发表或获录用论文 20 余篇，其中 IEEE TPAMI 10 篇（影响因子：20.4）。
 
 先后入选/获得2026年度中国图学学会青年人才托举激励计划（全国共4人）、2025年度ACM China优秀博士学位论文奖提名（全国共5人）、北京市科协2025年度“高创计划”青年人才托举工程、2025年度ACM China SIGMM优秀博士学位论文奖（共3篇）、2025年度中国科学院优秀博士学位论文（中科院全学科100篇）、2024年度北京图象图形学学会优秀博士学位论文奖（京津冀5篇），获ICCV/CVPR/ECCV等CCF-A类国际会议竞赛冠军7项。先后主持国家自然科学基金青年基金C类、中国博士后科学基金面上项目、中国科学院特别研究助理资助项目、中国博士后科学基金会国家资助博士后研究人员计划项目；担任模式识别领域国际知名学术期刊《Pattern Recognition》（PR）副主编（Associate Editor，AE）、机器学习领域国际学术期刊《Transactions on Machine Learning Research》（TMLR）责任编辑（Action Editor），以及ICLR等CCF-A类国际顶级学术会议的领域主席（Area Chair）。
 
@@ -330,7 +330,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 # 💬 学术报告
 
-<!-- User-provided official conference visual; event details are verified against the official forum page linked below. -->
+{% comment %}User-provided official conference visual; see the forum page linked below.{% endcomment %}
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/CSIG2026学术新星.png' alt="中国图象图形学学会青年科学家会议 2026 学术新星论坛官方视觉" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -339,7 +339,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 **摘要**：大规模预训练赋予视觉、语言、音频等模态编码器较强的通用表征能力，使预训练表征成为多模态融合、视觉表征增强与条件生成等任务的重要基础。然而，预训练目标、表征粒度与任务需求之间的差异，使其在迁移、组合与复用时仍面临若干适配挑战。本报告围绕“多模态表征调和学习”展开，结合我们近期在多模态学习、视觉表征增强与条件图像生成方面的研究，探讨如何从优化机制层面识别并缓解表征信号间的不一致冲突。报告重点分析多模态融合中的模态竞争、预训练视觉表征中的目标冲突，以及文本编码器偏差对生成公平性的影响，旨在说明预训练表征的有效复用不仅依赖模型与数据规模，也依赖面向下游任务的表征调和与适配。
 </div></div>
 
-<!-- Image source: existing project-owned talk asset; conference page: https://mlnlp.org/mlnlp2025/ -->
+{% comment %}Image source: existing project-owned talk asset; conference page: https://mlnlp.org/mlnlp2025/{% endcomment %}
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLNLP 2025：大模型安全</div><img src='/images/Talk_at_MLNLP_2025.png' alt="MLNLP 2025 报告" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -348,7 +348,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 **摘要**：生成式人工智能正在重塑数字内容创作，但模型生成有害内容的能力仍阻碍其进入真实应用。报告从三条路径概述团队在无害生成方面的初步探索：通过定向模型遗忘降低有害内容输出，借助轻量级公平性干预缓解生成偏差，并利用后门脆弱性分析为稳健防御提供依据。实验结果表明，这些方法在尽量保持模型效用的同时取得了积极效果，也为后续研究提供了方向。
 </div></div>
 
-<!-- Image source: existing project-owned talk asset; conference page: https://ccf.org.cn/ChinaMM2025/news_d_3177 -->
+{% comment %}Image source: existing project-owned talk asset; conference page: https://ccf.org.cn/ChinaMM2025/news_d_3177{% endcomment %}
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ChinaMM 2025 专题论坛 22：可信多媒体学习</div><img src='/images/ChinaMM2025.png' alt="ChinaMM 2025 报告" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -377,7 +377,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 
 *2020.02—至今*: &nbsp; 作为核心成员参与 [XCurve：面向决策不变指标的机器学习](https://github.com/statusrank/XCurve)。
 
-<!-- Description condensed from user-provided Chinese project text. -->
+{% comment %}Description condensed from user-provided Chinese project text.{% endcomment %}
 风险监测对模型漏检较为敏感，且监管标准与决策需求会因应用领域和时间变化而动态调整，导致固定阈值模型难以适应不同决策条件。受心理物理学中的决策偏差理论启发，XCurve 提出决策不变泛化推理优化框架：将性能指标随决策条件的变化表示为 X 曲线，以曲线下夹面积构造决策不变量，并通过显式优化该不变量，使模型由单一决策条件下的指标优化转向复合决策条件优化，从而提高模型在不同决策条件下的推理泛化能力。
 </div></div>
 

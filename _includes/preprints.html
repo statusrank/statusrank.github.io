@@ -3,7 +3,6 @@
 <ul class="preprint-list" markdown="0">
 {% for paper in site.data.preprints %}
   <li class="preprint-entry">
-    <!-- Metadata and resources: {{ paper.source }}; checked 2026-10-26. -->
     <a class="publication-title" href="https://arxiv.org/abs/{{ paper.arxiv }}">{{ paper.title | escape }}</a>
     <span class="preprint-entry__authors">{% for author in paper.authors %}{% if forloop.last %}and {% endif %}{% if author == "Shilong Bao" %}<strong>{{ author }}</strong>{% else %}{{ author | escape }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}.</span>
     <span class="preprint-entry__citation"><b>arXiv preprint</b>, arXiv:{{ paper.arxiv }}, <span class="preprint-entry__year">{{ paper.year }}</span>.</span>
