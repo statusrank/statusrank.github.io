@@ -54,6 +54,7 @@ My research primarily focuses on machine learning and AI safety, with particular
 # 🔥 News
 <div class="news-scroll" markdown="1">
 
+- *2026.11*: &nbsp;🎉 One paper on balanced visual representation learning has been accepted by **T-PAMI**. Congratulations to Boyu Han!
 - *2026.10.17*: &nbsp;🎉 I currently serve on the **<font color='red'>AI Security Governance Committee</font>** of the China Cyber Security Society (CCSS) and the **<font color='red'>Young Professional Committee</font>** of the Beijing Society of Image and Graphics (BSIG).
 - *2026.10.12*: &nbsp;🎉 I was invited to serve as an **<font color='red'>Associate Editor</font>** for [Pattern Recognition](https://shop.elsevier.com/journals/pattern-recognition/0031-3203).
 - *2026.10.01*: &nbsp;🎉 I was invited to serve as an **<font color='red'>Action Editor</font>** for the journal Transactions on Machine Learning Research (TMLR).
@@ -199,6 +200,7 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 {% include preprints.html lang="en" %}
 
 ## 2026
+- <span class="publication-title publication-title--static">When AUC Meets Generative Reconstruction: A Unified Principle for Balanced Visual Representation Learning</span> Boyu Han, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2026. (Accepted)
 - [Pairwise AUC Optimization Needs Corrective Power: A Unified View](https://arxiv.org/abs/2610.21743) Jia Chen, Zhiyong Yang, **Shilong Bao**, Qianqian Xu, and Qingming Huang. **NeurIPS**, 2026. \| [\[PDF\]](https://arxiv.org/pdf/2610.21743)
 - [Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Guiding_Diffusion-based_Reconstruction_with_Contrastive_Signals_for_Balanced_Visual_Representation_CVPR_2026_paper.html)  Boyu Han, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Ruochen Cui, Xilin Zhao, and Qingming Huang.  **CVPR**, pp. 2369–2380, 2026. \|[\[Code\]](https://github.com/boyuh/DCR)\|
 - [BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation](https://openaccess.thecvf.com/content/CVPR2026/html/Li_BlackMirror_Black-Box_Backdoor_Detection_for_Text-to-Image_Models_via_Instruction-Response_Deviation_CVPR_2026_paper.html)  Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Xilin Zhao, Xiaochun Cao, and Qingming Huang.  **CVPR**, pp. 30098–30109, 2026. \|[\[Code\]](https://github.com/Ferry-Li/BlackMirror)\|

@@ -8,7 +8,7 @@
   url: https://boyuh.github.io/
   photo: /images/students/boyu-han.jpg
   photo_class: student-photo--boyu
-  publications: NeurIPS×2, CVPR×1
+  publications: NeurIPS×2, CVPR×1, TPAMI×1
   honors:
     - year: "2026"
       zh: 中国科协青年科技人才培育工程博士生专项计划
@@ -49,6 +49,10 @@
       kind: talent
       featured: true
       source: user-confirmed, 2026-10-22
+    - zh: 中国科学院信息工程研究所所长优秀奖
+      en: Director Excellence Award, Institute of Information Engineering, CAS
+      kind: award
+      source: user-confirmed, 2026-11-09
 - id: cong-hua
   name: 华聪
   name_en: Cong Hua

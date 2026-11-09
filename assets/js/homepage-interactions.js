@@ -24,6 +24,10 @@
       kind: "conference",
       topics: ["auc-ranking"]
     },
+    "When AUC Meets Generative Reconstruction: A Unified Principle for Balanced Visual Representation Learning": {
+      kind: "journal",
+      topics: ["auc-ranking", "robust-imbalanced"]
+    },
     "Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation": {
       kind: "conference",
       topics: ["robust-imbalanced", "multimodal-learning"]
